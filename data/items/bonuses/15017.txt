@@ -1,0 +1,22 @@
+Attack Bonus
+0
+0
+0
+0
+0
+Defense Bonus
+9999
+9999
+9999
+9999
+9999
+9999
+Damage Absorption
+9999
+9999
+9999
+Other Bonuses
+0
+0
+9999
+0

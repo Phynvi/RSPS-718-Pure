@@ -1,0 +1,7038 @@
+//Man spawned by gummybear
+1 - 2871 5363 0
+//Barrel spawned by 
+8104 - 3806 3552 0
+//grim reaper DEATH TASK GUY
+8977 - 3503 3570 0
+//Kingly impling spawned by 
+7903 - 2237 3328 0
+//Kingly impling spawned by 
+7903 - 2244 3329 0
+//Kingly impling spawned by 
+7903 - 2243 3330 0
+//Kingly impling spawned by 
+7903 - 2243 3330 0
+//Kingly impling spawned by 
+7903 - 2243 3330 0
+//Kingly impling spawned by 
+7903 - 2243 3330 0
+//Kingly impling spawned by 
+7903 - 2243 3330 0
+//Kingly impling spawned by 
+7903 - 2243 3330 0
+//Kingly impling spawned by 
+7903 - 2243 3330 0
+//Kingly impling spawned by 
+7903 - 2243 3330 0
+//Kingly impling spawned by 
+7903 - 2243 3330 0
+//Kingly impling spawned by 
+7903 - 2243 3330 0
+//Kingly impling spawned by 
+7903 - 2243 3330 0
+//Kingly impling spawned by 
+7903 - 2243 3330 0
+//Kingly impling spawned by 
+7903 - 2243 3330 0
+//Kingly impling spawned by 
+7903 - 2243 3330 0
+//Kingly impling spawned by 
+7903 - 2243 3330 0
+//Kingly impling spawned by 
+7903 - 2243 3330 0
+//Kingly impling spawned by 
+7903 - 2243 3330 0
+//Kingly impling spawned by 
+7903 - 2243 3330 0
+//Commander Zilyana spawned by 
+6247 - 2868 5203 0
+//Commander Zilyana spawned by 
+6247 - 2868 5203 0
+//Commander Zilyana spawned by 
+6247 - 2868 5203 0
+//Commander Zilyana spawned by 
+6247 - 2868 5203 0
+//Commander Zilyana spawned by 
+6247 - 2868 5203 0
+//Commander Zilyana spawned by 
+6247 - 2868 5203 0
+//Commander Zilyana spawned by 
+6247 - 2869 5203 0
+//Commander Zilyana spawned by 
+6247 - 2869 5203 0
+//Commander Zilyana spawned by 
+6247 - 2869 5203 0
+//Commander Zilyana spawned by 
+6247 - 2869 5203 0
+//Commander Zilyana spawned by 
+6247 - 2869 5203 0
+//Commander Zilyana spawned by 
+6247 - 2869 5203 0
+//Commander Zilyana spawned by 
+6247 - 2869 5203 0
+//Commander Zilyana spawned by 
+6247 - 2869 5203 0
+//Commander Zilyana spawned by 
+6247 - 2869 5203 0
+//Commander Zilyana spawned by 
+6247 - 2869 5203 0
+//Commander Zilyana spawned by 
+6247 - 2869 5203 0
+//Commander Zilyana spawned by 
+6247 - 2869 5203 0
+//Commander Zilyana spawned by 
+6247 - 2869 5203 0
+//Commander Zilyana spawned by 
+6247 - 2869 5203 0
+//Commander Zilyana spawned by 
+6247 - 2869 5203 0
+//Commander Zilyana spawned by 
+6247 - 2869 5203 0
+//Nex spawned by 
+13450 - 2866 5213 0
+//General Graardor spawned by 
+6260 - 2878 5211 0
+//General Graardor spawned by 
+6260 - 2878 5211 0
+//General Graardor spawned by 
+6260 - 2878 5211 0
+//General Graardor spawned by 
+6260 - 2878 5211 0
+//General Graardor spawned by 
+6260 - 2878 5211 0
+//General Graardor spawned by 
+6260 - 2878 5211 0
+//General Graardor spawned by 
+6260 - 2878 5211 0
+//General Graardor spawned by 
+6260 - 2878 5211 0
+//General Graardor spawned by 
+6260 - 2878 5211 0
+//General Graardor spawned by 
+6260 - 2878 5211 0
+//General Graardor spawned by 
+6260 - 2878 5211 0
+//General Graardor spawned by 
+6260 - 2878 5211 0
+//General Graardor spawned by 
+6260 - 2878 5211 0
+//General Graardor spawned by 
+6260 - 2878 5211 0
+//General Graardor spawned by 
+6260 - 2878 5211 0
+//General Graardor spawned by 
+6260 - 2878 5211 0
+//General Graardor spawned by 
+6260 - 2878 5211 0
+//General Graardor spawned by 
+6260 - 2878 5211 0
+//General Graardor spawned by 
+6260 - 2878 5211 0
+//General Graardor spawned by 
+6260 - 2878 5211 0
+//General Graardor spawned by 
+6260 - 2878 5211 0
+//General Graardor spawned by 
+6260 - 2878 5211 0
+//General Graardor spawned by 
+6260 - 2878 5211 0
+//General Graardor spawned by 
+6260 - 2878 5211 0
+//General Graardor spawned by 
+6260 - 2878 5211 0
+//General Graardor spawned by 
+6260 - 2878 5211 0
+//General Graardor spawned by 
+6260 - 2878 5211 0
+//General Graardor spawned by 
+6260 - 2878 5211 0
+//General Graardor spawned by 
+6260 - 2878 5210 0
+//General Graardor spawned by 
+6260 - 2878 5210 0
+//General Graardor spawned by 
+6260 - 2878 5210 0
+//General Graardor spawned by 
+6260 - 2878 5210 0
+//General Graardor spawned by 
+6260 - 2878 5210 0
+//General Graardor spawned by 
+6260 - 2878 5210 0
+//General Graardor spawned by 
+6260 - 2878 5210 0
+//General Graardor spawned by 
+6260 - 2878 5210 0
+//Blink spawned by 
+12865 - 2854 5221 0
+//Blink spawned by 
+12866 - 2854 5219 0
+//Blink spawned by 
+12867 - 2855 5219 0
+//Blink spawned by 
+12879 - 2856 5219 0
+//Blink spawned by 
+12867 - 2857 5219 0
+//Blink spawned by 
+12868 - 2858 5219 0
+//Blink spawned by 
+12869 - 2859 5219 0
+//Blink spawned by 
+12870 - 2855 5221 0
+//Blink spawned by 
+12871 - 2856 5221 0
+//Blink spawned by 
+12872 - 2857 5221 0
+//Blink spawned by 
+12873 - 2856 5220 0
+//Blink spawned by 
+12874 - 2857 5220 0
+//Blink spawned by 
+12875 - 2858 5220 0
+//Blink spawned by 
+12876 - 2856 5220 0
+//Blink spawned by 
+12878 - 2857 5220 0
+//Blink spawned by 
+12878 - 2854 5220 0
+//Blink spawned by 
+12878 - 2854 5220 0
+//Blink spawned by 
+12878 - 2854 5220 0
+//Blink spawned by 
+12878 - 2854 5220 0
+//Blink spawned by 
+12878 - 2854 5220 0
+//Blink spawned by 
+12878 - 2854 5220 0
+//Blink spawned by 
+12878 - 2854 5220 0
+//Blink spawned by 
+12878 - 2854 5220 0
+//Blink spawned by 
+12878 - 2854 5220 0
+//Blink spawned by 
+12878 - 2854 5220 0
+//Blink spawned by 
+12878 - 2854 5220 0
+//Blink spawned by 
+12878 - 2854 5220 0
+//Blink spawned by 
+12878 - 2854 5220 0
+//Blink spawned by 
+12878 - 2854 5220 0
+//Blink spawned by 
+12878 - 2854 5220 0
+//Blink spawned by 
+12878 - 2854 5220 0
+//Blink spawned by 
+12878 - 2854 5220 0
+//Blink spawned by 
+12878 - 2854 5220 0
+//Blink spawned by 
+12878 - 2854 5220 0
+//Blink spawned by 
+12878 - 2854 5220 0
+//Blink spawned by 
+12878 - 2854 5220 0
+//Blink spawned by 
+12878 - 2854 5220 0
+//Blink spawned by 
+12878 - 2854 5220 0
+//Blink spawned by 
+12878 - 2854 5220 0
+//Blink spawned by 
+12878 - 2854 5220 0
+//Blink spawned by 
+12878 - 2854 5220 0
+//Blink spawned by 
+12878 - 2854 5220 0
+//Blink spawned by 
+12878 - 2854 5220 0
+//Blink spawned by 
+12878 - 2854 5220 0
+//Blink spawned by 
+12878 - 2854 5220 0
+//Blink spawned by 
+12878 - 2854 5220 0
+//Blink spawned by 
+12878 - 2854 5220 0
+//Blink spawned by 
+12878 - 2854 5220 0
+//Blink spawned by 
+12878 - 2854 5220 0
+//Blink spawned by 
+12878 - 2854 5220 0
+//Blink spawned by 
+12878 - 2854 5220 0
+//Blink spawned by 
+12878 - 2854 5220 0
+//Blink spawned by 
+12878 - 2854 5220 0
+//Blink spawned by 
+12878 - 2854 5220 0
+//Blink spawned by 
+12878 - 2854 5220 0
+//Blink spawned by 
+12878 - 2854 5220 0
+//Blink spawned by 
+12878 - 2854 5220 0
+//Blink spawned by 
+12878 - 2854 5220 0
+//Blink spawned by 
+12878 - 2854 5220 0
+//Blink spawned by 
+12878 - 2854 5220 0
+//Blink spawned by 
+12878 - 2854 5220 0
+//Blink spawned by 
+12878 - 2854 5220 0
+//Blink spawned by 
+12878 - 2854 5220 0
+//Blink spawned by 
+12878 - 2854 5220 0
+//Blink spawned by 
+12878 - 2854 5220 0
+//Blink spawned by 
+12878 - 2854 5220 0
+//Blink spawned by 
+12878 - 2854 5220 0
+//Blink spawned by 
+12878 - 2854 5220 0
+//Blink spawned by 
+12878 - 2854 5220 0
+//Blink spawned by 
+12878 - 2854 5220 0
+//Blink spawned by 
+12878 - 2855 5220 0
+//Blink spawned by 
+12878 - 2855 5220 0
+//Blink spawned by 
+12878 - 2855 5220 0
+//Blink spawned by 
+12878 - 2855 5220 0
+//Blink spawned by 
+12878 - 2855 5220 0
+//Blink spawned by 
+12878 - 2855 5220 0
+//Blink spawned by 
+12878 - 2855 5220 0
+//Blink spawned by 
+12878 - 2855 5220 0
+//Blink spawned by 
+12878 - 2855 5220 0
+//Blink spawned by 
+12878 - 2855 5220 0
+//Blink spawned by 
+12878 - 2855 5220 0
+//Blink spawned by 
+12878 - 2855 5220 0
+//Blink spawned by 
+12878 - 2855 5220 0
+//Blink spawned by 
+12878 - 2855 5220 0
+//Blink spawned by 
+12878 - 2855 5220 0
+//Blink spawned by 
+12878 - 2855 5220 0
+//Blink spawned by 
+12878 - 2855 5220 0
+//Blink spawned by 
+12878 - 2855 5220 0
+//Blink spawned by 
+12878 - 2855 5220 0
+//Blink spawned by 
+12878 - 2855 5220 0
+//Blink spawned by 
+12878 - 2855 5220 0
+//Blink spawned by 
+12878 - 2855 5220 0
+//Blink spawned by 
+12878 - 2855 5220 0
+//Blink spawned by 
+12878 - 2855 5220 0
+//Blink spawned by 
+12878 - 2855 5220 0
+//Blink spawned by 
+12878 - 2855 5220 0
+//Blink spawned by 
+12878 - 2855 5220 0
+//Blink spawned by 
+12878 - 2855 5220 0
+//Blink spawned by 
+12878 - 2855 5220 0
+//Blink spawned by 
+12878 - 2855 5220 0
+//Blink spawned by 
+12878 - 2855 5220 0
+//Blink spawned by 
+12878 - 2855 5220 0
+//Blink spawned by 
+12878 - 2855 5220 0
+//Blink spawned by 
+12878 - 2855 5220 0
+//Blink spawned by 
+12878 - 2855 5220 0
+//Blink spawned by 
+12878 - 2855 5220 0
+//Blink spawned by 
+12878 - 2855 5220 0
+//Blink spawned by 
+12878 - 2856 5220 0
+//Blink spawned by 
+12878 - 2856 5220 0
+//Blink spawned by 
+12878 - 2856 5220 0
+//Blink spawned by 
+12878 - 2856 5220 0
+//Blink spawned by 
+12878 - 2856 5220 0
+//Blink spawned by 
+12878 - 2856 5220 0
+//Blink spawned by 
+12878 - 2856 5220 0
+//Blink spawned by 
+12878 - 2856 5220 0
+//Blink spawned by 
+12878 - 2856 5220 0
+//Blink spawned by 
+12878 - 2856 5220 0
+//Blink spawned by 
+12878 - 2856 5220 0
+//Blink spawned by 
+12878 - 2856 5220 0
+//Blink spawned by 
+12878 - 2856 5220 0
+//Blink spawned by 
+12878 - 2856 5220 0
+//Blink spawned by 
+12878 - 2856 5220 0
+//Blink spawned by 
+12878 - 2856 5220 0
+//Blink spawned by 
+12878 - 2856 5220 0
+//Blink spawned by 
+12878 - 2856 5220 0
+//Blink spawned by 
+12878 - 2856 5220 0
+//Blink spawned by 
+12878 - 2856 5220 0
+//Blink spawned by 
+12878 - 2856 5220 0
+//Blink spawned by 
+12878 - 2856 5220 0
+//Blink spawned by 
+12878 - 2856 5220 0
+//Blink spawned by 
+12878 - 2856 5220 0
+//Blink spawned by 
+12878 - 2856 5220 0
+//Blink spawned by 
+12878 - 2856 5220 0
+//Barrel spawned by 
+8104 - 2269 3242 0
+//Barrel spawned by 
+8104 - 2612 3482 0
+//King Black Dragon spawned by 
+50 - 2560 2847 0
+//Man spawned by 
+1 - 2663 2638 0
+//Ellis spawned by 
+2824 - 2558 2844 0
+//Man spawned by 
+1 - 2555 2845 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1904 3161 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Kingly impling spawned by random
+7903 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Baby impling spawned by random
+1028 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4766 0
+//Bush spawned by random
+8105 - 1953 4764 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//Ninja impling spawned by random
+6053 - 1952 4765 0
+//null spawned by random
+-1 - 1953 4764 0
+//Bush spawned by random
+8105 - 2548 2826 0
+//Bush spawned by random
+8105 - 88 9059 0
+//Bush spawned by random
+8105 - 88 10339 0
+//Thormac spawned by 
+389 - 2701 3405 3
+//Rat spawned by 
+47 - 2492 3473 0
+//Gnome spawned by 
+67 - 2491 3473 0
+//Gnome woman spawned by 
+169 - 2486 3468 0
+//Gnome spawned by 
+67 - 2482 3470 0
+//Rasolo spawned by 
+1972 - 2531 3430 0
+//Almera spawned by 
+304 - 2522 3495 0
+//Guard spawned by 
+4260 - 2554 3480 0
+//Guard spawned by 
+4259 - 2556 3469 0
+//Goblin spawned by 
+4261 - 2557 3459 0
+//Guard spawned by 
+4258 - 2558 3457 0
+//Goblin spawned by 
+4265 - 2563 3445 0
+//Goblin spawned by 
+4274 - 2571 3449 0
+//Butterfly spawned by 
+153 - 2562 3448 0
+//Goblin spawned by 
+4263 - 2574 3455 0
+//Bush spawned by random
+8105 - 102 735 2
+//Bush spawned by random
+8105 - 2573 2811 0
+//Gnome spawned by 
+67 - 2481 3480 1
+//null spawned by 
+824 - 2483 3486 1
+//Barman spawned by 
+849 - 2482 3491 1
+//Barman spawned by 
+849 - 2480 3487 1
+//Heckel Funch spawned by 
+603 - 2490 3489 1
+//Gnome woman spawned by 
+168 - 2478 3488 1
+//Gnome spawned by 
+66 - 2476 3488 1
+//Gnome guard spawned by 
+163 - 2473 3496 1
+//Gnome spawned by 
+66 - 2482 3494 1
+//Gnome child spawned by 
+161 - 2483 3500 1
+//Gnome spawned by 
+67 - 2480 3501 1
+//Gnome spawned by 
+66 - 2480 3500 1
+//Gnome woman spawned by 
+169 - 2480 3504 1
+//Gnome child spawned by 
+159 - 2485 3502 1
+//Gnome spawned by 
+67 - 2490 3503 1
+//Rometti spawned by 
+601 - 2482 3510 1
+//Gnome spawned by 
+68 - 2473 3503 1
+//Gnome child spawned by 
+160 - 2474 3499 1
+//Gnome spawned by 
+67 - 2473 3495 1
+//Gnome guard spawned by 
+163 - 2467 3497 1
+//Gnome guard spawned by 
+164 - 2465 3497 1
+//Gnome spawned by 
+67 - 2457 3495 1
+//Gnome woman spawned by 
+168 - 2458 3489 1
+//Gnome spawned by 
+68 - 2456 3488 1
+//Gnome woman spawned by 
+169 - 2450 3488 1
+//Gnome woman spawned by 
+168 - 2449 3485 1
+//Gnome spawned by 
+66 - 2449 3492 1
+//Gnome spawned by 
+66 - 2448 3495 1
+//Gnome spawned by 
+67 - 2450 3496 1
+//Gnome spawned by 
+68 - 2449 3501 1
+//Gnome spawned by 
+67 - 2449 3505 1
+//Gnome Waiter spawned by 
+851 - 2450 3503 1
+//Aluft Gianne snr. spawned by 
+850 - 2451 3501 1
+//Gnome spawned by 
+67 - 2444 3502 1
+//Gnome Waiter spawned by 
+851 - 2447 3503 1
+//Hudo spawned by 
+600 - 2448 3509 1
+//Timble spawned by 
+4573 - 2442 3504 1
+//Gnome spawned by 
+68 - 2442 3503 1
+//Spang spawned by 
+4575 - 2439 3503 1
+//Gianne Jnr spawned by 
+4572 - 2439 3502 1
+//Perrdur spawned by 
+4587 - 2447 3501 1
+//Dalila spawned by 
+4588 - 2448 3500 1
+//null spawned by 
+4619 - 2465 3497 3
+//Gnome guard spawned by 
+164 - 2473 3496 2
+//Gnome guard spawned by 
+164 - 2479 3496 2
+//Gnome woman spawned by 
+168 - 2482 3497 2
+//Gnome guard spawned by 
+164 - 2483 3495 2
+//Gnome troop spawned by 
+479 - 2467 3497 2
+//Gnome guard spawned by 
+164 - 2464 3494 2
+//Gnome guard spawned by 
+163 - 2465 3497 2
+//Gnome woman spawned by 
+168 - 2467 3500 2
+//Gnome troop spawned by 
+480 - 2462 3503 2
+//Gnome guard spawned by 
+164 - 2466 3509 2
+//Gnome guard spawned by 
+163 - 2467 3510 2
+//Gnome troop spawned by 
+480 - 2464 3500 2
+//Gnome guard spawned by 
+164 - 2452 3496 2
+//Gnome guard spawned by 
+163 - 2449 3498 2
+//Gnome woman spawned by 
+168 - 2449 3494 2
+//Gnome spawned by 
+68 - 2464 3491 2
+//Gnome woman spawned by 
+168 - 2469 3487 2
+//Gulluck spawned by 
+602 - 2465 3487 2
+//null spawned by 
+4613 - 2465 3482 2
+//Gnome guard spawned by 
+163 - 2467 3481 2
+//Gnome guard spawned by 
+164 - 2463 3481 2
+//Gnome guard spawned by 
+163 - 2465 3480 2
+//King Narnode Shareen spawned by 
+670 - 2467 3498 0
+//null spawned by 
+4616 - 2465 3496 0
+//null spawned by 
+16604 - 2450 3480 1
+//null spawned by 
+16602 - 2450 3480 1
+//Trainer Nacklepen spawned by 
+3818 - 2420 3523 0
+//null spawned by 
+4622 - 2416 3529 0
+//Sarble spawned by 
+4599 - 2414 3518 0
+//Gnome spawned by 
+68 - 2430 3493 0
+//Butterfly spawned by 
+154 - 2423 3482 0
+//Gnome woman spawned by 
+169 - 2422 3483 0
+//Gnome woman spawned by 
+168 - 2424 3485 0
+//Gnome child spawned by 
+159 - 2416 3490 0
+//Gnome woman spawned by 
+168 - 2411 3492 0
+//Gnome child spawned by 
+159 - 2406 3497 0
+//Gnome troop spawned by 
+480 - 2406 3499 0
+//Gnome Coach spawned by 
+2802 - 2400 3498 0
+//Gnome woman spawned by 
+169 - 2398 3503 0
+//Gnome child spawned by 
+159 - 2393 3504 0
+//Gourmet impling spawned by 
+1030 - 2387 3515 0
+//Gnome woman spawned by 
+168 - 2384 3499 0
+//Gnome woman spawned by 
+168 - 2379 3494 0
+//Gnome woman spawned by 
+169 - 2383 3493 0
+//Gnome woman spawned by 
+168 - 2379 3487 0
+//Gnome woman spawned by 
+169 - 2377 3485 0
+//Musician spawned by 
+8702 - 2363 3492 0
+//null spawned by 
+3829 - 2365 3489 0
+//null spawned by 
+3828 - 2366 3485 0
+//Gnome troop spawned by 
+479 - 2380 3485 0
+//Gnome ball referee spawned by 
+635 - 2385 3488 0
+//Cheerleader spawned by 
+636 - 2395 3495 0
+//Cheerleader spawned by 
+636 - 2397 3495 0
+//Gnome child spawned by 
+159 - 2399 3509 0
+//Gnome woman spawned by 
+169 - 2402 3511 0
+//Gnome baller spawned by 
+621 - 2401 3493 0
+//Gnome baller spawned by 
+621 - 2402 3492 0
+//Gnome baller spawned by 
+621 - 2402 3490 0
+//Gnome baller spawned by 
+621 - 2400 3489 0
+//Gnome baller spawned by 
+621 - 2402 3486 0
+//Gnome baller spawned by 
+621 - 2400 3484 0
+//Gnome baller spawned by 
+625 - 2396 3487 0
+//Gnome baller spawned by 
+625 - 2395 3484 0
+//Gnome baller spawned by 
+625 - 2396 3491 0
+//Gnome winger spawned by 
+633 - 2395 3486 0
+//Gnome winger spawned by 
+633 - 2389 3494 0
+//Gnome baller spawned by 
+629 - 2391 3491 0
+//Gnome baller spawned by 
+629 - 2390 3486 0
+//Gnome baller spawned by 
+629 - 2393 3485 0
+//Gnome baller spawned by 
+625 - 2393 3488 0
+//Gnome woman spawned by 
+169 - 2408 3479 0
+//Gnome child spawned by 
+159 - 2390 3476 0
+//Gnome child spawned by 
+159 - 2394 3468 0
+//Gnome guard spawned by 
+163 - 2395 3451 0
+//Gnome guard spawned by 
+163 - 2407 3450 0
+//Gnome spawned by 
+67 - 2403 3446 0
+//Gnome spawned by 
+68 - 2395 3447 0
+//Gnome spawned by 
+66 - 2387 3450 0
+//Gnome spawned by 
+67 - 2405 3443 0
+//Gnome spawned by 
+66 - 2408 3438 0
+//Gnome spawned by 
+66 - 2410 3435 0
+//Gnome spawned by 
+66 - 2406 3436 0
+//Gnome spawned by 
+68 - 2405 3435 0
+//Gnome spawned by 
+68 - 2396 3434 0
+//Gnome spawned by 
+67 - 2400 3431 0
+//Butterfly spawned by 
+154 - 2398 3429 0
+//Gnome spawned by 
+67 - 2395 3430 0
+//Gnome spawned by 
+66 - 2401 3429 0
+//Gnome guard spawned by 
+163 - 2397 3433 0
+//Gnome spawned by 
+68 - 2394 3425 0
+//Gnome spawned by 
+68 - 2400 3426 0
+//Gnome spawned by 
+66 - 2405 3424 0
+//Gnome spawned by 
+66 - 2408 3422 0
+//Gnome spawned by 
+67 - 2397 3421 0
+//Gnome spawned by 
+68 - 2390 3428 0
+//Gnome spawned by 
+67 - 2383 3425 0
+//Terrorbird spawned by 
+139 - 2377 3425 0
+//Gnome spawned by 
+68 - 2375 3425 0
+//Butterfly spawned by 
+154 - 2381 3426 0
+//Terrorbird spawned by 
+1751 - 2381 3427 0
+//Terrorbird spawned by 
+138 - 2381 3430 0
+//Terrorbird spawned by 
+1751 - 2379 3430 0
+//Terrorbird spawned by 
+138 - 2382 3434 0
+//Mounted terrorbird gnome spawned by 
+1752 - 2375 3436 0
+//Gnome spawned by 
+67 - 2380 3438 0
+//Terrorbird spawned by 
+139 - 2381 3436 0
+//Gnome spawned by 
+67 - 2378 3441 0
+//Terrorbird spawned by 
+139 - 2375 3438 0
+//Gnome spawned by 
+66 - 2403 3415 0
+//Gnome guard spawned by 
+164 - 2407 3415 0
+//Hans spawned by 
+0 - 2492 2851 0
+//Mounted terrorbird gnome spawned by 
+1752 - 2408 3413 0
+//Gnome guard spawned by 
+163 - 2412 3416 0
+//Gnome spawned by 
+66 - 2413 3422 0
+//Butterfly spawned by 
+153 - 2414 3403 0
+//Mounted terrorbird gnome spawned by 
+1752 - 2412 3401 0
+//Gnome guard spawned by 
+164 - 2426 3408 0
+//Gnome guard spawned by 
+164 - 2421 3411 0
+//Gnome spawned by 
+66 - 2424 3419 0
+//Butterfly spawned by 
+153 - 2428 3409 0
+//Butterfly spawned by 
+153 - 2433 3405 0
+//Butterfly spawned by 
+154 - 2436 3405 0
+//Gnome guard spawned by 
+164 - 2430 3410 0
+//Gnome guard spawned by 
+163 - 2435 3408 0
+//Prissy Scilla spawned by 
+1037 - 2438 3418 0
+//Tool leprechaun spawned by 
+3021 - 2438 3415 0
+//Gnome woman spawned by 
+168 - 2443 3411 0
+//Gnome woman spawned by 
+169 - 2445 3407 0
+//Gnome woman spawned by 
+168 - 2437 3420 0
+//Terrorbird spawned by 
+139 - 2440 3424 0
+//Mounted terrorbird gnome spawned by 
+1752 - 2447 3422 0
+//Gnome woman spawned by 
+169 - 2449 3425 0
+//Gnome woman spawned by 
+169 - 2446 3428 0
+//Butterfly spawned by 
+153 - 2442 3425 0
+//Butterfly spawned by 
+153 - 2440 3423 0
+//Gnome woman spawned by 
+169 - 2440 3428 0
+//Gnome woman spawned by 
+168 - 2435 3430 0
+//Gnome woman spawned by 
+168 - 2423 3430 0
+//Gnome spawned by 
+66 - 2422 3438 0
+//Gnome spawned by 
+66 - 2425 3437 0
+//Gnome guard spawned by 
+164 - 2416 3447 0
+//Gnome spawned by 
+68 - 2418 3436 0
+//Gnome woman spawned by 
+168 - 2414 3433 0
+//Guard Vemmeldo spawned by 
+4600 - 2446 3422 1
+//Gnome guard spawned by 
+163 - 2446 3432 1
+//Mounted terrorbird gnome spawned by 
+1752 - 2441 3433 0
+//Gnome woman spawned by 
+168 - 2439 3447 0
+//Gnome woman spawned by 
+169 - 2438 3448 0
+//Gnome spawned by 
+66 - 2427 3448 0
+//Gnome spawned by 
+68 - 2419 3446 0
+//Gnome guard spawned by 
+164 - 2416 3456 0
+//Gnome spawned by 
+68 - 2429 3472 0
+//Gnome woman spawned by 
+168 - 2434 3465 0
+//Gnome spawned by 
+66 - 2436 3464 0
+//Gnome woman spawned by 
+168 - 2436 3464 0
+//Mounted terrorbird gnome spawned by 
+1752 - 2443 3459 0
+//Gnome spawned by 
+67 - 2449 3455 0
+//Gnome woman spawned by 
+169 - 2456 3457 0
+//Gnome spawned by 
+67 - 2456 3468 0
+//Gnome woman spawned by 
+168 - 2455 3465 0
+//Gnome spawned by 
+66 - 2457 3464 0
+//Gnome spawned by 
+67 - 2460 3463 0
+//Gnome spawned by 
+68 - 2461 3465 0
+//Mounted terrorbird gnome spawned by 
+1752 - 2464 3461 0
+//null spawned by 
+152 - 2457 3457 0
+//Gnome guard spawned by 
+164 - 2457 3461 0
+//Gnome spawned by 
+68 - 2440 3471 0
+//Gnome spawned by 
+66 - 2440 3465 0
+//Gnome woman spawned by 
+169 - 2431 3477 0
+//Bolongo spawned by 
+2343 - 2474 3446 0
+//Tool leprechaun spawned by 
+3021 - 2478 3445 0
+//Talent scout spawned by 
+14362 - 2477 3440 0
+//Gnome trainer spawned by 
+162 - 2480 3429 0
+//Gnome trainer spawned by 
+162 - 2484 3437 0
+//Gnome trainer spawned by 
+162 - 2485 3429 0
+//Gnome trainer spawned by 
+162 - 2483 3424 0
+//Gnome trainer spawned by 
+162 - 2486 3423 0
+//Gnome trainer spawned by 
+162 - 2478 3421 0
+//Gnome trainer spawned by 
+162 - 2470 3420 0
+//Gnome trainer spawned by 
+162 - 2473 3427 0
+//Gnome trainer spawned by 
+162 - 2472 3423 1
+//Gnome trainer spawned by 
+162 - 2475 3420 2
+//Ellis spawned by 
+2824 - 2558 2843 0
+//Gnome woman spawned by 
+168 - 2469 3450 0
+//Gnome woman spawned by 
+168 - 2470 3453 0
+//Gnome woman spawned by 
+169 - 2473 3458 0
+//Gnome spawned by 
+68 - 2479 3457 0
+//Gnome spawned by 
+67 - 2483 3464 0
+//Gnome spawned by 
+67 - 2474 3471 0
+//Gnome guard spawned by 
+163 - 2470 3469 0
+//Gnome guard spawned by 
+163 - 2467 3470 0
+//Gnome guard spawned by 
+164 - 2466 3468 0
+//Gnome guard spawned by 
+163 - 2464 3465 0
+//Gnome guard spawned by 
+164 - 2470 3464 0
+//Gnome spawned by 
+67 - 2463 3433 0
+//Gnome spawned by 
+68 - 2463 3437 0
+//Gnome guard spawned by 
+164 - 2459 3443 0
+//Gnome spawned by 
+67 - 2458 3419 0
+//Mounted terrorbird gnome spawned by 
+1752 - 2468 3412 0
+//Gnome woman spawned by 
+168 - 2468 3416 0
+//Gnome woman spawned by 
+168 - 2470 3406 0
+//Gnome woman spawned by 
+168 - 2472 3405 0
+//Gnome guard spawned by 
+163 - 2450 3415 0
+//Gnome guard spawned by 
+163 - 2458 3396 0
+//Gnome guard spawned by 
+164 - 2458 3395 0
+//Mounted terrorbird gnome spawned by 
+1752 - 2460 3392 0
+//Gnome guard spawned by 
+163 - 2459 3388 0
+//Gnome guard spawned by 
+164 - 2460 3385 0
+//Gnome guard spawned by 
+163 - 2463 3387 0
+//Gnome guard spawned by 
+163 - 2464 3394 0
+//Gnome woman spawned by 
+168 - 2467 3401 0
+//Gnome woman spawned by 
+168 - 2478 3400 0
+//Gnome spawned by 
+66 - 2478 3393 0
+//Gnome woman spawned by 
+168 - 2481 3399 0
+//Gnome woman spawned by 
+169 - 2483 3408 0
+//Mounted terrorbird gnome spawned by 
+1752 - 2480 3412 0
+//null spawned by 
+4613 - 2465 3475 0
+//Gnome woman spawned by 
+168 - 2469 3481 0
+//Gnome guard spawned by 
+163 - 2473 3481 0
+//Gnome guard spawned by 
+163 - 2477 3485 0
+//Gnome guard spawned by 
+163 - 2476 3489 0
+//Gnome woman spawned by 
+168 - 2478 3490 0
+//Gnome guard spawned by 
+163 - 2486 3491 0
+//Gnome guard spawned by 
+163 - 2484 3488 0
+//Gnome spawned by 
+67 - 2476 3496 0
+//Gnome spawned by 
+66 - 2476 3500 0
+//Gnome woman spawned by 
+169 - 2478 3503 0
+//Gnome guard spawned by 
+164 - 2482 3499 0
+//Gnome woman spawned by 
+169 - 2485 3505 0
+//Gnome guard spawned by 
+163 - 2483 3505 0
+//Gnome spawned by 
+66 - 2481 3506 0
+//Butterfly spawned by 
+155 - 2478 3506 0
+//Gnome spawned by 
+67 - 2471 3505 0
+//Gnome guard spawned by 
+163 - 2463 3505 0
+//Gnome woman spawned by 
+169 - 2461 3509 0
+//Gnome guard spawned by 
+163 - 2456 3504 0
+//Gnome woman spawned by 
+168 - 2456 3498 0
+//Gnome spawned by 
+66 - 2450 3502 0
+//Gnome guard spawned by 
+164 - 2451 3511 0
+//Gnome guard spawned by 
+163 - 2448 3511 0
+//Gnome woman spawned by 
+168 - 2448 3508 0
+//Terrorchick spawned by 
+137 - 2443 3502 0
+//Terrorchick spawned by 
+137 - 2440 3500 0
+//Spang spawned by 
+4575 - 2443 3501 0
+//Gnome spawned by 
+66 - 2443 3503 0
+//Tamble spawned by 
+4574 - 2444 3504 0
+//Gnome woman spawned by 
+169 - 2449 3492 0
+//Gnome guard spawned by 
+163 - 2450 3490 0
+//Gnome woman spawned by 
+169 - 2456 3491 0
+//Gnome woman spawned by 
+169 - 2448 3484 0
+//Gnome guard spawned by 
+164 - 2445 3486 0
+//Gnome guard spawned by 
+164 - 2453 3479 0
+//Gnome guard spawned by 
+164 - 2454 3487 0
+//Gnome spawned by 
+66 - 2454 3493 0
+//null spawned by 
+4625 - 2460 3385 0
+//Gnome guard spawned by 
+163 - 2459 3382 0
+//Femi spawned by 
+676 - 2458 3383 0
+//Gnome guard spawned by 
+164 - 2463 3382 0
+//Mounted terrorbird gnome spawned by 
+1752 - 2461 3377 0
+//Mounted terrorbird gnome spawned by 
+1752 - 2445 3360 0
+//Hobgoblin spawned by 
+13100 - 2443 3359 0
+//Hobgoblin spawned by 
+13246 - 2441 3359 0
+//Hobgoblin spawned by 
+13246 - 2443 3356 0
+//Hobgoblin spawned by 
+13100 - 2441 3354 0
+//Jorral spawned by 
+2932 - 2436 3348 0
+//Hobgoblin spawned by 
+13246 - 2447 3332 0
+//Hobgoblin spawned by 
+13246 - 2450 3332 0
+//Hobgoblin spawned by 
+13246 - 2440 3329 0
+//Guard spawned by 
+344 - 2519 3355 0
+//Guard spawned by 
+344 - 2516 3355 0
+//Guard spawned by 
+344 - 2524 3362 0
+//Guard spawned by 
+345 - 2530 3367 0
+//Guard spawned by 
+345 - 2526 3369 0
+//Guard spawned by 
+345 - 2520 3366 0
+//Guard spawned by 
+346 - 2512 3371 0
+//Guard spawned by 
+346 - 2520 3371 0
+//Guard spawned by 
+346 - 2505 3366 0
+//Guard spawned by 
+344 - 2509 3377 0
+//Guard spawned by 
+344 - 2510 3382 0
+//Shopkeeper spawned by 
+561 - 2513 3384 0
+//Guard spawned by 
+346 - 2524 3379 0
+//Guard spawned by 
+344 - 2524 3383 0
+//Guard spawned by 
+344 - 2521 3383 0
+//Ogre spawned by 
+2801 - 2524 3376 0
+//Ogre spawned by 
+2801 - 2526 3374 0
+//Ogre spawned by 
+2801 - 2528 3376 0
+//Ogre spawned by 
+2801 - 2528 3376 0
+//Ogre spawned by 
+2801 - 2529 3374 0
+//Ogre spawned by 
+2801 - 2532 3376 0
+//Ogre spawned by 
+2801 - 2532 3374 0
+//Ogre spawned by 
+2801 - 2526 3374 0
+//Chaos druid spawned by 
+181 - 2561 3356 0
+//Chaos druid spawned by 
+181 - 2561 3355 0
+//Chaos druid spawned by 
+181 - 2563 3355 0
+//Chaos druid spawned by 
+181 - 2563 3357 0
+//Gnome woman spawned by 
+169 - 2480 3407 1
+//Gnome woman spawned by 
+168 - 2475 3407 1
+//Mieliki Tapio spawned by 
+15752 - 2484 3392 1
+//Ermin spawned by 
+4592 - 2488 3409 1
+//Gnome troop spawned by 
+480 - 2460 3417 1
+//Gnome troop spawned by 
+480 - 2458 3416 1
+//Glough spawned by 
+671 - 2477 3463 1
+//Gnome spawned by 
+68 - 2449 3463 1
+//Gnome spawned by 
+67 - 2444 3462 1
+//Gnome spawned by 
+68 - 2436 3465 1
+//Gnome woman spawned by 
+169 - 2436 3463 1
+//Gnome woman spawned by 
+169 - 2421 3473 1
+//Burkor spawned by 
+4601 - 2419 3475 1
+//Gnome guard spawned by 
+163 - 2420 3469 1
+//Gnome guard spawned by 
+163 - 2418 3467 1
+//Gnome guard spawned by 
+163 - 2409 3470 1
+//Gnome woman spawned by 
+168 - 2414 3447 1
+//Gnome child spawned by 
+159 - 2415 3445 1
+//Gnome spawned by 
+67 - 2409 3437 1
+//Gnome child spawned by 
+161 - 2409 3436 1
+//Gnome troop spawned by 
+479 - 2417 3433 1
+//Gnome child spawned by 
+159 - 2415 3432 1
+//Gnome woman spawned by 
+169 - 2417 3434 1
+//Gnome woman spawned by 
+169 - 2423 3440 1
+//Gnome child spawned by 
+159 - 2424 3439 1
+//Gnome child spawned by 
+160 - 2423 3433 1
+//Gnome woman spawned by 
+169 - 2423 3423 1
+//Gnome woman spawned by 
+169 - 2415 3416 1
+//Eebel spawned by 
+4591 - 2417 3415 1
+//Gnome child spawned by 
+159 - 2419 3415 1
+//Froono spawned by 
+4602 - 2435 3403 1
+//Gnome spawned by 
+66 - 2417 3492 1
+//Gnome spawned by 
+66 - 2417 3494 1
+//Damwin spawned by 
+4584 - 2418 3495 1
+//Barman spawned by 
+849 - 2418 3498 1
+//Gnome spawned by 
+68 - 2417 3486 1
+//Gnome spawned by 
+67 - 2419 3484 1
+//Gnome spawned by 
+67 - 2397 3499 1
+//Gnome spawned by 
+68 - 2396 3514 1
+//Gnome woman spawned by 
+168 - 2397 3513 1
+//Anita spawned by 
+672 - 2390 3515 1
+//Gnome woman spawned by 
+169 - 2383 3508 1
+//Gnome spawned by 
+67 - 2383 3506 1
+//null spawned by 
+8271 - 2728 3368 0
+//Legends guard spawned by 
+398 - 2728 3349 0
+//Legends guard spawned by 
+399 - 2729 3349 0
+//null spawned by 
+7191 - 2714 3308 0
+//Holgart spawned by 
+700 - 2718 3302 0
+//null spawned by 
+4860 - 2721 3302 0
+//null spawned by 
+7163 - 2715 3301 0
+//null spawned by 
+4854 - 2709 3293 0
+//null spawned by 
+4857 - 2718 3293 0
+//null spawned by 
+4858 - 2718 3289 0
+//Ezekial Lovecraft spawned by 
+4856 - 2710 3277 0
+//null spawned by 
+4857 - 2710 3277 0
+//null spawned by 
+4855 - 2720 3283 0
+//null spawned by 
+4859 - 2728 3274 0
+//null spawned by 
+4858 - 2732 3285 0
+//null spawned by 
+7190 - 2732 3292 0
+//null spawned by 
+4859 - 2739 3305 0
+//null spawned by 
+4853 - 2740 3310 0
+//Chicken spawned by 
+41 - 2691 3274 0
+//Chicken spawned by 
+41 - 2694 3276 0
+//Chicken spawned by 
+1017 - 2691 3277 0
+//Chicken spawned by 
+1017 - 2693 3271 0
+//null spawned by 
+381 - 2675 3274 0
+//Warrior woman spawned by 
+15 - 2659 3331 0
+//null spawned by 
+4245 - 2664 3331 0
+//null spawned by 
+4244 - 2664 3329 0
+//null spawned by 
+15514 - 2663 3335 0
+//null spawned by 
+4238 - 2666 3335 0
+//null spawned by 
+4236 - 2666 3331 0
+//null spawned by 
+4242 - 2669 3329 0
+//null spawned by 
+4240 - 2671 3331 0
+//Tracker gnome 3 spawned by 
+483 - 2497 3238 0
+//Tracker gnome 2 spawned by 
+482 - 2523 3258 0
+//Tracker gnome 1 spawned by 
+481 - 2505 3264 0
+//Eniola spawned by 
+6362 - 3269 4855 0
+//Zamorak mage spawned by 
+15425 - 3313 4820 0
+//Cave lizard spawned by 
+6369 - 3306 4805 0
+//Zamorak ranger spawned by 
+6365 - 3305 4811 0
+//null spawned by 
+6371 - 3270 4843 0
+//Zamorak warrior spawned by 
+6364 - 3269 4838 0
+//Cave lizard spawned by 
+6369 - 3267 4838 0
+//Cave lizard spawned by 
+6369 - 3271 4832 0
+//Zamorak warrior spawned by 
+6363 - 3268 4832 0
+//Zamorak warrior spawned by 
+6363 - 3270 4818 0
+//Eniola spawned by 
+6362 - 3276 4809 0
+//Zamorak warrior spawned by 
+6364 - 3277 4809 0
+//Cave lizard spawned by 
+6369 - 3272 4806 0
+//Cave lizard spawned by 
+6369 - 3270 4815 0
+//Cave lizard spawned by 
+6369 - 3284 4809 0
+//Zamorak ranger spawned by 
+6365 - 3298 4812 0
+//null spawned by 
+6366 - 3293 4812 0
+//Zamorak ranger spawned by 
+6365 - 3287 4808 0
+//null spawned by 
+6366 - 3288 4805 0
+//null spawned by 
+6366 - 3271 4805 0
+//null spawned by 
+6366 - 3272 4816 0
+//Zamorak ranger spawned by 
+6365 - 3269 4823 0
+//null spawned by 
+6367 - 3269 4828 0
+//null spawned by 
+6367 - 3274 4809 0
+//null spawned by 
+6367 - 3286 4808 0
+//Zamorak mage spawned by 
+6368 - 3286 4808 0
+//Zamorak mage spawned by 
+6368 - 3267 4806 0
+//null spawned by 
+6372 - 3277 4809 0
+//Cave lizard spawned by 
+6369 - 2528 3371 0
+//Dwarf spawned by 
+65 - 2529 3370 0
+//Gnome spawned by 
+66 - 2528 3370 0
+//Gnome spawned by 
+68 - 2529 3370 0
+//Gnome guard spawned by 
+163 - 2530 3370 0
+//Gnome guard spawned by 
+163 - 2529 3370 0
+//Terrorbird spawned by 
+1751 - 2530 3370 0
+//Gnome banker spawned by 
+166 - 2448 3424 1
+//Gnome banker spawned by 
+166 - 2443 3423 1
+//Gnome banker spawned by 
+166 - 2443 3425 1
+//Gnome banker spawned by 
+166 - 2448 3427 1
+//Gnome banker spawned by 
+166 - 2448 3480 1
+//Gnome banker spawned by 
+166 - 2450 3480 1
+//Gnome banker spawned by 
+166 - 2440 3488 1
+//Gnome banker spawned by 
+166 - 2440 3487 1
+//Man spawned by 
+1 - 2561 2847 0
+//Bush spawned by random
+8105 - 2549 2800 0
+//Bush spawned by random
+8105 - 2634 10384 0
+//Dealga spawned by 
+11475 - 3206 3396 0
+//Rat spawned by 
+47 - 3149 3412 0
+//Philop spawned by 
+782 - 3150 3407 0
+//Mami Rimba spawned by 
+15234 - 3058 3517 0
+//Sheep spawned by 
+5163 - 3055 3513 0
+//Sheep spawned by 
+5162 - 3057 3512 0
+//Ram spawned by 
+5170 - 3051 3515 0
+//Sheep spawned by 
+5163 - 3049 3512 0
+//Scorpion spawned by 
+107 - 3062 3555 0
+//Scorpion spawned by 
+107 - 3059 3554 0
+//Scorpion spawned by 
+107 - 3057 3562 0
+//Scorpion spawned by 
+107 - 3047 3566 0
+//Scorpion spawned by 
+107 - 3056 3571 0
+//Scorpion spawned by 
+107 - 3065 3567 0
+//Scorpion spawned by 
+107 - 3071 3569 0
+//Skeleton spawned by 
+90 - 3026 3594 0
+//Skeleton spawned by 
+90 - 3022 3599 0
+//Skeleton spawned by 
+5332 - 3022 3594 0
+//Skeleton spawned by 
+5333 - 3016 3594 0
+//Skeleton spawned by 
+5334 - 3013 3592 0
+//Skeleton spawned by 
+90 - 3014 3597 0
+//Skeleton spawned by 
+5333 - 3022 3595 0
+//Skeleton spawned by 
+5334 - 3008 3592 0
+//Skeleton spawned by 
+5332 - 3015 3589 0
+//Skeleton spawned by 
+90 - 3010 3587 0
+//Skeleton spawned by 
+5333 - 3012 3592 0
+//Skeleton spawned by 
+5334 - 3014 3597 0
+//Skeleton spawned by 
+5333 - 3019 3598 0
+//null spawned by 
+2172 - 2962 3562 0
+//Dark wizard spawned by 
+172 - 2962 3562 0
+//Dark wizard spawned by 
+172 - 2954 3563 0
+//Dark wizard spawned by 
+174 - 2964 3568 0
+//Dark wizard spawned by 
+174 - 2958 3567 0
+//Dark wizard spawned by 
+174 - 2961 3570 0
+//Dark wizard spawned by 
+174 - 2954 3569 0
+//Dark wizard spawned by 
+174 - 2959 3572 0
+//Dark wizard spawned by 
+172 - 2966 3562 0
+//Dark warrior spawned by 
+192 - 3022 3628 0
+//Dark warrior spawned by 
+192 - 3023 3637 0
+//Dark warrior spawned by 
+192 - 3026 3638 0
+//Dark warrior spawned by 
+192 - 3031 3637 0
+//Dark warrior spawned by 
+192 - 3035 3633 0
+//Dark warrior spawned by 
+192 - 3035 3627 0
+//Dark warrior spawned by 
+192 - 3029 3626 0
+//Dark warrior spawned by 
+192 - 3034 3624 1
+//Dark warrior spawned by 
+192 - 3030 3627 1
+//Dark warrior spawned by 
+192 - 3020 3624 1
+//Dark warrior spawned by 
+192 - 3023 3631 1
+//Dark warrior spawned by 
+192 - 3023 3641 1
+//Dark warrior spawned by 
+192 - 3030 3637 1
+//Dark warrior spawned by 
+192 - 3035 3638 1
+//Dark warrior spawned by 
+192 - 3035 3632 1
+//Grizzly bear spawned by 
+105 - 2983 3666 0
+//Grizzly bear spawned by 
+105 - 2996 3677 0
+//Giant spider spawned by 
+59 - 2982 3675 0
+//Spider spawned by 
+61 - 2994 3679 0
+//Giant spider spawned by 
+59 - 2994 3683 0
+//Giant spider spawned by 
+59 - 2997 3681 0
+//Spider spawned by 
+61 - 2987 3682 0
+//Spider spawned by 
+61 - 2990 3687 0
+//Spider spawned by 
+61 - 2980 3679 0
+//Giant spider spawned by 
+59 - 2978 3684 0
+//Spider spawned by 
+61 - 2987 3689 0
+//Spider spawned by 
+61 - 2992 3692 0
+//Rat spawned by 
+47 - 2995 3694 0
+//Rat spawned by 
+47 - 2989 3694 0
+//Rat spawned by 
+47 - 2987 3697 0
+//Giant rat spawned by 
+86 - 2979 3698 0
+//Rat spawned by 
+47 - 2979 3697 0
+//Giant rat spawned by 
+86 - 2972 3696 0
+//Giant rat spawned by 
+86 - 2967 3693 0
+//Rat spawned by 
+47 - 2963 3704 0
+//Rat spawned by 
+47 - 2957 3703 0
+//Rat spawned by 
+47 - 2954 3698 0
+//Rat spawned by 
+47 - 2958 3698 0
+//Rat spawned by 
+47 - 2954 3707 0
+//Giant rat spawned by 
+4927 - 2963 3689 0
+//Giant rat spawned by 
+4926 - 2968 3687 0
+//Rat spawned by 
+47 - 2968 3690 0
+//Giant rat spawned by 
+4927 - 2972 3690 0
+//Rat spawned by 
+47 - 2971 3691 0
+//Rat spawned by 
+47 - 2974 3689 0
+//Spider spawned by 
+61 - 2972 3682 0
+//Ghost spawned by 
+103 - 2964 3746 0
+//Ghost spawned by 
+103 - 2987 3750 0
+//Ghost spawned by 
+103 - 2964 3752 0
+//Skeleton spawned by 
+92 - 2981 3748 0
+//Ghost spawned by 
+103 - 2987 3755 0
+//Ghost spawned by 
+103 - 2984 3762 0
+//Ghost spawned by 
+103 - 2981 3759 0
+//Skeleton spawned by 
+92 - 2979 3767 0
+//Ian spawned by 
+1779 - 2972 3766 0
+//Ghost spawned by 
+103 - 2969 3760 0
+//Ghost spawned by 
+103 - 2959 3762 0
+//Drunken musician spawned by 
+8715 - 3003 3739 0
+//Guard Bandit spawned by 
+196 - 3036 3654 0
+//Guard Bandit spawned by 
+196 - 3037 3660 0
+//Guard Bandit spawned by 
+196 - 3037 3665 0
+//Guard Bandit spawned by 
+196 - 3037 3667 0
+//Bandit spawned by 
+195 - 3035 3681 0
+//Bandit spawned by 
+195 - 3032 3684 0
+//Donny the Lad spawned by 
+203 - 3033 3690 0
+//Bandit spawned by 
+195 - 3032 3692 0
+//Speedy Keith spawned by 
+204 - 3031 3695 0
+//Bandit spawned by 
+195 - 3024 3697 0
+//Black Heather spawned by 
+202 - 3036 3700 0
+//Bandit spawned by 
+195 - 3040 3699 0
+//Noterazzo spawned by 
+597 - 3025 3701 0
+//Neil spawned by 
+1784 - 3026 3708 0
+//Giant rat spawned by 
+4927 - 3052 3696 0
+//Will o' the wisp spawned by 
+2266 - 3054 3696 0
+//Giant rat spawned by 
+86 - 3053 3690 0
+//Bandit spawned by 
+195 - 3042 3689 0
+//Chaos dwarf spawned by 
+119 - 3016 3768 0
+//Chaos dwarf spawned by 
+119 - 3020 3774 0
+//Chaos dwarf spawned by 
+119 - 3023 3752 0
+//Chaos dwarf spawned by 
+119 - 3025 3765 0
+//Hobgoblin spawned by 
+13100 - 3031 3774 0
+//Hobgoblin spawned by 
+13100 - 3031 3780 0
+//Hobgoblin spawned by 
+13100 - 3020 3783 0
+//Hobgoblin spawned by 
+13100 - 3020 3788 0
+//Hobgoblin spawned by 
+13100 - 3022 3790 0
+//Hobgoblin spawned by 
+13100 - 3008 3798 0
+//Hobgoblin spawned by 
+13100 - 3018 3803 0
+//Hobgoblin spawned by 
+13100 - 3026 3800 0
+//Hobgoblin spawned by 
+13100 - 3030 3795 0
+//Hobgoblin spawned by 
+13100 - 3037 3799 0
+//Hobgoblin spawned by 
+13100 - 3042 3795 0
+//Hobgoblin spawned by 
+13100 - 3042 3805 0
+//Hobgoblin spawned by 
+13100 - 3037 3810 0
+//Hobgoblin spawned by 
+13100 - 3033 3805 0
+//Hobgoblin spawned by 
+13100 - 3025 3813 0
+//Hobgoblin spawned by 
+13100 - 3020 3810 0
+//Hobgoblin spawned by 
+13100 - 3017 3820 0
+//Hobgoblin spawned by 
+13100 - 3022 3807 0
+//Hobgoblin spawned by 
+13100 - 3025 3808 0
+//Hobgoblin spawned by 
+13100 - 3025 3815 0
+//Hobgoblin spawned by 
+13100 - 3028 3818 0
+//Green dragon spawned by 
+4680 - 3086 3811 0
+//Green dragon spawned by 
+4679 - 3093 3811 0
+//Green dragon spawned by 
+4677 - 3107 3815 0
+//Green dragon spawned by 
+4678 - 3100 3824 0
+//Green dragon spawned by 
+941 - 3117 3824 0
+//Moss giant spawned by 
+4688 - 3139 3805 0
+//Moss giant spawned by 
+1587 - 3145 3805 0
+//Skeleton spawned by 
+92 - 3148 3801 0
+//Moss giant spawned by 
+1587 - 3139 3796 0
+//Skeleton spawned by 
+92 - 3143 3790 0
+//Moss giant spawned by 
+4688 - 3147 3786 0
+//William spawned by 
+1778 - 3146 3837 0
+//Red dragon spawned by 
+4670 - 3180 3852 0
+//Red dragon spawned by 
+4672 - 3191 3833 0
+//Red dragon spawned by 
+53 - 3215 3820 0
+//Red dragon spawned by 
+53 - 3217 3826 0
+//Ghostly piper spawned by 
+8713 - 3244 3821 0
+//Rogue spawned by 
+187 - 3278 3925 0
+//Rogue spawned by 
+187 - 3276 3930 0
+//Rogue spawned by 
+187 - 3276 3932 0
+//Rogue spawned by 
+187 - 3284 3928 0
+//Rogue spawned by 
+187 - 3287 3928 0
+//Rogue spawned by 
+187 - 3285 3931 0
+//Rogue spawned by 
+187 - 3282 3931 0
+//null spawned by 
+8123 - 3285 3940 0
+//Rogue spawned by 
+187 - 3278 3938 0
+//Rogue spawned by 
+187 - 3286 3930 1
+//Rogue spawned by 
+187 - 3290 3930 1
+//Rogue spawned by 
+187 - 3284 3939 2
+//Rogue spawned by 
+187 - 3287 3932 2
+//Rogue spawned by 
+187 - 3287 3929 2
+//Rogue spawned by 
+187 - 3289 3930 2
+//Rogue spawned by 
+187 - 3294 3933 2
+//Rogue spawned by 
+187 - 3295 3934 2
+//Rogue spawned by 
+187 - 3281 3938 3
+//Rogue spawned by 
+187 - 3279 3935 3
+//Chaos Elemental spawned by 
+3200 - 3258 3922 0
+//Man spawned by 
+1 - 2556 2845 0
+//Bush spawned by random
+8105 - 2543 2795 0
+//Bush spawned by random
+8105 - 2681 10419 0
+//Bush spawned by random
+8105 - 2545 2785 0
+//Man spawned by 
+1 - 2477 3437 0
+//Man spawned by 
+1 - 2478 3436 0
+//Bush spawned by random
+8105 - 2515 3463 0
+//Scorpion spawned by 
+107 - 3246 3951 0
+//Scorpion spawned by 
+107 - 3250 3949 0
+//Scorpion spawned by 
+107 - 3243 3946 0
+//Scorpion spawned by 
+107 - 3240 3943 0
+//Scorpion spawned by 
+107 - 3235 3946 0
+//Scorpion spawned by 
+107 - 3226 3945 0
+//Wolf spawned by 
+95 - 3219 3931 0
+//Wolf spawned by 
+95 - 3228 3924 0
+//Wolf spawned by 
+95 - 3234 3924 0
+//Wolf spawned by 
+95 - 3223 3917 0
+//Hellhound spawned by 
+49 - 3193 3926 0
+//Hellhound spawned by 
+49 - 3191 3914 0
+//Hellhound spawned by 
+49 - 3185 3916 0
+//Hellhound spawned by 
+49 - 3177 3932 0
+//Hellhound spawned by 
+49 - 3171 3908 0
+//Gundai spawned by 
+902 - 2533 4712 0
+//Lundail spawned by 
+903 - 2535 4716 0
+//Kolodion spawned by 
+905 - 2539 4715 0
+//Rogue spawned by 
+187 - 3077 3918 0
+//Rogue spawned by 
+187 - 3076 3910 0
+//Hill Giant spawned by 
+117 - 3045 10323 0
+//Hill Giant spawned by 
+4689 - 3046 10316 0
+//Hill Giant spawned by 
+4690 - 3042 10319 0
+//Hill Giant spawned by 
+4691 - 3045 10307 0
+//Hill Giant spawned by 
+4693 - 3042 10307 0
+//Hill Giant spawned by 
+4692 - 3047 10309 0
+//Chaos dwarf spawned by 
+119 - 3034 10309 0
+//Chaos dwarf spawned by 
+119 - 3028 10310 0
+//Chaos dwarf spawned by 
+119 - 3028 10307 0
+//Chaos dwarf spawned by 
+119 - 3032 10315 0
+//Shadow spider spawned by 
+58 - 3032 10345 0
+//Shadow spider spawned by 
+58 - 3027 10342 0
+//Shadow spider spawned by 
+58 - 3029 10339 0
+//Shadow spider spawned by 
+58 - 3024 10338 0
+//Shadow spider spawned by 
+58 - 3029 10337 0
+//Shadow spider spawned by 
+58 - 3029 10326 0
+//Shadow spider spawned by 
+58 - 3025 10327 0
+//Shadow spider spawned by 
+58 - 3020 10325 0
+//Shadow spider spawned by 
+58 - 3019 10312 0
+//Shadow spider spawned by 
+58 - 3016 10317 0
+//Shadow spider spawned by 
+58 - 3016 10323 0
+//Shadow spider spawned by 
+58 - 3025 10334 0
+//Shadow spider spawned by 
+58 - 3046 10340 0
+//Fire giant spawned by 
+1585 - 3053 10338 0
+//Fire giant spawned by 
+1586 - 3050 10337 0
+//Fire giant spawned by 
+110 - 3048 10337 0
+//Fire giant spawned by 
+1585 - 3047 10343 0
+//Fire giant spawned by 
+110 - 3050 10347 0
+//Talent scout spawned by 
+14362 - 3003 3932 0
+//White wolf spawned by 
+97 - 3003 3924 0
+//White wolf spawned by 
+97 - 3007 3926 0
+//White wolf spawned by 
+97 - 3007 3920 0
+//White wolf spawned by 
+97 - 3003 3918 0
+//White wolf spawned by 
+97 - 3000 3921 0
+//White wolf spawned by 
+97 - 3002 3924 0
+//White wolf spawned by 
+97 - 3004 3928 0
+//White wolf spawned by 
+97 - 3005 3919 0
+//White wolf spawned by 
+97 - 2994 3924 0
+//White wolf spawned by 
+97 - 2992 3921 0
+//White wolf spawned by 
+97 - 2987 3921 0
+//White wolf spawned by 
+97 - 2994 3928 0
+//Skeleton spawned by 
+92 - 2991 3942 0
+//Skeleton spawned by 
+5338 - 2989 3942 0
+//Skeleton spawned by 
+5340 - 2984 3947 0
+//Ice giant spawned by 
+4686 - 2980 3960 0
+//Ice warrior spawned by 
+125 - 2979 3954 0
+//Ice warrior spawned by 
+125 - 2969 3945 0
+//Ice warrior spawned by 
+125 - 2974 3934 0
+//Ice warrior spawned by 
+125 - 2981 3933 0
+//Ice warrior spawned by 
+125 - 2975 3925 0
+//Ice warrior spawned by 
+125 - 2980 3941 0
+//Ice warrior spawned by 
+125 - 2971 3950 0
+//Ice giant spawned by 
+4685 - 2958 3945 0
+//Ice giant spawned by 
+4685 - 2953 3933 0
+//Ice giant spawned by 
+111 - 2945 3922 0
+//Ice spider spawned by 
+64 - 2963 3913 0
+//Ice spider spawned by 
+64 - 2968 3924 0
+//Ice spider spawned by 
+64 - 2960 3918 0
+//Ice spider spawned by 
+64 - 2962 3924 0
+//Ice spider spawned by 
+64 - 2964 3925 0
+//Ice spider spawned by 
+64 - 2960 3929 0
+//Ice spider spawned by 
+64 - 2957 3930 0
+//Ice spider spawned by 
+64 - 2961 3935 0
+//Ice spider spawned by 
+64 - 2954 3922 0
+//Ice warrior spawned by 
+125 - 2952 3922 0
+//Ice warrior spawned by 
+125 - 2952 3911 0
+//Ice warrior spawned by 
+125 - 2950 3915 0
+//Ice warrior spawned by 
+125 - 2945 3921 0
+//Ice warrior spawned by 
+125 - 2950 3932 0
+//Ice warrior spawned by 
+125 - 2954 3932 0
+//Rat spawned by 
+47 - 3154 3634 0
+//Rat spawned by 
+47 - 3155 3630 0
+//Rat spawned by 
+47 - 3162 3632 0
+//Goblin musician spawned by 
+8712 - 3140 3642 0
+//Mounted terrorbird gnome spawned by 
+6110 - 2532 3248 0
+//Mounted terrorbird gnome spawned by 
+6111 - 2535 3242 0
+//Mounted terrorbird gnome spawned by 
+6109 - 2495 3228 0
+//Mounted terrorbird gnome spawned by 
+6111 - 2530 3216 0
+//Mounted terrorbird gnome spawned by 
+6109 - 2532 3209 0
+//Mounted terrorbird gnome spawned by 
+6110 - 2542 3212 0
+//Brother Kojo spawned by 
+223 - 2566 3244 0
+//null spawned by 
+2551 - 2559 3238 0
+//Gnome troop spawned by 
+2247 - 2537 3226 0
+//Gnome troop spawned by 
+2247 - 2532 3225 0
+//Gnome troop spawned by 
+2247 - 2524 3225 0
+//Gnome troop spawned by 
+2247 - 2516 3220 0
+//Gnome troop spawned by 
+2247 - 2520 3218 0
+//Gnome troop spawned by 
+2247 - 2524 3219 0
+//Gnome troop spawned by 
+2247 - 2511 3211 0
+//Gnome troop spawned by 
+2247 - 2511 3218 0
+//Gnome troop spawned by 
+2247 - 2515 3229 0
+//Gnome troop spawned by 
+2247 - 2536 3235 0
+//Gnome troop spawned by 
+2248 - 2538 3235 0
+//Gnome troop spawned by 
+2248 - 2534 3236 0
+//Gnome troop spawned by 
+2248 - 2524 3235 0
+//Gnome troop spawned by 
+2248 - 2520 3235 0
+//Gnome troop spawned by 
+2248 - 2516 3230 0
+//Gnome troop spawned by 
+2248 - 2503 3223 0
+//Gnome troop spawned by 
+2248 - 2509 3216 0
+//Gnome troop spawned by 
+2248 - 2515 3215 0
+//Gnome troop spawned by 
+2248 - 2521 3219 0
+//Gnome troop spawned by 
+2248 - 2525 3214 0
+//Gnome troop spawned by 
+2248 - 2531 3225 0
+//Gnome troop spawned by 
+2248 - 2534 3219 0
+//Gnome troop spawned by 
+2248 - 2544 3225 0
+//Gnome troop spawned by 
+2248 - 2554 3227 0
+//Gnome spawned by 
+2249 - 2553 3235 0
+//Gnome spawned by 
+2249 - 2550 3228 0
+//Gnome spawned by 
+2249 - 2538 3221 0
+//Gnome spawned by 
+2249 - 2527 3215 0
+//Gnome spawned by 
+2249 - 2518 3214 0
+//Gnome spawned by 
+2249 - 2510 3215 0
+//Gnome spawned by 
+2249 - 2515 3206 0
+//Gnome spawned by 
+2249 - 2523 3210 0
+//Gnome spawned by 
+2249 - 2533 3210 0
+//Gnome spawned by 
+2249 - 2526 3237 0
+//Gnome spawned by 
+2249 - 2532 3237 0
+//Gnome spawned by 
+2250 - 2530 3223 0
+//Gnome spawned by 
+2250 - 2533 3218 0
+//Gnome spawned by 
+2250 - 2540 3218 0
+//Gnome spawned by 
+2250 - 2545 3222 0
+//Gnome spawned by 
+2250 - 2545 3214 0
+//Gnome spawned by 
+2250 - 2549 3227 0
+//Gnome spawned by 
+2250 - 2557 3230 0
+//Gnome spawned by 
+2250 - 2540 3224 0
+//Gnome spawned by 
+2250 - 2534 3218 0
+//Gnome spawned by 
+2251 - 2519 3216 0
+//Gnome spawned by 
+2251 - 2511 3220 0
+//Gnome spawned by 
+2251 - 2515 3208 0
+//Gnome spawned by 
+2251 - 2519 3208 0
+//Gnome spawned by 
+2251 - 2534 3208 0
+//Gnome spawned by 
+2251 - 2541 3209 0
+//Gnome spawned by 
+2251 - 2535 3210 0
+//Gnome spawned by 
+2251 - 2528 3218 0
+//Gnome troop spawned by 
+2248 - 2527 3202 0
+//Gnome troop spawned by 
+2248 - 2524 3202 0
+//Gnome troop spawned by 
+2248 - 2527 3212 0
+//Gnome spawned by 
+2250 - 2533 3221 0
+//Gnome spawned by 
+2250 - 2531 3224 0
+//Gnome spawned by 
+2250 - 2529 3223 0
+//Gnome troop spawned by 
+2247 - 2533 3224 0
+//Gnome troop spawned by 
+2247 - 2531 3224 0
+//Gnome troop spawned by 
+2247 - 2525 3222 0
+//Khazard commander spawned by 
+478 - 2509 3256 0
+//Khazard trooper spawned by 
+2245 - 2511 3251 0
+//Khazard trooper spawned by 
+2245 - 2523 3249 0
+//Khazard trooper spawned by 
+2245 - 2526 3244 0
+//Khazard trooper spawned by 
+2245 - 2535 3242 0
+//Khazard trooper spawned by 
+2245 - 2539 3244 0
+//Khazard trooper spawned by 
+2245 - 2542 3255 0
+//Khazard trooper spawned by 
+2245 - 2547 3256 0
+//Khazard trooper spawned by 
+2245 - 2538 3241 0
+//Khazard trooper spawned by 
+2245 - 2524 3237 0
+//Khazard trooper spawned by 
+2245 - 2514 3236 0
+//Khazard trooper spawned by 
+2245 - 2510 3229 0
+//Khazard trooper spawned by 
+2245 - 2501 3234 0
+//Khazard trooper spawned by 
+2245 - 2502 3225 0
+//Khazard trooper spawned by 
+2245 - 2514 3219 0
+//Khazard trooper spawned by 
+2245 - 2519 3223 0
+//Khazard trooper spawned by 
+2245 - 2522 3227 0
+//Khazard trooper spawned by 
+2245 - 2516 3244 0
+//Khazard trooper spawned by 
+2245 - 2517 3260 0
+//Khazard trooper spawned by 
+2246 - 2517 3253 0
+//Khazard trooper spawned by 
+2246 - 2524 3247 0
+//Khazard trooper spawned by 
+2246 - 2525 3239 0
+//Khazard trooper spawned by 
+2246 - 2529 3239 0
+//Khazard trooper spawned by 
+2246 - 2538 3236 0
+//Khazard trooper spawned by 
+2246 - 2534 3236 0
+//Khazard trooper spawned by 
+2246 - 2519 3239 0
+//Khazard trooper spawned by 
+2246 - 2518 3233 0
+//Khazard trooper spawned by 
+2246 - 2515 3234 0
+//Khazard trooper spawned by 
+2246 - 2509 3231 0
+//Khazard trooper spawned by 
+2246 - 2501 3245 0
+//Khazard trooper spawned by 
+2246 - 2505 3261 0
+//Khazard trooper spawned by 
+2246 - 2515 3260 0
+//Khazard trooper spawned by 
+2246 - 2518 3247 0
+//Khazard trooper spawned by 
+2246 - 2514 3248 0
+//Khazard trooper spawned by 
+2246 - 2530 3237 0
+//Khazard trooper spawned by 
+2246 - 2533 3247 0
+//Khazard trooper spawned by 
+2246 - 2534 3260 0
+//Khazard trooper spawned by 
+2246 - 2530 3255 0
+//Tool leprechaun spawned by 
+3021 - 2491 3177 0
+//Gileth spawned by 
+2344 - 2490 3182 0
+//null spawned by 
+473 - 2505 3191 0
+//Musician spawned by 
+8706 - 2526 3096 0
+//Ogre spawned by 
+3451 - 2506 3108 0
+//Ogre spawned by 
+115 - 2505 3111 0
+//Ogre spawned by 
+3451 - 2505 3116 0
+//Ogre spawned by 
+8658 - 2507 3119 0
+//Og spawned by 
+853 - 2503 3119 0
+//Ogre spawned by 
+3419 - 2507 3098 0
+//Ogre spawned by 
+3451 - 2502 3099 0
+//Ogre spawned by 
+3451 - 2502 3097 0
+//Ogre spawned by 
+3419 - 2499 3096 0
+//Ogre spawned by 
+8658 - 2499 3091 0
+//Colonel Radick spawned by 
+878 - 2535 3092 0
+//Tower guard spawned by 
+877 - 2543 3089 0
+//Soldier spawned by 
+35 - 2540 3098 0
+//Soldier spawned by 
+35 - 2541 3092 0
+//Soldier spawned by 
+35 - 2545 3092 0
+//Soldier spawned by 
+35 - 2546 3087 0
+//Soldier spawned by 
+35 - 2546 3082 0
+//Soldier spawned by 
+35 - 2540 3085 0
+//Bert spawned by 
+3108 - 2551 3100 0
+//Leon spawned by 
+5111 - 2565 3084 0
+//null spawned by 
+5110 - 2565 3080 0
+//null spawned by 
+593 - 2567 3098 0
+//Tool leprechaun spawned by 
+7561 - 2573 3107 0
+//null spawned by 
+2332 - 2576 3101 0
+//Pet shop owner spawned by 
+6892 - 2578 3078 0
+//Dalmatian spawned by 
+6896 - 2574 3083 0
+//Bulldog spawned by 
+6897 - 2574 3082 0
+//Imp spawned by 
+708 - 2582 3108 0
+//null spawned by 
+6 - 2594 3100 0
+//Imp spawned by 
+708 - 2600 3102 0
+//Man spawned by 
+3 - 2595 3104 0
+//null spawned by 
+16874 - 2602 3103 0
+//Tramp spawned by 
+2794 - 2607 3102 0
+//Imp spawned by 
+708 - 2618 3106 0
+//Imp spawned by 
+708 - 2619 3110 0
+//Wizard Distentor spawned by 
+462 - 2594 3088 0
+//Professor Imblewyn spawned by 
+4586 - 2592 3087 0
+//Wizard spawned by 
+13 - 2588 3086 0
+//Wizard spawned by 
+13 - 2586 3088 0
+//Soldier spawned by 
+35 - 2599 3109 1
+//Soldier spawned by 
+35 - 2610 3108 1
+//Zavistic Rarve spawned by 
+2059 - 2588 3091 1
+//Wizard spawned by 
+13 - 2586 3088 1
+//Robe Store owner spawned by 
+1658 - 2593 3090 1
+//Wizard spawned by 
+13 - 2593 3091 1
+//Giant bat spawned by 
+78 - 2601 9478 0
+//Giant bat spawned by 
+78 - 2602 9480 0
+//Giant bat spawned by 
+78 - 2599 9487 0
+//Giant bat spawned by 
+78 - 2602 9485 0
+//Giant bat spawned by 
+78 - 2608 9485 0
+//Chaos druid spawned by 
+181 - 2612 9488 0
+//Chaos druid spawned by 
+181 - 2616 9485 0
+//Chaos druid spawned by 
+181 - 2613 9483 0
+//Chaos druid spawned by 
+181 - 2614 9485 0
+//Chaos druid spawned by 
+181 - 2609 9486 0
+//Chaos druid spawned by 
+181 - 2611 9487 0
+//Chaos druid spawned by 
+181 - 2613 9482 0
+//Wizard Frumscone spawned by 
+460 - 2590 9489 0
+//Zombie spawned by 
+75 - 2590 9491 0
+//Zombie spawned by 
+75 - 2585 9491 0
+//Zombie spawned by 
+5314 - 2592 9493 0
+//Zombie spawned by 
+5314 - 2589 9492 0
+//Zombie spawned by 
+5315 - 2585 9492 0
+//Zombie spawned by 
+5315 - 2593 9492 0
+//Zombie spawned by 
+5314 - 2594 9491 0
+//Zombie spawned by 
+5314 - 2583 9492 0
+//Brugsen Bursen spawned by 
+6522 - 3165 3469 0
+//null spawned by 
+16844 - 3165 3475 0
+//Grand Exchange Tutor spawned by 
+6521 - 3164 3475 0
+//Relobo Blinyo (logs) spawned by 
+6526 - 3175 3482 0
+//Grand Exchange clerk spawned by 
+2241 - 3179 3479 0
+//null spawned by 
+2718 - 3181 3480 0
+//Grand Exchange clerk spawned by 
+2240 - 3182 3478 0
+//null spawned by 
+3418 - 3180 3477 0
+//Hofuthand (armour and weapons) spawned by 
+6527 - 3165 3482 0
+//Murky Matt (runes) spawned by 
+6525 - 3184 3492 0
+//Farid Morrisane (ores) spawned by 
+6523 - 3175 3502 0
+//Grand Exchange clerk spawned by 
+1419 - 3179 3505 0
+//null spawned by 
+3416 - 3181 3506 0
+//Grand Exchange clerk spawned by 
+2593 - 3182 3504 0
+//null spawned by 
+3293 - 3180 3503 0
+//Bob Barter (herbs) spawned by 
+6524 - 3155 3502 0
+//Grand Exchange clerk spawned by 
+2240 - 3150 3504 0
+//Ogre spawned by 
+115 - 2513 3080 0
+//Grew spawned by 
+854 - 2514 3083 0
+//Ogre spawned by 
+115 - 2506 3087 0
+//Kalphite Soldier spawned by 
+1154 - 2510 3086 0
+//Ogre spawned by 
+115 - 2510 3086 0
+//Ogre spawned by 
+115 - 2513 3086 0
+//Lanthus spawned by 
+1526 - 2442 3089 0
+//Clothears spawned by 
+6130 - 2469 3158 0
+//Greasycheeks spawned by 
+6127 - 2467 3183 0
+//Smellytoes spawned by 
+6128 - 2465 3183 0
+//Creakyknees spawned by 
+6129 - 2470 3185 0
+//null spawned by 
+6118 - 2444 3190 0
+//null spawned by 
+6118 - 2443 3189 0
+//null spawned by 
+6119 - 2441 3187 0
+//Black bear spawned by 
+106 - 2461 3199 0
+//Hill Giant spawned by 
+4693 - 2446 3209 0
+//Hill Giant spawned by 
+4692 - 2442 3210 0
+//Hill Giant spawned by 
+4691 - 2436 3211 0
+//Hill Giant spawned by 
+4690 - 2439 3213 0
+//Hill Giant spawned by 
+117 - 2441 3216 0
+//Hill Giant spawned by 
+4689 - 2441 3219 0
+//Hill Giant spawned by 
+4690 - 2446 3213 0
+//Black bear spawned by 
+106 - 2473 3201 0
+//Gnome spawned by 
+2251 - 2487 3206 0
+//Gnome spawned by 
+2249 - 2493 3211 0
+//Gnome spawned by 
+2251 - 2495 3218 0
+//Gnome spawned by 
+2250 - 2498 3206 0
+//Gnome spawned by 
+2251 - 2491 3199 0
+//Gnome troop spawned by 
+2248 - 2495 3217 0
+//Mounted terrorbird gnome spawned by 
+6109 - 2492 3221 0
+//Spirit of Scorpius spawned by 
+492 - 2467 3229 0
+//Grave scorpion spawned by 
+493 - 2470 3224 0
+//Grave scorpion spawned by 
+493 - 2473 3225 0
+//Grave scorpion spawned by 
+493 - 2472 3222 0
+//Grave scorpion spawned by 
+493 - 2466 3223 0
+//Grave scorpion spawned by 
+493 - 2463 3224 0
+//Ghost spawned by 
+491 - 2475 3221 0
+//Ghost spawned by 
+491 - 2471 3224 0
+//Ghost spawned by 
+491 - 2466 3226 0
+//Ghost spawned by 
+491 - 2466 3222 0
+//Ghost spawned by 
+491 - 2471 3220 0
+//Ghost spawned by 
+491 - 2461 3225 0
+//Ghost spawned by 
+491 - 2464 3228 0
+//Gnome spawned by 
+2249 - 2465 3228 0
+//Monk of Zamorak spawned by 
+189 - 2473 3239 0
+//Monk of Zamorak spawned by 
+189 - 2476 3240 0
+//Monk of Zamorak spawned by 
+189 - 2473 3245 0
+//Monk of Zamorak spawned by 
+189 - 2467 3248 0
+//Monk of Zamorak spawned by 
+189 - 2471 3248 0
+//Monk of Zamorak spawned by 
+189 - 2481 3247 0
+//Monk of Zamorak spawned by 
+189 - 2479 3242 0
+//Red salamander spawned by 
+5115 - 2468 3241 0
+//Red salamander spawned by 
+5115 - 2470 3240 0
+//Red salamander spawned by 
+5115 - 2468 3243 0
+//Red salamander spawned by 
+5115 - 2466 3248 0
+//Red salamander spawned by 
+5115 - 2463 3250 0
+//Red salamander spawned by 
+5115 - 2474 3238 0
+//Monk of Zamorak spawned by 
+189 - 2462 3250 0
+//Monk of Zamorak spawned by 
+189 - 2455 3233 0
+//Mage of Zamorak spawned by 
+6370 - 2456 3232 0
+//Red salamander spawned by 
+5115 - 2447 3224 0
+//Red salamander spawned by 
+5115 - 2449 3223 0
+//Red salamander spawned by 
+5115 - 2447 3228 0
+//Red salamander spawned by 
+5115 - 2450 3220 0
+//Wolf spawned by 
+95 - 2472 3275 0
+//Wolf spawned by 
+95 - 2479 3268 0
+//Wolf spawned by 
+95 - 2484 3263 0
+//Wolf spawned by 
+95 - 2479 3259 0
+//Wolf spawned by 
+95 - 2476 3262 0
+//Wolf spawned by 
+95 - 2470 3271 0
+//Wolf spawned by 
+95 - 2464 3275 0
+//Wolf spawned by 
+95 - 2462 3277 0
+//Wolf spawned by 
+95 - 2457 3282 0
+//Wolf spawned by 
+95 - 2451 3283 0
+//Wolf spawned by 
+95 - 2454 3289 0
+//Wolf spawned by 
+95 - 2447 3295 0
+//Wolf spawned by 
+95 - 2448 3286 0
+//Wolf spawned by 
+95 - 2461 3270 0
+//Wolf spawned by 
+95 - 2481 3278 0
+//Khazard trooper spawned by 
+475 - 2456 3301 0
+//Khazard trooper spawned by 
+475 - 2456 3297 0
+//Khazard warlord spawned by 
+477 - 2455 3303 0
+//Brother Cedric spawned by 
+280 - 2620 3246 0
+//Imp spawned by 
+708 - 2639 3225 0
+//null spawned by 
+5598 - 2640 3222 0
+//null spawned by 
+5601 - 2639 3220 0
+//null spawned by 
+5602 - 2641 3221 0
+//'No fingers' spawned by 
+5590 - 2645 3224 0
+//null spawned by 
+11253 - 2643 3226 0
+//'Black-eye' spawned by 
+5589 - 2645 3229 0
+//'Gummy' spawned by 
+5591 - 2645 3230 0
+//Bonafido spawned by 
+5580 - 2650 3227 0
+//null spawned by 
+2066 - 2667 3244 0
+//Necromancer spawned by 
+194 - 2668 3242 0
+//Invrigar the Necromancer spawned by 
+173 - 2667 3243 1
+//Bush spawned by random
+8105 - 2556 2804 0
+//Bush spawned by random
+8105 - 2589 2822 0
+//Bush spawned by random
+8105 - 89 608 2
+//Bush spawned by random
+8105 - 2632 10383 0
+//Bush spawned by random
+8105 - 2633 10385 0
+//Bush spawned by random
+8105 - 2543 2806 0
+//Bush spawned by random
+8105 - 2547 2799 0
+//Bush spawned by random
+8105 - 2540 2794 0
+//Bush spawned by random
+8105 - 2758 3480 0
+//Cow1337killr spawned by random
+5210 - 2767 3499 1
+//Botros spawned by random
+11458 - 2767 3500 1
+//PKMaster0036 spawned by random
+2589 - 2766 3501 1
+//My Name Rocks spawned by random
+11623 - 2767 3502 1
+//My Name Rocks spawned by random
+11623 - 2557 2848 0
+//PKMaster0036 spawned by random
+2589 - 2554 2848 0
+//Botros spawned by random
+11458 - 2557 2845 0
+//Cow1337killr spawned by random
+5210 - 2552 2845 0
+//null spawned by random
+2643 - 2555 2845 0
+//Grindxplox spawned by random
+8250 - 2560 2845 0
+//Grindxplox spawned by random
+8250 - 2560 2845 0
+//Grindxplox spawned by random
+8250 - 2560 2846 0
+//null spawned by random
+11624 - 2560 2846 0
+//Max spawned by random
+3705 - 2554 2851 0
+//Lola Wut spawned by random
+9358 - 2551 2847 0
+//Ican Haz spawned by random
+9076 - 2556 2837 0
+//Kay Thanxby spawned by random
+9380 - 2549 2853 0
+//Lotheria Seldorina spawned by random
+9073 - 2558 2839 0
+//Lotheria Seldorina spawned by random
+9062 - 2558 2839 0
+//Lotheria Seldorina spawned by random
+9064 - 2558 2839 0
+//Ded Meet spawned by random
+15577 - 2561 2843 0
+//Supreme Ded Meet spawned by random
+15578 - 2561 2844 0
+//Miles spawned by random
+15579 - 2562 2844 0
+//Elfinlocks spawned by random
+2578 - 2561 2849 0
+//Cool Mom227 spawned by random
+2579 - 2557 2854 0
+//null spawned by random
+2576 - 2561 2853 0
+//null spawned by random
+2575 - 2581 2843 0
+//1337sp34kr spawned by random
+2577 - 2554 2842 0
+//Odischamp spawned by random
+15148 - 2564 2842 0
+//FightpitPKer spawned by random
+15151 - 2556 2837 0
+//null spawned by random
+15175 - 2556 2843 0
+//null spawned by random
+15175 - 2556 2843 0
+//Firecapezorz spawned by random
+15174 - 2559 2843 0
+//LolthenKILL spawned by random
+15172 - 2559 2844 0
+//Bush spawned by random
+8105 - 2562 2805 0
+//Elfinlocks spawned by random
+5604 - 2557 2849 0
+//<col=ffffff>Elfinlocks</col> spawned by random
+13758 - 2563 2851 0
+//Firecapezorz spawned by random
+15174 - 2560 2850 0
+//Firecapezorz spawned by random
+15174 - 2560 2850 0
+//Firecapezorz spawned by random
+15174 - 2560 2850 0
+//Firecapezorz spawned by random
+15174 - 2560 2850 0
+//Firecapezorz spawned by random
+15174 - 2560 2850 0
+//Firecapezorz spawned by random
+15174 - 2560 2850 0
+//Firecapezorz spawned by random
+15174 - 2560 2850 0
+//Firecapezorz spawned by random
+15174 - 2560 2850 0
+//Firecapezorz spawned by random
+15174 - 2560 2850 0
+//Firecapezorz spawned by random
+15174 - 2560 2850 0
+//Firecapezorz spawned by random
+15174 - 2560 2850 0
+//Firecapezorz spawned by random
+15174 - 2560 2850 0
+//Firecapezorz spawned by random
+15174 - 2560 2850 0
+//Firecapezorz spawned by random
+15174 - 2560 2850 0
+//Firecapezorz spawned by random
+15174 - 2560 2850 0
+//Firecapezorz spawned by random
+15174 - 2560 2850 0
+//Firecapezorz spawned by random
+15174 - 2560 2850 0
+//Firecapezorz spawned by random
+15174 - 2560 2850 0
+//Firecapezorz spawned by random
+15174 - 2560 2850 0
+//Firecapezorz spawned by random
+15174 - 2560 2850 0
+//Firecapezorz spawned by random
+15174 - 2560 2850 0
+//Firecapezorz spawned by random
+15174 - 2560 2850 0
+//Firecapezorz spawned by random
+15174 - 2560 2850 0
+//Firecapezorz spawned by random
+15174 - 2560 2850 0
+//Firecapezorz spawned by random
+15174 - 2560 2850 0
+//Firecapezorz spawned by random
+15174 - 2560 2850 0
+//Firecapezorz spawned by random
+15174 - 2560 2850 0
+//Firecapezorz spawned by random
+15174 - 2560 2850 0
+//Firecapezorz spawned by random
+15174 - 2560 2850 0
+//Firecapezorz spawned by random
+15174 - 2560 2850 0
+//Firecapezorz spawned by random
+15174 - 2560 2850 0
+//Eva spawned by random
+13738 - 2565 2848 0
+//null spawned by random
+2974 - 2562 2848 0
+//Kjell spawned by random
+2874 - 2561 2848 0
+//<col=00ffff>Portal</col> spawned by random
+13628 - 2591 2823 0
+//null spawned by random
+-1 - 2591 2824 0
+//Kjell spawned by random
+2874 - 2591 2824 0
+//Kjell spawned by random
+2874 - 2592 2823 0
+//Kjell spawned by random
+2874 - 2591 2822 0
+//Kjell spawned by random
+2874 - 2590 2823 0
+//Evil Chicken spawned by random
+3375 - 2588 2824 0
+//Hope devourer spawned by random
+12886 - 2242 3280 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Firecapezorz spawned by random
+15174 - 2240 3279 0
+//Gublinchette jailmate spawned by random
+7145 - 2243 3282 0
+//Confusion beast spawned by random
+3650 - 2245 3283 0
+//Angry unicorn spawned by random
+3661 - 2241 3307 0
+//Zanik spawned by random
+3360 - 2242 3307 0
+//Tolna spawned by random
+3660 - 2243 3308 0
+//Tolna spawned by random
+3660 - 2556 2845 0
+//Tolna spawned by random
+3660 - 3458 3720 0
+//Tolna spawned by random
+3660 - 3451 3718 0
+//Tolna spawned by random
+3660 - 2612 3080 0
+//Tolna spawned by random
+3660 - 4656 5408 0
+//Tolna spawned by random
+3660 - 2557 2839 0
+//Bush spawned by random
+8105 - 2550 2798 0
+//Frawd spawned by random
+7048 - 2670 10396 0
+//Man spawned by 
+1 - 2556 2847 0
+//Firecapezorz spawned by random
+15174 - 2832 3864 0
+//null spawned by random
+15175 - 2833 3863 0
+//Firecapezorz spawned by random
+15174 - 72 4038 0
+//null spawned by random
+15175 - 73 4039 0
+//Firecapezorz spawned by random
+15174 - 3061 9239 0
+//null spawned by random
+15175 - 3063 9238 0
+//FightpitPKer spawned by random
+15176 - 3062 9238 0
+//FightpitPKer spawned by random
+15176 - 3061 9239 0
+//Firecapezorz spawned by random
+15174 - 3065 9239 0
+//Bush spawned by random
+8105 - 2535 2809 0
+//Bush spawned by random
+8105 - 75 11871 2
+//Bush spawned by random
+8105 - 99 11871 2
+//Bush spawned by random
+8105 - 2541 2846 0
+//null spawned by 
+14253 - 4075 5710 0
+//Akrisae the Doomed spawned by 
+14295 - 4075 5710 0
+//Akrisae the Doomed spawned by 
+14300 - 4075 5710 0
+//Akrisae the Doomed spawned by 
+14299 - 4076 5710 0
+//Akrisae the Doomed spawned by 
+14298 - 4075 5711 0
+//Akrisae the Doomed spawned by 
+14297 - 4076 5712 0
+//Bush spawned by random
+8105 - 355 863 2
+//Bush spawned by random
+8105 - 330 2525 2
+//Bush spawned by random
+8105 - 3437 2503 3
+//Black demon spawned by random
+84 - 2250 3306 0
+//Black demon spawned by random
+84 - 2250 3306 0
+//Black demon spawned by random
+84 - 2250 3306 0
+//Black demon spawned by random
+84 - 2250 3306 0
+//Black demon spawned by random
+84 - 2250 3306 0
+//Black demon spawned by random
+84 - 2250 3306 0
+//Black demon spawned by random
+84 - 2250 3306 0
+//Black demon spawned by random
+84 - 2250 3306 0
+//Black demon spawned by random
+84 - 2250 3306 0
+//Black demon spawned by random
+84 - 2250 3306 0
+//Black demon spawned by random
+84 - 2250 3306 0
+//Black demon spawned by random
+84 - 2250 3306 0
+//Black demon spawned by random
+84 - 2250 3306 0
+//Black demon spawned by random
+84 - 2250 3306 0
+//Black demon spawned by random
+84 - 2250 3306 0
+//Black demon spawned by random
+84 - 2250 3306 0
+//Black demon spawned by random
+84 - 2250 3306 0
+//Black demon spawned by random
+84 - 2250 3306 0
+//Black demon spawned by random
+84 - 2250 3306 0
+//Black demon spawned by random
+84 - 2250 3306 0
+//Black demon spawned by random
+84 - 2250 3306 0
+//Black demon spawned by random
+84 - 2250 3306 0
+//Black demon spawned by random
+84 - 2250 3306 0
+//Black demon spawned by random
+84 - 2250 3306 0
+//Black demon spawned by random
+84 - 2250 3306 0
+//Black demon spawned by random
+84 - 2250 3306 0
+//Black demon spawned by random
+84 - 2250 3306 0
+//Black demon spawned by random
+84 - 2250 3306 0
+//Black demon spawned by random
+84 - 2250 3306 0
+//Black demon spawned by random
+84 - 2250 3306 0
+//Black demon spawned by random
+84 - 2250 3306 0
+//Black demon spawned by random
+84 - 2250 3306 0
+//Black demon spawned by random
+84 - 2250 3306 0
+//Black demon spawned by random
+84 - 2250 3306 0
+//Black demon spawned by random
+84 - 2250 3306 0
+//Black demon spawned by random
+84 - 2250 3306 0
+//Black demon spawned by random
+84 - 2250 3306 0
+//Black demon spawned by random
+84 - 2250 3306 0
+//Black demon spawned by random
+84 - 2250 3306 0
+//Black demon spawned by random
+84 - 2250 3306 0
+//Black demon spawned by random
+84 - 2250 3306 0
+//Black demon spawned by random
+84 - 2254 3310 0
+//Black demon spawned by random
+84 - 2254 3310 0
+//Kuradal spawned by random
+9084 - 2254 3313 0
+//Kuradal spawned by random
+9085 - 2252 3313 0
+//TzHaar hero spawned by random
+167 - 2252 3313 0
+//TzHaar-Mej spawned by random
+2591 - 2249 3312 0
+//TzHaar-Mej spawned by random
+2591 - 2246 3311 0
+//TzHaar-Mej spawned by random
+2591 - 2250 3309 0
+//TzHaar-Mej spawned by random
+2591 - 2250 3309 0
+//TzHaar-Mej spawned by random
+2591 - 2250 3309 0
+//TzHaar-Mej spawned by random
+2591 - 2250 3309 0
+//TzHaar-Mej spawned by random
+2591 - 2250 3309 0
+//TzHaar-Mej spawned by random
+2591 - 2250 3309 0
+//TzHaar-Mej spawned by random
+2591 - 2250 3309 0
+//TzHaar-Mej spawned by random
+2591 - 2250 3309 0
+//TzHaar-Mej spawned by random
+2591 - 2250 3309 0
+//TzHaar-Mej spawned by random
+2591 - 2250 3309 0
+//TzHaar-Mej spawned by random
+2591 - 2250 3309 0
+//TzHaar-Mej spawned by random
+2591 - 2250 3309 0
+//TzHaar-Mej spawned by random
+2591 - 2250 3309 0
+//TzHaar-Mej spawned by random
+2591 - 2250 3309 0
+//TzHaar-Mej spawned by random
+2591 - 2250 3309 0
+//TzHaar-Mej spawned by random
+2591 - 2250 3309 0
+//TzHaar-Mej spawned by random
+2591 - 2250 3309 0
+//TzHaar-Mej spawned by random
+2591 - 2250 3309 0
+//TzHaar-Mej spawned by random
+2591 - 2250 3309 0
+//TzHaar-Mej spawned by random
+2591 - 2250 3309 0
+//TzHaar-Mej spawned by random
+2591 - 2250 3309 0
+//TzHaar-Mej spawned by random
+2591 - 2250 3309 0
+//TzHaar-Mej spawned by random
+2591 - 2250 3309 0
+//TzHaar-Mej spawned by random
+2591 - 2250 3309 0
+//TzHaar-Mej spawned by random
+2591 - 2250 3309 0
+//TzHaar-Mej spawned by random
+2591 - 2250 3309 0
+//TzHaar-Mej spawned by random
+2591 - 2250 3309 0
+//TzHaar-Mej spawned by random
+2591 - 2250 3309 0
+//TzHaar-Mej spawned by random
+2591 - 2250 3309 0
+//Bloodveld spawned by random
+1618 - 2254 3317 0
+//Bloodveld spawned by random
+1618 - 2253 3317 0
+//Bloodveld spawned by random
+1618 - 2253 3317 0
+//Bloodveld spawned by random
+1618 - 2253 3317 0
+//Bloodveld spawned by random
+1618 - 2253 3317 0
+//Bloodveld spawned by random
+1618 - 2253 3317 0
+//Bloodveld spawned by random
+1618 - 2253 3317 0
+//Bloodveld spawned by random
+1618 - 2253 3317 0
+//Bloodveld spawned by random
+1618 - 2253 3317 0
+//Bloodveld spawned by random
+1618 - 2253 3317 0
+//Bloodveld spawned by random
+1618 - 2253 3317 0
+//Bloodveld spawned by random
+1618 - 2253 3317 0
+//Bloodveld spawned by random
+1618 - 2253 3317 0
+//Bloodveld spawned by random
+1618 - 2253 3317 0
+//Bloodveld spawned by random
+1618 - 2253 3317 0
+//Bloodveld spawned by random
+1618 - 2253 3317 0
+//Bloodveld spawned by random
+1618 - 2253 3317 0
+//Bloodveld spawned by random
+1618 - 2253 3317 0
+//Bloodveld spawned by random
+1618 - 2253 3317 0
+//Bloodveld spawned by random
+1618 - 2253 3317 0
+//Bloodveld spawned by random
+1618 - 2253 3317 0
+//Bloodveld spawned by random
+1618 - 2253 3317 0
+//Bloodveld spawned by random
+1618 - 2253 3317 0
+//Bloodveld spawned by random
+1618 - 2253 3317 0
+//Bloodveld spawned by random
+1618 - 2253 3317 0
+//Bloodveld spawned by random
+1618 - 2253 3317 0
+//Bloodveld spawned by random
+1618 - 2253 3317 0
+//Bloodveld spawned by random
+1618 - 2253 3317 0
+//Bloodveld spawned by random
+1618 - 2253 3317 0
+//Bloodveld spawned by random
+1618 - 2253 3317 0
+//Bloodveld spawned by random
+1618 - 2253 3317 0
+//Bloodveld spawned by random
+1618 - 2253 3317 0
+//Bloodveld spawned by random
+1618 - 2253 3317 0
+//Bloodveld spawned by random
+1618 - 2253 3317 0
+//Bloodveld spawned by random
+1618 - 2253 3317 0
+//Bloodveld spawned by random
+1618 - 2253 3317 0
+//Bloodveld spawned by random
+1618 - 2253 3317 0
+//Bloodveld spawned by random
+1618 - 2253 3317 0
+//Bloodveld spawned by random
+1618 - 2253 3317 0
+//Bloodveld spawned by random
+1618 - 2253 3317 0
+//Bloodveld spawned by random
+1618 - 2253 3317 0
+//Bloodveld spawned by random
+1618 - 2253 3317 0
+//Bloodveld spawned by random
+1618 - 2253 3317 0
+//Bloodveld spawned by random
+1618 - 2253 3317 0
+//Bloodveld spawned by random
+1618 - 2253 3317 0
+//Bloodveld spawned by random
+1618 - 2253 3317 0
+//Bloodveld spawned by random
+1618 - 2253 3317 0
+//Bloodveld spawned by random
+1618 - 2253 3317 0
+//Bloodveld spawned by random
+1618 - 2253 3317 0
+//Bloodveld spawned by random
+1618 - 2253 3317 0
+//Bloodveld spawned by random
+1618 - 2253 3317 0
+//Bloodveld spawned by random
+1618 - 2253 3317 0
+//Bloodveld spawned by random
+1618 - 2253 3317 0
+//Bloodveld spawned by random
+1618 - 2253 3317 0
+//Abyssal demon spawned by random
+1615 - 2259 3308 0
+//Abyssal demon spawned by random
+1615 - 2260 3308 0
+//Abyssal demon spawned by random
+1615 - 2260 3308 0
+//Abyssal demon spawned by random
+1615 - 2260 3308 0
+//Abyssal demon spawned by random
+1615 - 2260 3308 0
+//Abyssal demon spawned by random
+1615 - 2260 3308 0
+//Abyssal demon spawned by random
+1615 - 2260 3308 0
+//Abyssal demon spawned by random
+1615 - 2260 3308 0
+//Abyssal demon spawned by random
+1615 - 2260 3308 0
+//Abyssal demon spawned by random
+1615 - 2260 3308 0
+//Abyssal demon spawned by random
+1615 - 2260 3308 0
+//Abyssal demon spawned by random
+1615 - 2260 3308 0
+//Abyssal demon spawned by random
+1615 - 2260 3308 0
+//Abyssal demon spawned by random
+1615 - 2260 3308 0
+//Abyssal demon spawned by random
+1615 - 2260 3308 0
+//Abyssal demon spawned by random
+1615 - 2260 3308 0
+//Abyssal demon spawned by random
+1615 - 2260 3308 0
+//Abyssal demon spawned by random
+1615 - 2260 3308 0
+//Abyssal demon spawned by random
+1615 - 2260 3308 0
+//Abyssal demon spawned by random
+1615 - 2260 3308 0
+//Abyssal demon spawned by random
+1615 - 2260 3308 0
+//Abyssal demon spawned by random
+1615 - 2260 3308 0
+//Abyssal demon spawned by random
+1615 - 2260 3308 0
+//Abyssal demon spawned by random
+1615 - 2260 3308 0
+//Abyssal demon spawned by random
+1615 - 2260 3308 0
+//Abyssal demon spawned by random
+1615 - 2260 3308 0
+//Abyssal demon spawned by random
+1615 - 2260 3308 0
+//Abyssal demon spawned by random
+1615 - 2260 3308 0
+//Abyssal demon spawned by random
+1615 - 2260 3308 0
+//Abyssal demon spawned by random
+1615 - 2260 3308 0
+//Abyssal demon spawned by random
+1615 - 2260 3308 0
+//Abyssal demon spawned by random
+1615 - 2260 3308 0
+//Abyssal demon spawned by random
+1615 - 2260 3308 0
+//Abyssal demon spawned by random
+1615 - 2260 3308 0
+//Abyssal demon spawned by random
+1615 - 2265 3308 0
+//Abyssal demon spawned by random
+1615 - 2265 3308 0
+//Abyssal demon spawned by random
+1615 - 2265 3308 0
+//Abyssal demon spawned by random
+1615 - 2265 3308 0
+//Abyssal demon spawned by random
+1615 - 2265 3308 0
+//Abyssal demon spawned by random
+1615 - 2265 3308 0
+//Abyssal demon spawned by random
+1615 - 2265 3308 0
+//Abyssal demon spawned by random
+1615 - 2265 3308 0
+//Abyssal demon spawned by random
+1615 - 2265 3308 0
+//Abyssal demon spawned by random
+1615 - 2265 3308 0
+//Abyssal demon spawned by random
+1615 - 2265 3308 0
+//Terror dog spawned by random
+5417 - 2255 3310 0
+//Terror dog spawned by random
+5417 - 2244 3306 0
+//Terror dog spawned by random
+5417 - 2244 3306 0
+//Terror dog spawned by random
+5417 - 2244 3306 0
+//Terror dog spawned by random
+5417 - 2244 3306 0
+//Terror dog spawned by random
+5417 - 2244 3306 0
+//Terror dog spawned by random
+5417 - 2244 3306 0
+//Terror dog spawned by random
+5417 - 2244 3306 0
+//Terror dog spawned by random
+5417 - 2244 3306 0
+//Terror dog spawned by random
+5417 - 2244 3306 0
+//Terror dog spawned by random
+5417 - 2244 3306 0
+//Terror dog spawned by random
+5417 - 2244 3306 0
+//Terror dog spawned by random
+5417 - 2244 3306 0
+//Terror dog spawned by random
+5417 - 2244 3306 0
+//Terror dog spawned by random
+5417 - 2244 3306 0
+//Terror dog spawned by random
+5417 - 2244 3306 0
+//Terror dog spawned by random
+5417 - 2244 3306 0
+//Terror dog spawned by random
+5417 - 2244 3306 0
+//Terror dog spawned by random
+5417 - 2244 3306 0
+//Terror dog spawned by random
+5417 - 2244 3306 0
+//Terror dog spawned by random
+5417 - 2244 3306 0
+//Terror dog spawned by random
+5417 - 2244 3306 0
+//Terror dog spawned by random
+5417 - 2244 3306 0
+//Terror dog spawned by random
+5417 - 2244 3306 0
+//Terror dog spawned by random
+5417 - 2244 3306 0
+//Terror dog spawned by random
+5417 - 2244 3306 0
+//Terror dog spawned by random
+5417 - 2244 3306 0
+//Terror dog spawned by random
+5417 - 2244 3306 0
+//Terror dog spawned by random
+5417 - 2244 3306 0
+//Terror dog spawned by random
+5417 - 2244 3306 0
+//Terror dog spawned by random
+5417 - 2244 3306 0
+//Terror dog spawned by random
+5417 - 2244 3306 0
+//Terror dog spawned by random
+5417 - 2244 3306 0
+//Terror dog spawned by random
+5417 - 2244 3306 0
+//Terror dog spawned by random
+5417 - 2244 3306 0
+//Terror dog spawned by random
+5417 - 2244 3306 0
+//Terror dog spawned by random
+5417 - 2244 3306 0
+//Terror dog spawned by random
+5417 - 2244 3306 0
+//Terror dog spawned by random
+5417 - 2244 3306 0
+//Terror dog spawned by random
+5417 - 2244 3306 0
+//Terror dog spawned by random
+5417 - 2244 3306 0
+//Terror dog spawned by random
+5417 - 2244 3306 0
+//Terror dog spawned by random
+5417 - 2244 3306 0
+//Terror dog spawned by random
+5417 - 2244 3306 0
+//Terror dog spawned by random
+5417 - 2244 3306 0
+//Terror dog spawned by random
+5417 - 2244 3306 0
+//Terror dog spawned by random
+5417 - 2242 3308 0
+//Terror dog spawned by random
+5417 - 2242 3308 0
+//Terror dog spawned by random
+5417 - 2242 3308 0
+//Terror dog spawned by random
+5417 - 2242 3308 0
+//Terror dog spawned by random
+5417 - 2242 3308 0
+//Terror dog spawned by random
+5417 - 2242 3308 0
+//Terror dog spawned by random
+5417 - 2242 3308 0
+//Terror dog spawned by random
+5417 - 2242 3308 0
+//Terror dog spawned by random
+5417 - 2242 3308 0
+//Terror dog spawned by random
+5417 - 2242 3308 0
+//Desert strykewyrm spawned by random
+9465 - 2256 3301 0
+//Desert strykewyrm spawned by random
+9465 - 2259 3301 0
+//Desert strykewyrm spawned by random
+9465 - 2259 3301 0
+//Desert strykewyrm spawned by random
+9465 - 2259 3301 0
+//Desert strykewyrm spawned by random
+9465 - 2259 3301 0
+//Desert strykewyrm spawned by random
+9465 - 2259 3301 0
+//Desert strykewyrm spawned by random
+9465 - 2259 3301 0
+//Desert strykewyrm spawned by random
+9465 - 2259 3301 0
+//Desert strykewyrm spawned by random
+9465 - 2259 3301 0
+//Desert strykewyrm spawned by random
+9465 - 2259 3301 0
+//Desert strykewyrm spawned by random
+9465 - 2259 3301 0
+//Desert strykewyrm spawned by random
+9465 - 2259 3301 0
+//Desert strykewyrm spawned by random
+9465 - 2259 3301 0
+//Desert strykewyrm spawned by random
+9465 - 2259 3301 0
+//Desert strykewyrm spawned by random
+9465 - 2259 3301 0
+//Desert strykewyrm spawned by random
+9465 - 2259 3301 0
+//Desert strykewyrm spawned by random
+9465 - 2259 3301 0
+//Desert strykewyrm spawned by random
+9465 - 2259 3301 0
+//Desert strykewyrm spawned by random
+9465 - 2259 3301 0
+//Desert strykewyrm spawned by random
+9465 - 2259 3301 0
+//Desert strykewyrm spawned by random
+9465 - 2259 3301 0
+//Desert strykewyrm spawned by random
+9465 - 2259 3301 0
+//Desert strykewyrm spawned by random
+9465 - 2259 3301 0
+//Desert strykewyrm spawned by random
+9465 - 2259 3301 0
+//Desert strykewyrm spawned by random
+9465 - 2259 3301 0
+//Desert strykewyrm spawned by random
+9465 - 2259 3301 0
+//Desert strykewyrm spawned by random
+9465 - 2259 3301 0
+//Desert strykewyrm spawned by random
+9465 - 2259 3301 0
+//Desert strykewyrm spawned by random
+9465 - 2259 3301 0
+//Desert strykewyrm spawned by random
+9465 - 2259 3301 0
+//Desert strykewyrm spawned by random
+9465 - 2259 3301 0
+//Desert strykewyrm spawned by random
+9465 - 2259 3301 0
+//Desert strykewyrm spawned by random
+9465 - 2259 3301 0
+//Desert strykewyrm spawned by random
+9465 - 2259 3301 0
+//Desert strykewyrm spawned by random
+9465 - 2259 3301 0
+//Desert strykewyrm spawned by random
+9465 - 2259 3301 0
+//Desert strykewyrm spawned by random
+9465 - 2259 3301 0
+//Desert strykewyrm spawned by random
+9465 - 2259 3301 0
+//Desert strykewyrm spawned by random
+9465 - 2259 3301 0
+//Desert strykewyrm spawned by random
+9465 - 2258 3305 0
+//Desert strykewyrm spawned by random
+9465 - 2258 3305 0
+//Desert strykewyrm spawned by random
+9465 - 2258 3305 0
+//Blue dragon spawned by random
+55 - 2262 3312 0
+//Blue dragon spawned by random
+55 - 2262 3312 0
+//Blue dragon spawned by random
+55 - 2262 3312 0
+//Blue dragon spawned by random
+55 - 2262 3312 0
+//Blue dragon spawned by random
+55 - 2262 3312 0
+//Blue dragon spawned by random
+55 - 2262 3312 0
+//Blue dragon spawned by random
+55 - 2262 3312 0
+//Blue dragon spawned by random
+55 - 2262 3312 0
+//Blue dragon spawned by random
+55 - 2262 3312 0
+//Blue dragon spawned by random
+55 - 2262 3312 0
+//Blue dragon spawned by random
+55 - 2262 3312 0
+//Blue dragon spawned by random
+55 - 2262 3312 0
+//Blue dragon spawned by random
+55 - 2262 3312 0
+//Blue dragon spawned by random
+55 - 2262 3312 0
+//Blue dragon spawned by random
+55 - 2262 3312 0
+//Blue dragon spawned by random
+55 - 2262 3312 0
+//Blue dragon spawned by random
+55 - 2262 3312 0
+//Blue dragon spawned by random
+55 - 2262 3312 0
+//Blue dragon spawned by random
+55 - 2262 3312 0
+//Blue dragon spawned by random
+55 - 2262 3312 0
+//Blue dragon spawned by random
+55 - 2262 3312 0
+//Blue dragon spawned by random
+55 - 2262 3312 0
+//Blue dragon spawned by random
+55 - 2262 3312 0
+//Blue dragon spawned by random
+55 - 2262 3312 0
+//Blue dragon spawned by random
+55 - 2262 3312 0
+//Blue dragon spawned by random
+55 - 2262 3312 0
+//Blue dragon spawned by random
+55 - 2262 3312 0
+//Blue dragon spawned by random
+55 - 2262 3312 0
+//Blue dragon spawned by random
+55 - 2262 3312 0
+//Blue dragon spawned by random
+55 - 2262 3312 0
+//Blue dragon spawned by random
+55 - 2262 3312 0
+//Blue dragon spawned by random
+55 - 2262 3312 0
+//Blue dragon spawned by random
+55 - 2262 3312 0
+//Blue dragon spawned by random
+55 - 2262 3312 0
+//Blue dragon spawned by random
+55 - 2262 3312 0
+//Blue dragon spawned by random
+55 - 2262 3312 0
+//Blue dragon spawned by random
+55 - 2262 3312 0
+//Blue dragon spawned by random
+55 - 2262 3312 0
+//Blue dragon spawned by random
+55 - 2262 3312 0
+//Blue dragon spawned by random
+55 - 2262 3312 0
+//Blue dragon spawned by random
+55 - 2262 3312 0
+//Blue dragon spawned by random
+55 - 2262 3312 0
+//Blue dragon spawned by random
+55 - 2262 3312 0
+//Blue dragon spawned by random
+55 - 2262 3312 0
+//Blue dragon spawned by random
+55 - 2262 3312 0
+//Blue dragon spawned by random
+55 - 2262 3312 0
+//Blue dragon spawned by random
+55 - 2262 3312 0
+//Blue dragon spawned by random
+55 - 2262 3312 0
+//Blue dragon spawned by random
+55 - 2262 3312 0
+//Blue dragon spawned by random
+55 - 2262 3312 0
+//Blue dragon spawned by random
+55 - 2262 3312 0
+//Blue dragon spawned by random
+55 - 2262 3312 0
+//Blue dragon spawned by random
+55 - 2262 3312 0
+//Blue dragon spawned by random
+55 - 2262 3312 0
+//Blue dragon spawned by random
+55 - 2262 3312 0
+//Blue dragon spawned by random
+55 - 2262 3312 0
+//Blue dragon spawned by random
+55 - 2262 3312 0
+//Blue dragon spawned by random
+55 - 2262 3312 0
+//Blue dragon spawned by random
+55 - 2262 3312 0
+//Blue dragon spawned by random
+55 - 2262 3312 0
+//Blue dragon spawned by random
+55 - 2262 3312 0
+//Blue dragon spawned by random
+55 - 2262 3317 0
+//Blue dragon spawned by random
+55 - 2262 3317 0
+//Blue dragon spawned by random
+55 - 2262 3317 0
+//Blue dragon spawned by random
+55 - 2262 3317 0
+//Blue dragon spawned by random
+55 - 2262 3317 0
+//Blue dragon spawned by random
+55 - 2262 3317 0
+//Blue dragon spawned by random
+55 - 2262 3317 0
+//Blue dragon spawned by random
+55 - 2262 3317 0
+//Blue dragon spawned by random
+55 - 2262 3317 0
+//Blue dragon spawned by random
+55 - 2262 3317 0
+//Blue dragon spawned by random
+55 - 2262 3317 0
+//Blue dragon spawned by random
+55 - 2262 3317 0
+//Blue dragon spawned by random
+55 - 2262 3317 0
+//Blue dragon spawned by random
+55 - 2262 3317 0
+//Blue dragon spawned by random
+55 - 2262 3317 0
+//Crypt rat spawned by 
+2032 - 3551 9711 0
+//Crypt rat spawned by 
+2032 - 3554 9713 0
+//Crypt rat spawned by 
+2032 - 3551 9711 0
+//Giant crypt rat spawned by 
+2033 - 3553 9710 0
+//Giant crypt rat spawned by 
+2033 - 3551 9712 0
+//Giant crypt rat spawned by 
+2033 - 3549 9710 0
+//Giant crypt rat spawned by 
+2033 - 3553 9709 0
+//Giant crypt rat spawned by 
+2033 - 3552 9714 0
+//Bloodworm spawned by 
+2031 - 3569 9696 0
+//Bloodworm spawned by 
+2031 - 3567 9695 0
+//Bloodworm spawned by 
+2031 - 3569 9693 0
+//Bloodworm spawned by 
+2031 - 3570 9695 0
+//Bloodworm spawned by 
+2031 - 3566 9693 0
+//Bloodworm spawned by 
+2031 - 3571 9696 0
+//Bloodworm spawned by 
+2031 - 3571 9693 0
+//Bloodworm spawned by 
+2031 - 3569 9690 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2236 3339 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Dark beast spawned by random
+2783 - 2254 3311 0
+//Bush spawned by random
+8105 - 2252 3311 0
+//Bush spawned by random
+8105 - 3062 9240 0
+//Crypt rat spawned by 
+2032 - 3536 9694 0
+//Crypt rat spawned by 
+2032 - 3534 9695 0
+//Crypt rat spawned by 
+2032 - 3535 9697 0
+//Crypt rat spawned by 
+2032 - 3537 9693 0
+//Crypt rat spawned by 
+2032 - 3532 9691 0
+//Giant crypt rat spawned by 
+2033 - 3534 9691 0
+//Giant crypt rat spawned by 
+2033 - 3533 9693 0
+//Giant crypt rat spawned by 
+2033 - 3535 9697 0
+//Giant crypt rat spawned by 
+2033 - 3537 9695 0
+//Giant crypt rat spawned by 
+2033 - 3532 9695 0
+//Bloodworm spawned by 
+2031 - 3551 9681 0
+//Bloodworm spawned by 
+2031 - 3552 9679 0
+//Bloodworm spawned by 
+2031 - 3554 9677 0
+//Bloodworm spawned by 
+2031 - 3550 9676 0
+//Bloodworm spawned by 
+2031 - 3548 9677 0
+//Bloodworm spawned by 
+2031 - 3553 9680 0
+//Bloodworm spawned by 
+2031 - 3552 9677 0
+//Bloodworm spawned by 
+2031 - 3551 9674 0
+//Crypt spider spawned by 
+2034 - 3569 9696 0
+//Crypt spider spawned by 
+2034 - 3565 9694 0
+//Crypt spider spawned by 
+2034 - 3568 9692 0
+//Crypt spider spawned by 
+2034 - 3570 9695 0
+//Crypt spider spawned by 
+2034 - 3567 9697 0
+//Giant crypt spider spawned by 
+2035 - 3568 9696 0
+//Giant crypt spider spawned by 
+2035 - 3571 9693 0
+//Giant crypt spider spawned by 
+2035 - 3568 9691 0
+//Giant crypt spider spawned by 
+2035 - 3566 9695 0
+//Giant crypt spider spawned by 
+2035 - 3570 9696 0
+//Giant crypt spider spawned by 
+2035 - 3567 9696 0
+//Skeleton spawned by 
+2036 - 3551 9711 0
+//Skeleton spawned by 
+2036 - 3554 9709 0
+//Skeleton spawned by 
+2036 - 3549 9710 0
+//Skeleton spawned by 
+2036 - 3548 9713 0
+//Skeleton spawned by 
+2036 - 3552 9712 0
+//Skeleton spawned by 
+2037 - 3554 9711 0
+//Skeleton spawned by 
+2037 - 3551 9709 0
+//Skeleton spawned by 
+2037 - 3551 9712 0
+//Skeleton spawned by 
+2037 - 3553 9708 0
+//Skeleton spawned by 
+2037 - 3548 9709 0
+//Skeleton spawned by 
+2037 - 3548 9713 0
+//TzHaar-Mej spawned by random
+2591 - 2557 2850 1
+//TzHaar-Mej spawned by random
+2591 - 2557 2851 1
+//Kjell spawned by random
+2874 - 2558 2850 1
+//Kjell spawned by random
+2874 - 2559 2850 1
+//Kjell spawned by random
+2874 - 2562 2842 1
+//Kjell spawned by random
+2874 - 2558 2845 1
+//Kjell spawned by random
+2874 - 2562 2846 1
+//Kjell spawned by random
+2874 - 2559 2848 1
+//Kjell spawned by random
+2874 - 2553 2852 1
+//Kjell spawned by random
+2874 - 2551 2848 1
+//Kjell spawned by random
+2874 - 2555 2847 1
+//Kjell spawned by random
+2874 - 2559 2855 1
+//Barrel spawned by 
+8104 - 3019 3631 0
+//King Black Dragon spawned by 
+50 - 3425 3557 2
+//Nex spawned by 
+13450 - 3425 3570 2
+//Nex spawned by 
+13450 - 3412 3572 2
+//Nex spawned by 
+13450 - 3411 3572 2
+//Melee dummy spawned by 
+7891 - 3411 3575 2
+//Gossip spawned by 
+813 - 3408 3572 2
+//Corporeal Beast spawned by 
+8133 - 3416 3565 2
+//Nex spawned by 
+13450 - 3417 3568 2
+//Barrel spawned by 
+8104 - 4678 5121 0
+//Bush spawned by random
+8105 - 3709 3502 0
+//Kuradal spawned by random
+9085 - 2681 3713 0
+//Shady Character spawned by random
+15003 - 2654 3719 0
+//Dreaming soul spawned by random
+15483 - 2652 3720 0
+//Pong spawned by random
+15727 - 2652 3719 0
+//Bush spawned by guard
+8105 - 2343 5214 0
+//Kjell spawned by guard
+2874 - 2864 5353 0
+//Kjell spawned by guard
+2874 - 2865 5357 0
+//Aberrant spectre spawned by random
+1604 - 2849 2960 0
+//Aberrant spectre spawned by random
+7801 - 2849 2960 0
+//Aberrant Spectre Champion spawned by random
+8987 - 2849 2960 0
+//TzHaar-Mej spawned by random
+2591 - 2849 2961 0
+//TzHaar-Mej spawned by random
+2591 - 2848 2962 0
+//Bush spawned by random
+8105 - 2866 2953 0
+//null spawned by danny
+2291 - 3180 3043 0
+//Man spawned by danny
+1 - 3182 3043 0
+//null spawned by danny
+2291 - 3182 3043 0
+//null spawned by danny
+2291 - 3467 3110 0
+//null spawned by danny
+2291 - 3401 2918 0
+//null spawned by danny
+2291 - 3243 2813 0
+//Bush spawned by random
+8105 - 2547 2801 0
+//null spawned by danny
+2291 - 3287 2813 0
+//Bush spawned by random
+8105 - 2552 2808 0
+//Bush spawned by random
+8105 - 2878 5362 0
+//Bush spawned by random
+8105 - 2578 2806 0
+//Bush spawned by random
+8105 - 2575 9890 0
+//General Graardor spawned by random
+6260 - 2241 3326 0
+//General Graardor spawned by random
+6260 - 2241 3326 0
+//General Graardor spawned by random
+6260 - 2241 3326 0
+//General Graardor spawned by random
+6260 - 2241 3326 0
+//General Graardor spawned by random
+6260 - 2241 3326 0
+//General Graardor spawned by random
+6260 - 2241 3326 0
+//General Graardor spawned by random
+6260 - 2241 3326 0
+//General Graardor spawned by random
+6260 - 2241 3326 0
+//Man spawned by 
+1 - 2557 2846 0
+//Nex spawned by 
+13450 - 2562 2847 0
+//Bush spawned by random
+8105 - 2553 2803 0
+//Bush spawned by random
+8105 - 2552 2806 0
+//Bush spawned by random
+8105 - 2935 5325 0
+//Bush spawned by random
+8105 - 3192 9823 0
+//Bush spawned by random
+8105 - 2853 10215 2
+//Bush spawned by random
+8105 - 2553 2804 0
+//TzHaar-Hur spawned by 
+7767 - 4681 5122 0
+//Black Guard spawned by 
+8773 - 1517 4703 0
+//Kingly impling spawned by 
+7903 - 2583 4348 0
+//Kingly impling spawned by 
+7903 - 2583 4348 0
+//Kingly impling spawned by 
+7903 - 2583 4348 0
+//Kingly impling spawned by 
+7903 - 2583 4348 0
+//Kingly impling spawned by 
+7903 - 2583 4348 0
+//Kingly impling spawned by 
+7903 - 2583 4348 0
+//Kingly impling spawned by 
+7903 - 2583 4348 0
+//Kingly impling spawned by 
+7903 - 2583 4348 0
+//Kingly impling spawned by 
+7903 - 2583 4348 0
+//Kingly impling spawned by 
+7903 - 2583 4348 0
+//Kingly impling spawned by 
+7903 - 2583 4348 0
+//Kingly impling spawned by 
+7903 - 2583 4348 0
+//Kingly impling spawned by 
+7903 - 2583 4348 0
+//Kingly impling spawned by 
+7903 - 2583 4348 0
+//Kingly impling spawned by 
+7903 - 2583 4348 0
+//Kingly impling spawned by 
+7903 - 2583 4348 0
+//Kingly impling spawned by 
+7903 - 2583 4348 0
+//Kingly impling spawned by 
+7903 - 2583 4348 0
+//Kingly impling spawned by 
+7903 - 2583 4348 0
+//Kingly impling spawned by 
+7903 - 2583 4348 0
+//Kingly impling spawned by 
+7903 - 2583 4348 0
+//Kingly impling spawned by 
+7903 - 2583 4348 0
+//Kingly impling spawned by 
+7903 - 2583 4348 0
+//Kingly impling spawned by 
+7903 - 2583 4348 0
+//null spawned by 
+5180 - 2498 2935 0
+//Ogre shaman spawned by 
+5177 - 2496 2935 0
+//Blue dragon spawned by 
+5178 - 2496 2936 0
+//Ram spawned by 
+5170 - 2500 2933 0
+//Elkoy spawned by 
+5179 - 2497 2933 0
+//King Vargas spawned by 
+5185 - 2495 2933 0
+//null spawned by 
+5186 - 2494 2933 0
+//Ogre shaman spawned by 
+5176 - 2494 2941 0
+//Ogre shaman spawned by 
+5190 - 2493 2942 1
+//Bush spawned by random
+8105 - 2493 2851 0
+//Bush spawned by random
+8105 - 2554 2802 0
+//Bush spawned by random
+8105 - 2554 2784 0
+//Suspicious water spawned by 
+2891 - 1813 4367 3
+//Kalphite Worker spawned by 
+1153 - 2557 2844 1
+//Bush spawned by random
+8105 - 2846 2955 0
+//Mr Ex spawned by random
+3709 - 3080 3511 0
+//null spawned by random
+2676 - 3095 3497 0
+//null spawned by random
+2676 - 3095 3499 0
+//Wise Old Man spawned by random
+11568 - 3096 3499 0
+//Wise Old Man spawned by random
+2253 - 3096 3499 0
+//null spawned by random
+44 - 3091 3519 0
+//Banker spawned by random
+499 - 3090 3519 0
+//Ringmaster spawned by random
+8085 - 3087 3502 0
+//Bush spawned by random
+8105 - 2668 10397 0
+//Bush spawned by random
+8105 - 2667 10396 0
+//King Black Dragon spawned by 
+50 - 2561 2845 0
+//Man spawned by chime
+1 - 2581 2848 0
+//Man spawned by chime
+1 - 2556 2843 0
+//Man spawned by 
+1 - 2557 2845 0
+//Garkor spawned by 
+1412 - 2611 3566 0
+//Grand Exchange clerk spawned by 
+1419 - 2611 3566 0
+//Bush spawned by random
+8105 - 2611 3565 0
+//Lucien spawned by danny
+14292 - 2675 10416 0
+//Lucien spawned by danny
+14294 - 2675 10416 0
+//Lucien spawned by danny
+14358 - 2675 10416 0
+//Lucien spawned by danny
+15353 - 2675 10416 0
+//Lucien spawned by danny
+15355 - 2675 10416 0
+//Lucien spawned by danny
+8443 - 2675 10416 0
+//Lucien spawned by danny
+8497 - 2675 10416 0
+//Lucien spawned by danny
+14256 - 2675 10416 0
+//Lucien spawned by danny
+14256 - 2674 10417 0
+//General Graardor spawned by pk
+6260 - 3366 3946 0
+//General Graardor spawned by pk
+6260 - 3366 3946 0
+//Lucien spawned by pk
+14358 - 2675 10418 0
+//Lucien spawned by pk
+14294 - 2678 10409 0
+//Lucien spawned by pk
+14292 - 2678 10409 0
+//Lucien spawned by pk
+14256 - 2677 10410 0
+//Man spawned by pk
+1 - 2964 3543 0
+//Lucien spawned by 
+14256 - 3010 5513 0
+//Man spawned by gigabyte
+1 - 2556 2847 0
+//Freaky Forester spawned by random
+100 - 3085 3501 0
+//Kalphite Queen spawned by 
+1160 - 2992 3408 0
+//Grim Reaper spawned by 
+8977 - 2674 10418 0
+//Grim Reaper spawned by 
+8977 - 2674 10418 0
+//null spawned by 
+8799 - 2675 10416 0
+//Grim Reaper spawned by 
+8977 - 2675 10417 0
+//Grim Reaper spawned by 
+8977 - 2676 10416 0
+//Stomp spawned by 
+9827 - 2675 10416 0
+//Assassin spawned by 
+9044 - 2674 10416 0
+//Grim Reaper spawned by 
+8977 - 2675 10417 0
+//Grim Reaper spawned by 
+8977 - 2674 10417 0
+//Grim Reaper spawned by 
+8977 - 2673 10417 0
+//Grim Reaper spawned by 
+8977 - 2675 10418 0
+//Grim Reaper spawned by 
+8977 - 2674 10418 0
+//Grim Reaper spawned by 
+8977 - 2673 10415 0
+//Grim Reaper spawned by 
+8977 - 2674 10418 0
+//Grim Reaper spawned by 
+8977 - 2673 10417 0
+//Grim Reaper spawned by 
+8977 - 2675 10417 0
+//Grim Reaper spawned by 
+8977 - 2674 10417 0
+//Grim Reaper spawned by 
+8977 - 2673 10416 0
+//Grim Reaper spawned by 
+8977 - 2675 10416 0
+//Grim Reaper spawned by 
+8977 - 2673 10415 0
+//Grim Reaper spawned by 
+8977 - 2674 10416 0
+//Grim Reaper spawned by 
+8977 - 2673 10419 0
+//Grim Reaper spawned by 
+8977 - 2674 10417 0
+//Grim Reaper spawned by 
+8977 - 2675 10418 0
+//Dwarf spawned by 
+8897 - 2674 10417 0
+//Grim Reaper spawned by 
+8977 - 2675 10418 0
+//Grim Reaper spawned by 
+8977 - 2674 10418 0
+//Grim Reaper spawned by 
+8977 - 2987 4383 2
+//Grim Reaper spawned by 
+8977 - 2965 4382 2
+//null spawned by 
+8911 - 2964 4382 2
+//Grim Reaper spawned by 
+8977 - 2964 4382 2
+//Grim Reaper spawned by 
+8977 - 2960 4382 2
+//Grim Reaper spawned by 
+8977 - 2957 4380 2
+//Grim Reaper spawned by 
+8977 - 2958 4379 2
+//Grim Reaper spawned by 
+8977 - 2957 4379 2
+//Grim Reaper spawned by 
+8977 - 2956 4379 2
+//Grim Reaper spawned by 
+8977 - 2954 4378 2
+//Grim Reaper spawned by 
+8977 - 2952 4376 2
+//Grim Reaper spawned by 
+8977 - 2949 4374 2
+//Grim Reaper spawned by 
+8977 - 3504 3575 0
+//Skeleton spawned by 
+10628 - 2948 3397 0
+//Skeleton spawned by 
+3151 - 2946 3396 0
+//Skeleton spawned by 
+2715 - 2946 3398 0
+//General Graardor spawned by 
+6260 - 2904 5204 0
+//General Graardor spawned by 
+6260 - 2880 5311 0
+//Hans spawned by 
+0 - 2332 3801 0
+//null spawned by 
+-1 - 2333 3802 0
+//null spawned by 
+-1 - 2332 3802 0
+//null spawned by 
+-1 - 2331 3802 0
+//null spawned by 
+-1 - 2337 3803 0
+//Chompy bird spawned by 
+1016 - 3238 3295 0
+//Chompy bird spawned by 
+1550 - 3239 3291 0
+//Aviansie spawned by 
+6246 - 3239 3289 0
+//Kal'Ger the Warmonger spawned by 
+12774 - 2851 3293 0
+//World-gorger Shukarhazh spawned by 
+12509 - 2844 3291 0
+//Blink spawned by 
+12879 - 2831 3856 0
+//Blink spawned by 
+12878 - 2830 3860 0
+//null spawned by 
+2586 - 3093 3532 0
+//PKMaster0036 spawned by 
+2589 - 3095 3531 0
+//null spawned by 
+2643 - 3082 3535 0
+//null spawned by 
+11700 - 2836 3855 0
+//Dancer spawned by 
+12396 - 2836 3859 0
+//Portal controller spawned by 
+12847 - 2836 3860 0
+//Portal controller spawned by 
+12847 - 2836 3860 0
+//Wilbur spawned by 
+13107 - 2836 3860 0
+//Tough Guy spawned by 
+1906 - 2836 3860 0
+//Leela spawned by 
+13172 - 2836 3860 0
+//Miodvetnir spawned by 
+1847 - 2836 3861 0
+//Monkey knife fighter spawned by 
+13195 - 2836 3863 0
+//King Veldaban spawned by 
+13313 - 2834 3862 0
+//Supreme Commander Bisi spawned by 
+13360 - 2834 3865 0
+//Protester spawned by 
+13389 - 2832 3862 0
+//Hilda spawned by 
+13464 - 2832 3861 0
+//Queen of Sunrise spawned by 
+13643 - 2830 3860 0
+//Queen of Snow spawned by 
+13642 - 2830 3863 0
+//Zanik spawned by 
+3354 - 2833 3859 0
+//Forgotten ranger spawned by 
+13741 - 2832 3859 0
+//Eva spawned by 
+13757 - 2831 3859 0
+//Moe the Miner spawned by 
+13789 - 2830 3855 0
+//Moe the Miner spawned by 
+13789 - 2834 3853 0
+//Larry the Lumberjack spawned by 
+13790 - 2833 3853 0
+//null spawned by 
+1383 - 2832 3857 0
+//Artisan spawned by 
+13928 - 2834 3857 0
+//Ranis Drakan spawned by 
+14160 - 2831 3857 0
+//Snow ranger spawned by 
+14207 - 2832 3855 0
+//Waymottin spawned by 
+1424 - 2833 3855 0
+//Archer spawned by 
+15088 - 2831 3855 0
+//Ranger spawned by 
+2779 - 2830 3858 0
+//Penance Ranger spawned by 
+5041 - 2831 3859 0
+//null spawned by 
+6778 - 2656 10393 0
+//Forgotten ranger spawned by 
+7141 - 2656 10391 0
+//Leprechaun spawned by 
+13655 - 2659 10391 0
+//null spawned by 
+13106 - 2659 10390 0
+//Easter Bunny spawned by 
+13651 - 2656 10389 0
+//Zavistic Rarve spawned by 
+14745 - 2657 10388 0
+//Ozan spawned by 
+13972 - 2658 10387 0
+//Cpl. Shaun Keymans spawned by 
+14899 - 2657 10385 0
+//null spawned by 
+15150 - 2659 10384 0
+//Xenia spawned by 
+13973 - 2658 10382 0
+//FightpitPKer spawned by 
+15151 - 2657 10383 0
+//LolthenKILL spawned by 
+15172 - 2657 10380 0
+//Moe the Miner spawned by 
+13789 - 2659 10382 0
+//Odischamp spawned by 
+15173 - 2661 10380 0
+//A face only his mum loves spawned by 
+15298 - 2658 10379 0
+//Pretty Lass spawned by 
+15319 - 2660 10377 0
+//Protester spawned by 
+13389 - 2660 10376 0
+//Ferret of Doom spawned by 
+15320 - 2659 10375 0
+//Ferret of Doom's friend spawned by 
+15321 - 2658 10375 0
+//Dangerous figure spawned by 
+15360 - 2658 10374 0
+//Mr Ex spawned by 
+3709 - 2660 10371 0
+//Big Ben spawned by 
+15531 - 2658 10371 0
+//Minnie Coop spawned by 
+15533 - 2657 10371 0
+//Minnie Coop spawned by 
+15533 - 2658 10372 0
+//Minnie Coop spawned by 
+15533 - 2659 10371 0
+//Bang Ersenmash spawned by 
+15534 - 2657 10374 0
+//Will Shakenspear spawned by 
+15535 - 2656 10376 0
+//Hey Presto spawned by 
+15582 - 2657 10380 0
+//Zeke spawned by 
+541 - 2832 3853 0
+//Vidar Ilknot spawned by 
+12192 - 3035 3360 0
+//Leela spawned by 
+13172 - 3039 3360 0
+//Ranis Drakan spawned by 
+14160 - 3042 3360 0
+//Lord Daquarius spawned by 
+12306 - 3045 3358 0
+//Dagannoth spawned by 
+1346 - 3045 3355 0
+//Hilda spawned by 
+13464 - 3045 3355 0
+//FightpitPKer spawned by 
+15151 - 3045 3352 0
+//Hey Presto spawned by 
+15582 - 3044 3348 0
+//Moe the Miner spawned by 
+13789 - 3041 3348 0
+//Miodvetnir spawned by 
+1847 - 3038 3348 0
+//Moe the Miner spawned by 
+13789 - 3041 3347 0
+//Miodvetnir spawned by 
+1847 - 3038 3347 0
+//Chomp spawned by 
+7074 - 2833 3856 0
+//Knight Diana spawned by 
+11523 - 2832 3855 0
+//Mrs Gord spawned by 
+11525 - 2832 3855 0
+//Thingummywut spawned by 
+11606 - 2833 3855 0
+//Slithtils spawned by 
+12344 - 2832 3861 0
+//Yaktwee Swinmari Cianta spawned by 
+12337 - 2832 3862 0
+//Hallvar spawned by 
+12 - 2833 3863 0
+//Gleaelg spawned by 
+12342 - 2833 3865 0
+//Angry goblin spawned by 
+3663 - 2835 3864 0
+//Resource NPC spawned by 
+8253 - 2835 3862 0
+//'The Guns' spawned by 
+11248 - 2831 3858 0
+//'The Guns' spawned by 
+11254 - 2832 3858 0
+//K'Chunk spawned by 
+11320 - 2832 3860 0
+//Fat Rocco spawned by 
+11364 - 2830 3860 0
+//Milk seller spawned by 
+11547 - 2829 3859 0
+//Apmeken spawned by 
+13232 - 2833 3864 0
+//Salty Claws spawned by 
+13273 - 2835 3864 0
+//My Arm spawned by 
+13324 - 2836 3864 0
+//Bouncer spawned by 
+14482 - 2940 3376 0
+//Dis-orderly spawned by 
+13582 - 2939 3378 0
+//null spawned by 
+16432 - 2940 3379 0
+//Plague cow spawned by 
+2000 - 2939 3373 0
+//Zombie head spawned by 
+13534 - 2941 3371 0
+//World-gorger Shukarhazh spawned by 
+12540 - 2945 3375 0
+//Farming patch spawned by 
+11402 - 2941 3374 0
+//Damaged construct spawned by 
+11002 - 2938 3370 0
+//King Scorpion spawned by 
+144 - 2938 3370 0
+//Witch spawned by 
+176 - 2938 3367 0
+//Kitten spawned by 
+765 - 2941 3368 0
+//Jukat spawned by 
+564 - 2942 3366 0
+//Jukat spawned by 
+564 - 2941 3365 0
+//Fisherman Frodi spawned by 
+1397 - 2833 3857 0
+//null spawned by 
+17885 - 2806 3436 0
+//Kaqemeex spawned by 
+455 - 2804 3433 0
+//null spawned by 
+44 - 3036 3351 0
+//null spawned by 
+3418 - 3037 3351 0
+//Banker spawned by 
+494 - 3038 3351 0
+//Master Crafter spawned by 
+2732 - 3036 3356 0
+//Herbalist spawned by 
+15015 - 2835 3855 0
+//null spawned by 
+17476 - 2832 3856 0
+//Frincos spawned by 
+578 - 2833 3861 0
+//'The Guns' spawned by 
+11254 - 3036 3347 0
+//Ganodermic runt spawned by 
+14698 - 2832 3852 0
+//Ganodermic beast spawned by 
+14697 - 2832 3855 0
+//Jukat spawned by 
+564 - 2943 3373 0
+//Jukat spawned by 
+564 - 2943 3373 0
+//Jukat spawned by 
+564 - 2943 3373 0
+//Schoolgirl spawned by 
+10 - 2833 3856 0
+//Helga spawned by 
+12388 - 2831 3855 0
+//Benjamin spawned by 
+3570 - 2831 3855 0
+//null spawned by 
+3550 - 2831 3856 0
+//Yk'Lagor the Thunderous spawned by 
+11882 - 2966 3388 0
+//<col=00ffff>Vorago</col> spawned by 
+17162 - 2966 3384 0
+//Vorago spawned by 
+17161 - 2967 3381 0
+//Vorago spawned by 
+17184 - 2962 3382 0
+//Vorago spawned by 
+17183 - 2966 3377 0
+//Vorago spawned by 
+14416 - 2964 3377 0
+//Araxxor spawned by 
+19462 - 2964 3400 0
+//Araxxor (acidic) spawned by 
+19465 - 2965 3397 0
+//Araxxor (acidic) spawned by 
+19467 - 2965 3407 0
+//Araxxor spawned by 
+19457 - 2961 3381 0
+//null spawned by 
+33414 - 2964 3382 0
+//Vorago shard spawned by 
+17397 - 2966 3389 0
+//Melee training dummy spawned by 
+14847 - 2834 3860 0
+//Melee training dummy spawned by 
+16034 - 2833 3856 0
+//Ranged training dummy spawned by 
+16038 - 2831 3855 0
+//Melee training dummy spawned by 
+16045 - 2833 3852 0
+//Magic training dummy spawned by 
+16713 - 2831 3853 0
+//Kalphite King spawned by 
+16697 - 2832 3857 0
+//Magic training dummy spawned by 
+16082 - 2830 3856 0
+//Kalphite King spawned by 
+16697 - 3165 3852 0
+//Kalphite King spawned by 
+16697 - 3163 3850 0
+//Death spawned by 
+20164 - 2980 3415 0
+//Party music box spawned by 
+17101 - 2962 3387 0
+//null spawned by 
+28141 - 2994 3432 0
+//Party music box spawned by 
+17101 - 3010 3431 0
+//Araxxor spawned by 
+19462 - 3118 3721 0
+//Masterwork music box spawned by 
+17102 - 3121 3722 0
+//Dark Lord spawned by 
+19553 - 3085 3502 0
+//Pale wisp spawned by 
+18140 - 2966 3399 0
+//Vibrant spring spawned by 
+18136 - 2964 3403 0
+//Lustrous spring spawned by 
+18137 - 2966 3400 0
+//Air essling spawned by 
+15403 - 2728 3474 0
+//Pale wisp spawned by 
+18140 - 2728 3474 0
+//Pale wisp spawned by 
+18140 - 2728 3474 0
+//Pale wisp spawned by 
+18140 - 2726 3476 0
+//Pale wisp spawned by 
+18140 - 2725 3477 0
+//Pale spring spawned by 
+18173 - 2726 3475 0
+//Pale spring spawned by 
+18173 - 2726 3476 0
+//Pale spring spawned by 
+612 - 2723 3475 0
+//Pale wisp spawned by 
+18140 - 2724 3476 0
+//Pale wisp spawned by 
+18140 - 2726 3477 0
+//Pale wisp spawned by 
+18140 - 2726 3476 0
+//Pale wisp spawned by 
+18140 - 2726 3476 0
+//Pale spring spawned by 
+18173 - 2729 3476 0
+//null spawned by 
+148173 - 2730 3478 0
+//Pale wisp spawned by 
+18140 - 2731 3479 0
+//Pale wisp spawned by 
+18140 - 2733 3478 0
+//Pale wisp spawned by 
+18140 - 2735 3476 0
+//Pale wisp spawned by 
+18150 - 2737 3476 0
+//Pale wisp spawned by 
+18150 - 2737 3478 0
+//Pale wisp spawned by 
+18150 - 2739 3479 0
+//Pale wisp spawned by 
+18150 - 2739 3480 0
+//Pale wisp spawned by 
+18150 - 2736 3477 0
+//Pale wisp spawned by 
+18150 - 2736 3478 0
+//Pale wisp spawned by 
+18150 - 2738 3478 0
+//Pale wisp spawned by 
+18150 - 2739 3478 0
+//Pale wisp spawned by 
+18150 - 2739 3479 0
+//Pale wisp spawned by 
+18150 - 2738 3478 0
+//Pale wisp spawned by 
+18150 - 2738 3479 0
+//Pale wisp spawned by 
+18150 - 2739 3480 0
+//Pale wisp spawned by 
+18150 - 2736 3478 0
+//Pale wisp spawned by 
+18150 - 2737 3478 0
+//Pale wisp spawned by 
+18150 - 2737 3478 0
+//Pale wisp spawned by 
+18150 - 2738 3478 0
+//Pale wisp spawned by 
+18150 - 2738 3479 0
+//Pale wisp spawned by 
+18150 - 2737 3478 0
+//Flickering wisp spawned by 
+18151 - 2739 3479 0
+//Enriched flickering wisp spawned by 
+18152 - 2739 3479 0
+//Bright wisp spawned by 
+18153 - 2737 3478 0
+//Enriched bright wisp spawned by 
+18154 - 2738 3479 0
+//Glowing wisp spawned by 
+18155 - 2738 3479 0
+//Enriched glowing wisp spawned by 
+18156 - 2738 3478 0
+//Sparkling wisp spawned by 
+18157 - 2737 3477 0
+//Enriched sparkling wisp spawned by 
+18158 - 2737 3477 0
+//Gleaming wisp spawned by 
+18159 - 2728 3478 0
+//Enriched gleaming wisp spawned by 
+18160 - 2724 3478 0
+//Vibrant wisp spawned by 
+18161 - 2727 3477 0
+//Enriched vibrant wisp spawned by 
+18162 - 2729 3479 0
+//Lustrous wisp spawned by 
+18163 - 2729 3477 0
+//Enriched incandescent spring spawned by 
+18195 - 2725 3479 0
+//Incandescent spring spawned by 
+18194 - 2724 3476 0
+//Legio Primus spawned by 
+17149 - 2736 3478 0
+//Pale wisp spawned by 
+18150 - 2736 3477 0
+//Flickering spring spawned by 
+18174 - 3115 3224 0
+//Bright wisp spawned by 
+18153 - 3130 3225 0
+//Elder spring spawned by 
+13616 - 3130 3226 0
+//Incandescent wisp spawned by 
+18171 - 3139 3229 0
+//Incandescent spring spawned by 
+18194 - 3144 3231 0
+//Brilliant spring spawned by 
+18188 - 3145 3234 0
+//Brilliant spring spawned by 
+18188 - 3147 3235 0
+//Pale spring spawned by 
+18173 - 3149 3236 0
+//Incandescent spring spawned by 
+18194 - 3119 3217 0
+//Incandescent spring spawned by 
+18194 - 3119 3220 0
+//Pale wisp spawned by 
+18150 - 3124 3223 0
+//Incandescent wisp spawned by 
+18171 - 3120 3215 0
+//Incandescent wisp spawned by 
+18171 - 3120 3218 0
+//Incandescent wisp spawned by 
+18171 - 3122 3220 0
+//Incandescent wisp spawned by 
+18171 - 3121 3220 0
+//Enriched gleaming spring spawned by 
+18183 - 3128 3225 0
+//Enriched elder spring spawned by 
+13627 - 3129 3229 0
+//Enriched brilliant spring spawned by 
+18189 - 3132 3227 0
+//Enriched incandescent spring spawned by 
+18195 - 3136 3226 0
+//Enriched incandescent spring spawned by 
+18195 - 3127 3228 0
+//Gleaming wisp spawned by 
+18145 - 3130 3224 0
+//null spawned by 
+19137 - 3133 3227 0
+//Enriched flickering wisp spawned by 
+18152 - 3135 3230 0
+//Glowing wisp spawned by 
+18155 - 2737 3407 0
+//Brilliant wisp spawned by 
+18165 - 2427 2866 0
+//Vibrant wisp spawned by 
+18161 - 2430 2864 0
+//Enriched glowing wisp spawned by 
+18156 - 2432 2857 0
+//Enriched luminous spring spawned by 
+18193 - 3130 3226 0
+//Luminous spring spawned by 
+18192 - 3134 3228 0
+//Luminous wisp spawned by 
+18169 - 3134 3228 0
+//Incandescent wisp spawned by 
+18171 - 3138 3228 0
+//Incandescent spring spawned by 
+18194 - 3139 3226 0
+//Enriched incandescent spring spawned by 
+18195 - 3140 3230 0
+//null spawned by 
+90223 - 2992 3400 0
+//Araxxi spawned by 
+19464 - 3134 3214 0
+//Araxxor spawned by 
+19463 - 2728 3478 0
+//Araxxor spawned by 
+19462 - 2730 3479 0
+//Araxxi spawned by 
+19464 - 2733 3478 0
+//Max spawned by drake
+15978 - 3246 3455 0
+//Max spawned by drake
+15978 - 3246 3454 0
+//Max spawned by drake
+15977 - 3247 3453 0
+//Max spawned by drake
+15976 - 3248 3455 0
+//Max spawned by drake
+3705 - 3247 3456 0
+//Max spawned by drake
+3705 - 3246 3449 0
+//Man spawned by drake
+1 - 3247 3447 0
+//Man spawned by drake
+2 - 3247 3448 0
+//Man spawned by drake
+1 - 3247 3445 0
+//Man spawned by drake
+2 - 3246 3449 0
+//Mr Ex spawned by drake
+3709 - 2830 3860 0
+//Sbott spawned by drake
+1041 - 2855 3530 3
+//Banker spawned by drake
+4456 - 2857 3530 3
+//Banker spawned by drake
+6200 - 2946 3369 0
+//Knight spawned by drake
+6201 - 2851 3535 3
+//null spawned by drake
+6199 - 2851 3535 3
+//null spawned by drake
+6199 - 2850 3534 3
+//Banker spawned by drake
+495 - 2725 3492 0
+//Grand Exchange clerk spawned by drake
+2593 - 2858 3542 3
+//Grand Exchange clerk spawned by drake
+2593 - 2859 3542 3
+//Banker spawned by drake
+3416 - 2857 3543 3
+//Banker spawned by drake
+3416 - 2857 3544 3
+//Grand Exchange clerk spawned by drake
+2593 - 2858 3545 3
+//Grand Exchange clerk spawned by drake
+2593 - 2859 3545 3
+//Banker spawned by drake
+3416 - 2860 3544 3
+//Banker spawned by drake
+3416 - 2860 3543 3
+//Man spawned by drake
+1 - 2846 3532 3
+//Shopkeeper spawned by drake
+526 - 2854 3550 3
+//Shopkeeper spawned by drake
+526 - 2859 3531 3
+//Flynn spawned by drake
+580 - 2853 3551 3
+//Scribe spawned by drake
+5915 - 2851 3540 3
+//Scribe spawned by drake
+5915 - 2850 3531 3
+//Captain of the Guard spawned by drake
+13633 - 2849 3531 3
+//Ileana spawned by drake
+3547 - 2840 3547 3
+//Ellis spawned by drake
+2824 - 2856 3534 3
+//Shop assistant spawned by drake
+525 - 2857 3537 3
+//Shopkeeper spawned by drake
+526 - 2859 3536 3
+//Shopkeeper spawned by drake
+526 - 2853 3539 3
+//Flynn spawned by drake
+580 - 2853 3538 3
+//Mr Ex spawned by drake
+3709 - 2840 3551 3
+//Wizard Acantha spawned by drake
+8031 - 2845 3547 3
+//Vanstrom Klause spawned by drake
+14176 - 2848 3543 3
+//Fishing spot spawned by drake
+8647 - 2850 3543 3
+//Zookeeper spawned by drake
+28 - 2911 3422 0
+//"Chaeldar" spawned by drake
+17878 - 2445 4433 0
+//Chaeldar spawned by drake
+1598 - 2446 4434 0
+//Morvran spawned by drake
+1188 - 1738 5312 1
+//Morvran spawned by drake
+20112 - 1738 5313 1
+//Vidar Ilknot spawned by drake
+12192 - 2868 3551 3
+//'The Guns' spawned by drake
+11254 - 2861 3533 3
+//Moe the Miner spawned by drake
+13789 - 2875 3550 3
+//Town crier spawned by drake
+6137 - 3035 3358 0
+//Strange creature spawned by drake
+1224 - 2866 3542 3
+//Molly spawned by drake
+20565 - 2868 3548 3
+//Female mannequin spawned by drake
+20501 - 2867 3547 3
+//Mod Elfborne spawned by drake
+20473 - 2869 3547 3
+//Meredith spawned by drake
+20469 - 2870 3546 3
+//Lol spawned by drake
+20439 - 2871 3545 3
+//"Grand Exchange clerk" spawned by drake
+20064 - 2866 3546 3
+//""Grand Exchange clerk"" spawned by drake
+20053 - 2865 3545 3
+//"Rhobert Dail (herbs)" spawned by drake
+19969 - 2863 3545 3
+//Rhobert Dail (herbs) spawned by drake
+19919 - 2863 3544 3
+//Grand Exchange clerk spawned by drake
+19911 - 2862 3543 3
+//<col=B8D1D1>Black partyhat spawned by drake
+19274 - 2863 3542 3
+//null spawned by drake
+88872 - 2862 3538 3
+//Solomon spawned by drake
+18808 - 3184 3435 0
+//Male mannequin spawned by drake
+18809 - 2862 3538 3
+//[ph] spawned by drake
+18807 - 2862 3537 3
+//Man spawned by drake
+1 - 2863 3539 3
+//Man spawned by drake
+1 - 2864 3540 3
+//Man spawned by drake
+1 - 2861 3539 3
+//Imp spawned by drake
+14741 - 2864 3537 3
+//Fungal rodent spawned by drake
+14692 - 3552 9506 0
+//Party Demon spawned by drake
+15581 - 3554 9506 0
+//Solomon spawned by drake
+18808 - 2852 3539 3
+//Man spawned by drake
+1 - 2861 3538 3
+//Man spawned by drake
+1 - 2853 3539 3
+//Man spawned by drake
+1 - 2853 3538 3
+//Larrissa spawned by drake
+1337 - 2852 3538 3
+//Man spawned by drake
+2 - 2851 3538 3
+//Man spawned by drake
+1 - 2868 3541 3
+//Man spawned by drake
+1 - 2866 3539 3
+//Man spawned by drake
+1 - 2866 3540 3
+//Man spawned by drake
+1 - 2867 3545 3
+//Man spawned by drake
+1 - 2863 3538 3
+//Man spawned by drake
+1 - 2863 3541 3
+//Man spawned by drake
+1 - 2859 3537 3
+//Man spawned by drake
+1 - 2851 3539 3
+//Man spawned by drake
+1 - 2856 3537 3
+//Man spawned by drake
+1 - 2855 3537 3
+//Man spawned by drake
+1 - 2858 3539 3
+//Man spawned by drake
+1 - 2861 3537 3
+//Man spawned by drake
+1 - 2858 3539 3
+//Man spawned by drake
+1 - 2860 3539 3
+//Man spawned by drake
+1 - 2863 3538 3
+//Man spawned by drake
+1 - 2862 3539 3
+//Man spawned by drake
+1 - 2865 3543 3
+//Man spawned by drake
+1 - 2867 3543 3
+//Man spawned by drake
+1 - 2867 3543 3
+//Man spawned by drake
+1 - 2868 3543 3
+//Man spawned by drake
+1 - 2869 3543 3
+//Man spawned by drake
+1 - 2866 3542 3
+//Man spawned by drake
+1 - 2869 3543 3
+//Town crier spawned by drake
+6137 - 2849 3531 3
+//null spawned by drake
+47120 - 3088 3490 0
+//Man spawned by drake
+1 - 3209 3242 0
+//Man spawned by drake
+1 - 3207 3217 2
+//null spawned by drake
+8480 - 2857 3549 3
+//Man spawned by drake
+1 - 2855 3541 3
+//null spawned by drake
+14994 - 2887 3531 0
+//Yelps spawned by drake
+20453 - 2855 3540 3
+//Lol spawned by drake
+20439 - 2856 3539 3
+//Yelps spawned by drake
+20432 - 2856 3539 3
+//Apep spawned by drake
+20424 - 2854 3538 3
+//The Inadequacy spawned by drake
+20416 - 2853 3538 3
+//Harmony pillar farmer spawned by drake
+20285 - 2849 3537 3
+//Madoc spawned by drake
+20279 - 2847 3537 3
+//Johnny spawned by drake
+20264 - 2847 3536 3
+//Confused automaton spawned by drake
+20197 - 2846 3538 3
+//Briallen spawned by drake
+20106 - 2846 3538 3
+//""I'm a replacement"" spawned by drake
+19981 - 2845 3537 3
+//Mod Elfborne spawned by drake
+19865 - 2845 3535 3
+//Death spawned by drake
+19669 - 2847 3535 3
+//Yelps's bodyguard spawned by drake
+19358 - 2844 3541 3
+//"Ned" spawned by drake
+19340 - 2843 3543 3
+//Ned spawned by drake
+19308 - 2843 3542 3
+//Smith spawned by drake
+19310 - 2844 3541 3
+//Magda spawned by drake
+19307 - 2842 3538 2
+//Hendrik spawned by drake
+19306 - 2842 3537 2
+//Magda spawned by drake
+19305 - 2842 3536 2
+//Quarry overseer spawned by drake
+19304 - 2840 3537 2
+//Ned spawned by drake
+19303 - 2840 3536 2
+//Hendrik spawned by drake
+19302 - 2841 3535 2
+//Lucy spawned by drake
+19301 - 2840 3535 2
+//Zaros spawned by drake
+19272 - 2842 3535 2
+//Zaros spawned by drake
+19270 - 2842 3534 2
+//Zaros spawned by drake
+19271 - 2842 3534 2
+//Zaros spawned by drake
+19271 - 2843 3533 2
+//Zaros spawned by drake
+19272 - 2843 3533 2
+//Zaros spawned by drake
+19273 - 2842 3533 2
+//Zaros spawned by drake
+19267 - 2844 3535 2
+//tpr_cutscene_crystal_zaros_damaged spawned by drake
+19266 - 2844 3534 2
+//Mah spawned by drake
+19265 - 2846 3533 2
+//tpr_crystal_zaros spawned by drake
+19264 - 2844 3535 2
+//Sliske spawned by drake
+19164 - 2844 3535 2
+//Sliske spawned by drake
+19164 - 2845 3518 0
+//Hannibus spawned by drake
+19161 - 2844 3518 0
+//Azzanadra spawned by drake
+19158 - 2843 3518 0
+//False User spawned by drake
+19115 - 2842 3519 0
+//The Architect spawned by drake
+18884 - 2844 3520 0
+//Follower of Sliske spawned by drake
+18729 - 2846 3519 0
+//6awe2_closing_cutscene_bandos_tower_explode spawned by drake
+18699 - 2846 3520 0
+//Gudrik spawned by drake
+18616 - 2820 3512 0
+//"Kraka" spawned by drake
+18408 - 2820 3511 0
+//Kebab spawned by drake
+18357 - 2820 3510 0
+//Warborn behemoth phase III spawned by drake
+17791 - 2822 3509 0
+//"1337sp34kr" spawned by drake
+17750 - 2824 3510 0
+//Fred spawned by drake
+17616 - 2825 3509 0
+//Zamorakian sniper spawned by drake
+17591 - 2826 3508 0
+//Moia spawned by drake
+17555 - 2827 3508 0
+//Kara-Meir spawned by drake
+17556 - 2827 3507 0
+//Padomenes spawned by drake
+17554 - 2826 3506 0
+//Mod Moltare's clone spawned by drake
+17466 - 2825 3506 0
+//Mod Moltare's clone spawned by drake
+17466 - 2813 3509 0
+//Mod Raven's clone spawned by drake
+17467 - 2814 3509 0
+//Mod Crow's clone spawned by drake
+17468 - 2814 3511 0
+//Mod Sabre's clone spawned by drake
+17469 - 2813 3511 0
+//Mod Sushi Pi's clone spawned by drake
+17470 - 2812 3510 0
+//Moia spawned by drake
+17427 - 2811 3510 0
+//Dad spawned by drake
+17306 - 2811 3508 0
+//<col=B8D1D1>Christmas cracker spawned by drake
+17205 - 2811 3508 0
+//Captain spawned by drake
+16273 - 2809 3509 0
+//Wizard spawned by drake
+16206 - 2808 3510 0
+//Wizard spawned by drake
+16188 - 2808 3511 0
+//Wizard Traiborn spawned by drake
+16180 - 2807 3512 0
+//Max spawned by drake
+15978 - 2808 3512 0
+//Max spawned by drake
+15976 - 2808 3513 0
+//Bettamax spawned by drake
+13106 - 2806 3512 0
+//Max spawned by drake
+3705 - 2805 3511 0
+//Max spawned by drake
+3399 - 2805 3511 0
+//Nial Swiftfling spawned by drake
+20440 - 2846 3542 3
+//Echo of Jas spawned by drake
+20436 - 2845 3541 3
+//Koschei the Deathless spawned by drake
+20417 - 2843 3541 3
+//Trail advisor spawned by drake
+20366 - 2842 3542 3
+//Wizard spawned by drake
+16206 - 2841 3541 3
+//Wizard spawned by drake
+16206 - 2855 3527 3
+//<col=B8D1D1>Christmas cracker spawned by drake
+17205 - 2853 3536 3
+//<col=B8D1D1>Black partyhat spawned by drake
+19274 - 2862 3538 3
+//<col=B8D1D1>Garish-pink partyhat spawned by drake
+19275 - 2864 3539 3
+//<col=B8D1D1>Atomic tangerine partyhat spawned by drake
+19276 - 2865 3538 3
+//<col=B8D1D1>Aquamarine partyhat spawned by drake
+19277 - 2865 3540 3
+//<col=B8D1D1>Sepia partyhat spawned by drake
+19278 - 2865 3541 3
+//<col=B8D1D1>Battleship gray partyhat spawned by drake
+19279 - 2865 3540 3
+//<col=B8D1D1>Battleship gray partyhat spawned by drake
+19279 - 2858 3530 3
+//<col=B8D1D1>Battleship gray partyhat spawned by drake
+19279 - 2858 3542 3
+//Padomenes spawned by drake
+17554 - 2856 3535 3
+//Ned spawned by drake
+19308 - 2854 3536 3
+//Ned spawned by drake
+918 - 2854 3537 3
+//Ned spawned by drake
+4475 - 2852 3537 3
+//Ned spawned by drake
+18606 - 2852 3536 3
+//Wizard Korvak spawned by drake
+8029 - 2847 3541 3
+//Wizard Korvak spawned by drake
+14752 - 2846 3541 3
+//Wizard Mizgog spawned by drake
+14759 - 2846 3542 3
+//Gilded cabbage spawned by drake
+18095 - 2848 3543 3
+//Pirate spawned by drake
+14345 - 2849 3542 3
+//Mauritzio spawned by drake
+19455 - 2850 3542 3
+//Trang spawned by drake
+19456 - 2850 3543 3
+//player spawned by drake
+19431 - 2852 3543 3
+//Grubfoot spawned by drake
+19385 - 2853 3542 3
+//Nora spawned by drake
+19349 - 2852 3540 3
+//Holstein, Emissary of the Godless spawned by drake
+19285 - 2851 3540 3
+//Marimbo spawned by drake
+19286 - 2850 3540 3
+//Brassica Prime spawned by drake
+19287 - 2852 3540 3
+//Sir Vyvin spawned by drake
+18944 - 2850 3536 2
+//"6awe2_closing_cutscene_bandos_staff" spawned by drake
+18909 - 2851 3535 2
+//Eir spawned by drake
+18893 - 2853 3539 2
+//Rasmus Claus spawned by drake
+18862 - 2853 3541 2
+//Quarry overseer spawned by drake
+18604 - 2852 3541 2
+//Builder Bob spawned by drake
+18527 - 2849 3538 3
+//Statue of Death spawned by drake
+18500 - 2849 3536 3
+//Akthanakos spawned by drake
+18482 - 2847 3535 3
+//Ilfeen spawned by drake
+18469 - 2847 3535 3
+//Hreidmar spawned by drake
+18443 - 2846 3535 3
+//Zenn spawned by drake
+18327 - 2845 3535 3
+//Nulodion spawned by drake
+18309 - 2843 3536 3
+//"Port staff" spawned by drake
+17981 - 2844 3537 3
+//Wardsman spawned by drake
+17505 - 2843 3538 3
+//ZMI Mage spawned by drake
+17504 - 2842 3539 3
+//Wardsman spawned by drake
+17506 - 2842 3540 3
+//Wardsman spawned by drake
+17507 - 2843 3541 3
+//Witch Doctor spawned by drake
+17508 - 2841 3542 3
+//Old man spawned by drake
+17449 - 2840 3543 3
+//Sigmund spawned by drake
+17319 - 2841 3544 3
+//Travelling elf spawned by drake
+17174 - 2841 3545 3
+//Jasper spawned by drake
+17155 - 2841 3547 1
+//Exiled kalphite marauder spawned by drake
+17156 - 2841 3546 1
+//Vitalis spawned by drake
+17157 - 2841 3545 1
+//Mage spawned by drake
+15392 - 2840 3543 1
+//Hooved mage spawned by drake
+15362 - 2840 3542 1
+//Magestix spawned by drake
+14867 - 2840 3541 1
+//Poletax spawned by drake
+14854 - 2840 3540 1
+//Traiborn spawned by drake
+14722 - 2845 3535 1
+//Traiborn spawned by drake
+14722 - 2847 3541 3
+//Grim Reaper spawned by drake
+8977 - 2845 3543 3
+//Traiborn spawned by drake
+881 - 2847 3537 3
+//Man spawned by drake
+1 - 2857 3537 3
+//Man spawned by drake
+1 - 2849 3531 3
+//Man spawned by drake
+1 - 2849 3533 3
+//King Black Dragon spawned by drake
+50 - 2273 4691 0
+//Giant crypt spider spawned by drake
+2035 - 2854 3537 3
+//Imp spawned by drake
+14741 - 2854 3539 3
+//Thorny snail spawned by drake
+6807 - 2854 3540 3
+//Thrower Troll spawned by drake
+1104 - 3544 9501 0
+//Giant rat spawned by drake
+950 - 3545 9499 0
+//Imp spawned by drake
+14741 - 2852 3539 3
+//Living rock patriarch spawned by drake
+8834 - 2853 3539 3
+//Vorago spawned by drake
+14416 - 2853 3536 3
+//Traiborn spawned by drake
+14722 - 3553 9497 0
+//Vorago spawned by drake
+14416 - 3553 9499 0
+//Vorago spawned by drake
+14416 - 3553 9490 0
+//Vorago spawned by drake
+14416 - 3542 9453 0
+//Vorago spawned by drake
+14416 - 3552 9501 0
+//Vorago spawned by drake
+14416 - 2832 3538 3
+//Imp spawned by drake
+14741 - 2846 3541 3
+//Araxxi spawned by drake
+19464 - 2844 3541 3
+//Vorago spawned by drake
+17182 - 2848 3543 3
+//Araxxi spawned by drake
+19464 - 3347 3745 0
+//Araxxi spawned by drake
+19464 - 3347 3745 0
+//Vorago spawned by drake
+17182 - 3347 3745 0
+//Imp spawned by drake
+14741 - 3347 3745 0
+//Vorago spawned by drake
+17182 - 3347 3745 0
+//Araxxor spawned by drake
+19463 - 3347 3745 0
+//Araxxor spawned by drake
+19463 - 3350 3728 0
+//Araxxor spawned by drake
+19463 - 3267 3755 0
+//Araxxor spawned by drake
+19463 - 3272 3779 0
+//Araxxor spawned by drake
+19463 - 3269 3779 0
+//Araxxor spawned by drake
+19463 - 4097 4177 3
+//Araxxor spawned by drake
+19463 - 4099 4176 3
+//Araxxor spawned by drake
+19463 - 4098 4176 3
+//Araxxor spawned by drake
+19463 - 4098 4176 3
+//Barrelchest spawned by drake
+5666 - 2851 3541 3
+//Barrelchest spawned by drake
+6696 - 2853 3539 3
+//Barrelchest Mk II spawned by drake
+6712 - 2854 3539 3
+//Barrelchest Mk II spawned by drake
+13577 - 2851 3542 3
+//Barrelchest Mk II spawned by drake
+13579 - 2854 3544 3
+//Barrelchest spawned by drake
+5666 - 3814 2843 0
+//Dark mage spawned by drake
+2262 - 2853 3548 3
+//Man spawned by drake
+1 - 2867 3544 3
+//Hunting expert spawned by drake
+5113 - 2868 3549 3
+//Aubury spawned by drake
+5913 - 2868 3549 3
+//Curator Haig Halen spawned by drake
+646 - 2867 3549 3
+//Zaff spawned by drake
+546 - 2866 3549 3
+//Nurmof spawned by drake
+594 - 2870 3550 3
+//Horvik spawned by drake
+549 - 2870 3550 3
+//Restless ghost spawned by drake
+457 - 2871 3548 3
+//Ghostly waif spawned by drake
+20211 - 2871 3547 3
+//Ghostly waif spawned by drake
+20210 - 2871 3546 3
+//Protester spawned by drake
+13389 - 2870 3542 3
+//Max spawned by drake
+3705 - 2874 3548 3
+//Fisherman spawned by drake
+13732 - 2873 3548 3
+//Fisherman spawned by drake
+15567 - 2873 3547 3
+//Fisherman spawned by drake
+15568 - 2854 3540 3
+//Fisherman spawned by drake
+16680 - 2856 3428 0
+//Fisherman spawned by drake
+15000 - 2856 3429 0
+//Fisherman spawned by drake
+13734 - 2856 3430 0
+//Fisherman Frodi spawned by drake
+1397 - 2853 3429 0
+//Big Dave spawned by drake
+228 - 2874 3540 3
+//Bob spawned by drake
+519 - 2872 3547 3
+//Bob spawned by drake
+815 - 2872 3546 3
+//Bob spawned by drake
+2635 - 2872 3545 3
+//Bob spawned by drake
+5058 - 2871 3545 3
+//Bob Barter (herbs) spawned by drake
+6524 - 2870 3544 3
+//Bob spawned by drake
+13936 - 2869 3544 3
+//Bob spawned by drake
+13936 - 2867 3540 3
+//Bob spawned by drake
+14359 - 2868 3540 3
+//"Rhobert Dail (herbs)" spawned by drake
+19844 - 2869 3541 3
+//Rhobert Dail (herbs) spawned by drake
+19919 - 2868 3541 3
+//Zamorakian herbalist's son spawned by drake
+17478 - 2867 3541 3
+//Herbalist spawned by drake
+15015 - 2866 3542 3
+//Bob Barter (herbs) spawned by drake
+6524 - 2865 3541 3
+//Mime spawned by drake
+1056 - 2870 3549 3
+//Dungeoneering skillcape (melee) spawned by drake
+12185 - 2870 3547 3
+//Mime spawned by drake
+12189 - 2869 3546 3
+//Aubury spawned by drake
+5913 - 3233 3446 0
+//Max spawned by drake
+3705 - 3234 3451 0
+//Odd Old Man spawned by drake
+9173 - 3361 3505 0
+//Lola Wut spawned by drake
+9310 - 2859 3538 3
+//Skoblin spawned by drake
+9611 - 2865 3538 3
+//Old man spawned by drake
+17449 - 2866 3538 3
+//Guildmaster Darren Lightfinger spawned by drake
+17462 - 2867 3538 3
+//Mod Drebin's clone spawned by drake
+17463 - 2870 3538 3
+//Warborn behemoth phase III spawned by drake
+17791 - 2870 3539 3
+//Alice spawned by drake
+19280 - 2871 3542 3
+//Alice spawned by drake
+19723 - 2871 3541 3
+//Wizard Goldberg spawned by drake
+19721 - 2873 3544 3
+//Elen Anterth spawned by drake
+19785 - 2872 3544 3
+//Elen Anterth spawned by drake
+19785 - 2871 3544 3
+//Elen Anterth spawned by drake
+19786 - 2870 3544 2
+//Pirate Pete spawned by drake
+19722 - 2871 3544 2
+//Captain Haskell spawned by drake
+19720 - 2871 3543 2
+//Vigr spawned by drake
+19652 - 2871 3542 2
+//Ted Rehnison spawned by drake
+19642 - 2871 3541 2
+//Jethick spawned by drake
+19608 - 2869 3539 2
+//Bombi spawned by drake
+20461 - 2868 3539 2
+//Nial Swiftfling spawned by drake
+20440 - 2867 3541 2
+//Apep spawned by drake
+20424 - 2864 3541 2
+//Koschei the Deathless spawned by drake
+20417 - 2862 3541 2
+//Abyssal anchor spawned by drake
+20379 - 2860 3543 2
+//Emlyn spawned by drake
+20311 - 2860 3542 2
+//Captain Muggin spawned by drake
+20299 - 2859 3536 2
+//Harmony pillar farmer spawned by drake
+20285 - 2860 3534 2
+//Johnny spawned by drake
+20264 - 2861 3534 2
+//Steve-o spawned by drake
+20261 - 2862 3534 2
+//Rowena spawned by drake
+20228 - 2862 3535 2
+//Lord Amlodd spawned by drake
+20229 - 2862 3536 2
+//Monster spawned by drake
+20220 - 2862 3535 2
+//Lenian spawned by drake
+20214 - 2857 3532 2
+//Muncher spawned by drake
+20163 - 2855 3532 2
+//Larxus spawned by drake
+3050 - 2855 3532 2
+//Larxus spawned by drake
+3050 - 2851 3532 2
+//50% Luke spawned by drake
+6700 - 2852 3533 2
+//Matt the turkey protestor spawned by drake
+8869 - 2851 3533 2
+//Taevas spawned by drake
+8870 - 2850 3533 2
+//Taevas spawned by drake
+8870 - 2852 3536 2
+//Roddeck spawned by drake
+8863 - 2850 3534 2
+//Roddeck spawned by drake
+7909 - 2849 3534 2
+//Man spawned by drake
+1 - 2855 3537 3
+//Man spawned by drake
+1 - 2853 3538 3
+//Man spawned by drake
+1 - 2854 3538 3
+//Cassie spawned by drake
+577 - 2843 3551 3
+//Man spawned by drake
+1 - 2862 3542 3
+//Man spawned by drake
+1 - 2862 3542 3
+//Man spawned by drake
+1 - 2858 3536 3
+//Man spawned by drake
+1 - 2855 3539 3
+//Man spawned by drake
+1 - 2856 3537 3
+//Man spawned by drake
+1 - 2856 3537 3
+//Man spawned by drake
+1 - 2856 3537 3
+//Man spawned by drake
+1 - 2856 3537 3
+//Man spawned by drake
+1 - 2856 3537 3
+//Man spawned by drake
+1 - 2856 3537 3
+//Man spawned by drake
+1 - 2856 3537 3
+//Man spawned by drake
+1 - 4448 4582 1
+//Man spawned by drake
+1 - 4448 4582 1
+//Man spawned by drake
+1 - 4448 4582 1
+//Man spawned by drake
+1 - 4448 4582 1
+//Man spawned by drake
+1 - 4448 4582 1
+//Man spawned by drake
+1 - 4448 4582 1
+//Man spawned by drake
+1 - 4448 4582 1
+//Man spawned by drake
+1 - 4448 4582 1
+//Man spawned by drake
+1 - 4448 4582 1
+//Man spawned by drake
+1 - 4448 4582 1
+//Man spawned by drake
+1 - 4448 4582 1
+//Man spawned by drake
+1 - 4448 4582 1
+//Man spawned by drake
+1 - 4448 4582 1
+//Man spawned by drake
+1 - 4448 4582 1
+//Man spawned by drake
+1 - 4448 4582 1
+//Man spawned by drake
+1 - 4448 4582 1
+//Man spawned by drake
+1 - 4448 4582 1
+//Man spawned by drake
+1 - 4448 4582 1
+//Man spawned by drake
+1 - 4448 4582 1
+//Man spawned by drake
+1 - 4448 4582 1
+//Man spawned by drake
+1 - 4448 4582 1
+//Man spawned by drake
+1 - 4448 4582 1
+//Man spawned by drake
+1 - 4448 4582 1
+//Man spawned by drake
+1 - 4448 4582 1
+//Man spawned by drake
+1 - 4448 4582 1
+//Man spawned by drake
+1 - 4448 4582 1
+//Man spawned by drake
+1 - 4448 4582 1
+//Man spawned by drake
+1 - 4448 4582 1
+//Man spawned by drake
+1 - 4448 4582 1
+//Man spawned by drake
+1 - 4448 4582 1
+//Man spawned by drake
+1 - 4448 4582 1
+//Man spawned by drake
+1 - 4448 4582 1
+//Man spawned by drake
+1 - 4448 4582 1
+//Man spawned by drake
+1 - 4448 4582 1
+//Man spawned by drake
+1 - 4448 4582 1
+//Man spawned by drake
+1 - 4448 4582 1
+//Man spawned by drake
+1 - 4448 4582 1
+//Man spawned by drake
+1 - 4448 4582 1
+//Man spawned by drake
+1 - 4448 4582 1
+//Man spawned by drake
+1 - 4448 4582 1
+//Man spawned by drake
+1 - 4448 4582 1
+//Man spawned by drake
+1 - 4448 4582 1
+//Man spawned by drake
+1 - 4448 4582 1
+//Man spawned by drake
+1 - 4448 4582 1
+//Sunfreet spawned by drake
+15221 - 2853 3537 3
+//Sunfreet spawned by drake
+15222 - 2849 3546 3
+//Traiborn spawned by drake
+14722 - 2847 3526 3
+//Man spawned by drake
+1 - 2869 3547 3
+//Man spawned by drake
+1 - 2869 3545 3
+//Barrelchest spawned by drake
+5666 - 2866 3541 3
+//Barrelchest spawned by drake
+5666 - 2868 3540 3
+//Araxxor spawned by drake
+19463 - 4441 4569 1
+//Man spawned by drake
+1 - 2859 3538 3
+//Man spawned by drake
+1 - 2866 3543 3
+//Man spawned by drake
+1 - 2852 3540 3
+//Grand Exchange clerk spawned by drake
+2593 - 3959 4820 1
+//<col=B8D1D1>Sepia partyhat spawned by drake
+19278 - 3976 4823 1
+//<col=B8D1D1>Garish-pink partyhat spawned by drake
+19275 - 3974 4814 1
+//<col=B8D1D1>Garish-pink partyhat spawned by drake
+19275 - 3976 4813 1
+//Man spawned by drake
+1 - 2849 3538 3
