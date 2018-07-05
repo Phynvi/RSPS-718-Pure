@@ -4,6 +4,10 @@
   <artifactId>RSPS-718-Pure</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>RSPS-718-Pure</name>
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+  </properties>
   <build>
     <sourceDirectory>src</sourceDirectory>
     <resources>
