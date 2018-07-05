@@ -1,4 +1,4 @@
-package com.rs.game.npc.pestinvasion;
+﻿package com.rs.game.npc.pestinvasion;
 
 import com.rs.game.Animation;
 import com.rs.game.Entity;

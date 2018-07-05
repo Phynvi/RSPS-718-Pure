@@ -1,4 +1,4 @@
-package com.rs.game.player.controlers;
+﻿package com.rs.game.player.controlers;
 
 import com.rs.game.WorldTile;
 import com.rs.game.player.Player;

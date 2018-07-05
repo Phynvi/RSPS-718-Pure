@@ -1,4 +1,4 @@
-package com.rs.game.player.dialogues.masters;
+﻿package com.rs.game.player.dialogues.masters;
 
 import com.rs.cache.loaders.NPCDefinitions;
 import com.rs.game.player.Skills;

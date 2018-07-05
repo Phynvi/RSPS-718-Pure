@@ -1,4 +1,4 @@
-/*Author: Regicidal
+﻿/*Author: Regicidal
  * Date: 1/14/2014
  * Town Crier's Dialogue
  */

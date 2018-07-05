@@ -1,4 +1,4 @@
-package com.rs.game.npc.fightpits;
+﻿package com.rs.game.npc.fightpits;
 
 import com.rs.game.Animation;
 import com.rs.game.Entity;

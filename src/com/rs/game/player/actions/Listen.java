@@ -1,4 +1,4 @@
-package com.rs.game.player.actions;
+﻿package com.rs.game.player.actions;
 
 import com.rs.game.Animation;
 import com.rs.game.player.Player;

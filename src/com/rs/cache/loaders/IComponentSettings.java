@@ -1,4 +1,4 @@
-package com.rs.cache.loaders;
+﻿package com.rs.cache.loaders;
 
 public class IComponentSettings {
 	public int settings;

@@ -1,4 +1,4 @@
-package com.rs.game.player.controlers;
+﻿package com.rs.game.player.controlers;
 
 import java.util.HashMap;
 import java.util.Map;

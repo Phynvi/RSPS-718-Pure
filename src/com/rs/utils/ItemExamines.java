@@ -1,4 +1,4 @@
-package com.rs.utils;
+﻿package com.rs.utils;
 
 import java.io.BufferedReader;
 import java.io.DataOutputStream;
@@ -69,7 +69,7 @@ public class ItemExamines {
 					break;
 				if (line.startsWith("//"))
 					continue;
-				line = line.replace("﻿", "");
+				line = line.replace("", "");
 				String[] splitedLine = line.split(" - ", 2);
 				if (splitedLine.length < 2)
 					throw new RuntimeException(

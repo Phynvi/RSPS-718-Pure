@@ -1,4 +1,4 @@
-package com.rs.cores;
+﻿package com.rs.cores;
 
 import java.util.concurrent.ThreadFactory;
 import java.util.concurrent.atomic.AtomicInteger;

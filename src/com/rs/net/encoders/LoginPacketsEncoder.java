@@ -1,4 +1,4 @@
-package com.rs.net.encoders;
+﻿package com.rs.net.encoders;
 
 import org.jboss.netty.channel.ChannelFuture;
 import org.jboss.netty.channel.ChannelFutureListener;

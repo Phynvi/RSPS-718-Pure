@@ -1,4 +1,4 @@
-package com.rs.game.player.controlers.pestcontrol;
+﻿package com.rs.game.player.controlers.pestcontrol;
 
 import java.util.LinkedList;
 

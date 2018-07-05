@@ -1,4 +1,4 @@
-package com.rs.game.player.content;
+﻿package com.rs.game.player.content;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;

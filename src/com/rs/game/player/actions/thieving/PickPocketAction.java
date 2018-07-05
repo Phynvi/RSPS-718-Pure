@@ -1,4 +1,4 @@
-package com.rs.game.player.actions.thieving;
+﻿package com.rs.game.player.actions.thieving;
 
 import com.rs.game.Animation;
 import com.rs.game.ForceTalk;

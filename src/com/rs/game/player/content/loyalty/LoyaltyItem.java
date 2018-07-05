@@ -1,4 +1,4 @@
-package com.rs.game.player.content.loyalty;
+﻿package com.rs.game.player.content.loyalty;
 
 public class LoyaltyItem {
 

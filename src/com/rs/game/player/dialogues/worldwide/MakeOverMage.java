@@ -1,4 +1,4 @@
-package com.rs.game.player.dialogues.worldwide;
+﻿package com.rs.game.player.dialogues.worldwide;
 
 import com.rs.cache.loaders.NPCDefinitions;
 import com.rs.game.player.content.PlayerLook;

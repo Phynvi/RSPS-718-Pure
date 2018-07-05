@@ -1,4 +1,4 @@
-package com.rs.game.player.dialogues.halloween;
+﻿package com.rs.game.player.dialogues.halloween;
 
 import com.rs.cache.loaders.NPCDefinitions;
 import com.rs.game.player.controlers.TutorialIsland;

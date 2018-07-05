@@ -1,4 +1,4 @@
-package com.rs.game.player.dialogues;
+﻿package com.rs.game.player.dialogues;
 
 import com.rs.game.player.content.clans.ClansManager;
 import com.rs.game.player.dialogues.Dialogue;

@@ -1,4 +1,4 @@
-package com.rs.game.player.dialogues.auto;
+﻿package com.rs.game.player.dialogues.auto;
 
 import com.rs.game.WorldTile;
 import com.rs.game.item.Item;

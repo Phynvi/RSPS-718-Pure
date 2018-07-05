@@ -1,4 +1,4 @@
-package com.rs.game.npc.slayer;
+﻿package com.rs.game.npc.slayer;
 
 import com.rs.game.Animation;
 import com.rs.game.WorldTile;

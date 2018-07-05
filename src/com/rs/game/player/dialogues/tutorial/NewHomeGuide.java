@@ -1,4 +1,4 @@
-package com.rs.game.player.dialogues.tutorial;
+﻿package com.rs.game.player.dialogues.tutorial;
 
 import com.rs.cache.loaders.NPCDefinitions;
 import com.rs.game.player.controlers.NewHomeControler;

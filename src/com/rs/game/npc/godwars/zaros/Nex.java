@@ -1,4 +1,4 @@
-package com.rs.game.npc.godwars.zaros;
+﻿package com.rs.game.npc.godwars.zaros;
 
 import java.util.ArrayList;
 

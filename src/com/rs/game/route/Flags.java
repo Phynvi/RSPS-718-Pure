@@ -1,4 +1,4 @@
-package com.rs.game.route;
+﻿package com.rs.game.route;
 
 public final class Flags {
     

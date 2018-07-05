@@ -1,4 +1,4 @@
-package com.rs.game.player.controlers.undergroundpass;
+﻿package com.rs.game.player.controlers.undergroundpass;
 
 import java.io.Serializable;
 import java.util.Iterator;

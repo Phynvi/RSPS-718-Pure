@@ -1,4 +1,4 @@
-package com.rs.game.player.cutscenes;
+﻿package com.rs.game.player.cutscenes;
 
 import com.rs.Settings;
 import com.rs.cores.CoresManager;

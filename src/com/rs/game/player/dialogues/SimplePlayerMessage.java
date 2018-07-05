@@ -1,4 +1,4 @@
-package com.rs.game.player.dialogues;
+﻿package com.rs.game.player.dialogues;
 
 
 public class SimplePlayerMessage extends Dialogue {

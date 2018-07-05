@@ -1,4 +1,4 @@
-package com.rs.game.player.dialogues.Canifis;
+﻿package com.rs.game.player.dialogues.Canifis;
 
 import com.rs.cache.loaders.NPCDefinitions;
 import com.rs.game.item.Item;

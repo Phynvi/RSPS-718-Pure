@@ -1,4 +1,4 @@
-package com.rs.game.player.content;
+ï»¿package com.rs.game.player.content;
 
 import java.util.concurrent.CopyOnWriteArrayList;
 
@@ -579,11 +579,11 @@ public class Shop {
 
 
 
-			//korasi’s sword
+			//korasiâ€™s sword
 			case 18786:
 				return 200;
 
-			//vesta’s longsword
+			//vestaâ€™s longsword
 			case 13899:
 				return 200;
 

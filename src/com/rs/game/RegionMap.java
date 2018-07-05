@@ -1,4 +1,4 @@
-package com.rs.game;
+﻿package com.rs.game;
 
 /*
  * Author Alex(Also known as dragonkk)

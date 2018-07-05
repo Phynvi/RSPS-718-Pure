@@ -1,4 +1,4 @@
-package com.rs.game.player.dialogues.edgeville;
+﻿package com.rs.game.player.dialogues.edgeville;
 
 import com.rs.game.Animation;
 import com.rs.game.ForceMovement;

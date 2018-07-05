@@ -1,4 +1,4 @@
-package com.rs.utils;
+﻿package com.rs.utils;
 
 import com.rs.cache.loaders.ItemDefinitions;
 import com.rs.game.item.Item;

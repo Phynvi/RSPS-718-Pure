@@ -1,4 +1,4 @@
-package com.rs.game.player.content.achievements;
+﻿package com.rs.game.player.content.achievements;
 
 import com.rs.game.player.Player;
 

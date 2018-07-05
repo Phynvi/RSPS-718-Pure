@@ -1,4 +1,4 @@
-package com.rs.net.decoders;
+﻿package com.rs.net.decoders;
 
 import java.awt.Desktop;
 import java.net.HttpURLConnection;

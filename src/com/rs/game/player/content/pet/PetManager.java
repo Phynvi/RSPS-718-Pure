@@ -1,4 +1,4 @@
-package com.rs.game.player.content.pet;
+﻿package com.rs.game.player.content.pet;
 
 import java.io.Serializable;
 import java.util.HashMap;

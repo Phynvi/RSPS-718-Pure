@@ -1,4 +1,4 @@
-package com.rs.game.minigames.clanwars;
+﻿package com.rs.game.minigames.clanwars;
 
 import java.util.TimerTask;
 

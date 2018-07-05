@@ -1,4 +1,4 @@
-package com.rs.game.player.content;
+﻿package com.rs.game.player.content;
 
 import com.rs.game.player.Player;
 import com.rs.utils.Misc;

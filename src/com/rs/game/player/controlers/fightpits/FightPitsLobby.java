@@ -1,4 +1,4 @@
-package com.rs.game.player.controlers.fightpits;
+﻿package com.rs.game.player.controlers.fightpits;
 
 import com.rs.game.WorldObject;
 import com.rs.game.minigames.FightPits;

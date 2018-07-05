@@ -1,4 +1,4 @@
-package com.rs.utils.huffman;
+﻿package com.rs.utils.huffman;
 
 import com.rs.cache.Cache;
 import com.rs.io.InputStream;

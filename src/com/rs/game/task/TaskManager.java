@@ -1,4 +1,4 @@
-package com.rs.game.task;
+﻿package com.rs.game.task;
 
 import java.util.ArrayDeque;
 import java.util.ArrayList;

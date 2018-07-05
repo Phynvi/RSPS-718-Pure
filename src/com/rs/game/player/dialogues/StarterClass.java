@@ -1,4 +1,4 @@
-package com.rs.game.player.dialogues;
+ï»¿package com.rs.game.player.dialogues;
 
 import java.util.ArrayList;
 
@@ -54,7 +54,7 @@ public class StarterClass extends Dialogue {
                 player.getInventory().addItem(545, 10);//Monk robe top
                 player.getInventory().addItem(5699, 10);//Dragon dagger
                 player.getInventory().addItem(4588, 10);//Dragon scimitar
-                player.getInventory().addItem(2498, 10);//Black D’hide chaps
+                player.getInventory().addItem(2498, 10);//Black Dâ€™hide chaps
                 player.getInventory().addItem(565, 10000);//Blood rune
                 player.getInventory().addItem(555, 10000);//Water rune
                 player.getInventory().addItem(560, 10000);//Death rune
@@ -169,8 +169,8 @@ public class StarterClass extends Dialogue {
                 player.getInventory().addItem(4152, 10);//abyssal whip
                 player.getInventory().addItem(10843, 10);//Helm of neitzinot
                 player.getInventory().addItem(5699, 10);//Dragon dagger
-                player.getInventory().addItem(2504, 10);//Black D’hide body
-                player.getInventory().addItem(2498, 10);//Black D’hide chaps
+                player.getInventory().addItem(2504, 10);//Black Dâ€™hide body
+                player.getInventory().addItem(2498, 10);//Black Dâ€™hide chaps
                 player.getInventory().addItem(565, 10000);//Blood rune
                 player.getInventory().addItem(555, 10000);//Water rune
                 player.getInventory().addItem(560, 10000);//Death rune
@@ -206,7 +206,7 @@ public class StarterClass extends Dialogue {
                 player.getInventory().addItem(9186, 10);//rune crossbow
                 player.getInventory().addItem(1080, 10);//Rune Platelegs 
                 player.getInventory().addItem(9244, 1000);//Dragon bolt (e)
-                player.getInventory().addItem(2504, 10);//Black D’hide body
+                player.getInventory().addItem(2504, 10);//Black Dâ€™hide body
                 player.getInventory().addItem(11236, 10);//dark bow
                 player.getInventory().addItem(11212, 10);//Dragon arrow
                 player.getInventory().addItem(9075, 10000);//Astral rune

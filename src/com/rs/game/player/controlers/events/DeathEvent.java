@@ -1,4 +1,4 @@
-package com.rs.game.player.controlers.events;
+﻿package com.rs.game.player.controlers.events;
 
 import java.util.Arrays;
 import java.util.concurrent.TimeUnit;

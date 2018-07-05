@@ -1,4 +1,4 @@
-package com.rs.game.minigames.ectofuntus;
+﻿package com.rs.game.minigames.ectofuntus;
 
 import com.rs.game.Animation;
 import com.rs.game.player.Player;

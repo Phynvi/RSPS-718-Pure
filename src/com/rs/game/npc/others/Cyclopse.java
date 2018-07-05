@@ -1,4 +1,4 @@
-package com.rs.game.npc.others;
+﻿package com.rs.game.npc.others;
 
 import com.rs.game.Entity;
 import com.rs.game.World;

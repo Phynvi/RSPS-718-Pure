@@ -1,4 +1,4 @@
-package com.rs.game.player;
+﻿package com.rs.game.player;
 
 import com.rs.cache.Cache;
 import com.rs.cache.loaders.VarBitDefinitions;

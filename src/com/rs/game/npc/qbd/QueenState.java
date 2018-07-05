@@ -1,4 +1,4 @@
-package com.rs.game.npc.qbd;
+﻿package com.rs.game.npc.qbd;
 
 /**
  * Represents the Queen Black Dragon's states.

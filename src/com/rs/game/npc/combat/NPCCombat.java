@@ -1,4 +1,4 @@
-package com.rs.game.npc.combat;
+﻿package com.rs.game.npc.combat;
 
 import com.rs.game.Animation;
 import com.rs.game.Entity;

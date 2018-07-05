@@ -1,4 +1,4 @@
-package com.rs.game.npc.zombies;
+﻿package com.rs.game.npc.zombies;
 
 import com.rs.game.Animation;
 import com.rs.game.Entity;

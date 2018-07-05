@@ -1,4 +1,4 @@
-package com.rs.net.encoders;
+﻿package com.rs.net.encoders;
 
 import org.jboss.netty.buffer.ChannelBuffer;
 import org.jboss.netty.buffer.ChannelBuffers;

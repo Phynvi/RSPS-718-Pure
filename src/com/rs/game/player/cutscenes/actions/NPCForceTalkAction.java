@@ -1,4 +1,4 @@
-package com.rs.game.player.cutscenes.actions;
+﻿package com.rs.game.player.cutscenes.actions;
 
 import com.rs.game.ForceTalk;
 import com.rs.game.npc.NPC;

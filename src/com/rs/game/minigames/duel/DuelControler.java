@@ -1,4 +1,4 @@
-package com.rs.game.minigames.duel;
+﻿package com.rs.game.minigames.duel;
 
 import com.rs.game.WorldTile;
 import com.rs.game.player.Player;

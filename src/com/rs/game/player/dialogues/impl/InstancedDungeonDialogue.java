@@ -1,4 +1,4 @@
-package com.rs.game.player.dialogues.impl;
+﻿package com.rs.game.player.dialogues.impl;
 
 
 import java.text.NumberFormat;

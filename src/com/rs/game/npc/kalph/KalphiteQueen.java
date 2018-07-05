@@ -1,4 +1,4 @@
-package com.rs.game.npc.kalph;
+﻿package com.rs.game.npc.kalph;
 
 import com.rs.game.Animation;
 import com.rs.game.Entity;

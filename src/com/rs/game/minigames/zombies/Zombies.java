@@ -1,4 +1,4 @@
-package com.rs.game.minigames.zombies;
+﻿package com.rs.game.minigames.zombies;
 
 import java.util.List;
 import java.util.TimerTask;

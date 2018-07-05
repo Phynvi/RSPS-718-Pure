@@ -1,4 +1,4 @@
-package com.rs.game.player.dialogues;
+﻿package com.rs.game.player.dialogues;
 
 import com.rs.game.player.actions.GemCutting;
 import com.rs.game.player.actions.GemCutting.Gem;

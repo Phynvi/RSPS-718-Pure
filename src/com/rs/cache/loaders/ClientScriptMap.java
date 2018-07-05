@@ -1,4 +1,4 @@
-package com.rs.cache.loaders;
+﻿package com.rs.cache.loaders;
 
 import java.io.IOException;
 import java.util.HashMap;

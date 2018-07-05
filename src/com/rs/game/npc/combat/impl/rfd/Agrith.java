@@ -1,4 +1,4 @@
-package com.rs.game.npc.combat.impl.rfd;
+﻿package com.rs.game.npc.combat.impl.rfd;
 
 import com.rs.game.Animation;
 import com.rs.game.Entity;

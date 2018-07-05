@@ -1,4 +1,4 @@
-package com.rs.game.player.content;
+﻿package com.rs.game.player.content;
 
 import java.util.TimerTask;
 

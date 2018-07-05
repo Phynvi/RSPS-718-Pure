@@ -1,4 +1,4 @@
-package com.rs.game.player.content.clans;
+﻿package com.rs.game.player.content.clans;
 
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;

@@ -1,4 +1,4 @@
-package com.rs.game.player.dialogues.item;
+﻿package com.rs.game.player.dialogues.item;
 
 import com.rs.cache.loaders.NPCDefinitions;
 import com.rs.game.Animation;

@@ -1,4 +1,4 @@
-package com.rs.game.player.content.magic;
+﻿package com.rs.game.player.content.magic;
 
 import java.util.ArrayList;
 import java.util.List;

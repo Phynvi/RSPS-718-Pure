@@ -1,4 +1,4 @@
-package com.rs.game.player.dialogues.relekka;
+﻿package com.rs.game.player.dialogues.relekka;
 
 import com.rs.game.WorldTile;
 import com.rs.game.player.dialogues.Dialogue;

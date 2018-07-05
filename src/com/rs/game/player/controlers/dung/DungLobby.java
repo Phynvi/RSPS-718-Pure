@@ -1,4 +1,4 @@
-package com.rs.game.player.controlers.dung;
+﻿package com.rs.game.player.controlers.dung;
 
 import java.util.TimerTask;
 import java.util.concurrent.CopyOnWriteArrayList;

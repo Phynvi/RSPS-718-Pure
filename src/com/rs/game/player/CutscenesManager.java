@@ -1,4 +1,4 @@
-package com.rs.game.player;
+﻿package com.rs.game.player;
 
 import com.rs.game.player.cutscenes.Cutscene;
 import com.rs.game.player.cutscenes.CutscenesHandler;

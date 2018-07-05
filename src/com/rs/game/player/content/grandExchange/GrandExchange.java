@@ -1,4 +1,4 @@
-package com.rs.game.player.content.grandExchange;
+﻿package com.rs.game.player.content.grandExchange;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;

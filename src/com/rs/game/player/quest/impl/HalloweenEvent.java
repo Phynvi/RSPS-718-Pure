@@ -1,4 +1,4 @@
-package com.rs.game.player.quest.impl;
+﻿package com.rs.game.player.quest.impl;
 
 import com.rs.game.World;
 import com.rs.game.WorldObject;

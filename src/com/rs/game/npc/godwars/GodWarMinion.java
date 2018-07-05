@@ -1,4 +1,4 @@
-package com.rs.game.npc.godwars;
+﻿package com.rs.game.npc.godwars;
 
 import java.util.ArrayList;
 import java.util.List;

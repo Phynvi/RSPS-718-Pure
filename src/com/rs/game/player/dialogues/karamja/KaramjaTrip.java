@@ -1,4 +1,4 @@
-package com.rs.game.player.dialogues.karamja;
+﻿package com.rs.game.player.dialogues.karamja;
 
 import com.rs.game.WorldTile;
 import com.rs.game.item.Item;

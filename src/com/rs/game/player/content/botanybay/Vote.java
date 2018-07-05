@@ -1,4 +1,4 @@
-package com.rs.game.player.content.botanybay;
+﻿package com.rs.game.player.content.botanybay;
 
 import java.util.Map.Entry;
 import java.util.concurrent.ConcurrentHashMap;

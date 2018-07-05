@@ -1,4 +1,4 @@
-package com.rs.game.npc;
+﻿package com.rs.game.npc;
 
 public class Drop {
 

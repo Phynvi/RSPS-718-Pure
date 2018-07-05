@@ -1,4 +1,4 @@
-package com.rs.game.player.dialogues.barcrawl;
+﻿package com.rs.game.player.dialogues.barcrawl;
 
 import com.rs.cache.loaders.NPCDefinitions;
 import com.rs.game.Animation;

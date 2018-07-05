@@ -1,4 +1,4 @@
-package com.rs.game.npc.nomad;
+﻿package com.rs.game.npc.nomad;
 
 import java.util.ArrayList;
 

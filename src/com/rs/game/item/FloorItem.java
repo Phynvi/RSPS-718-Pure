@@ -1,4 +1,4 @@
-package com.rs.game.item;
+﻿package com.rs.game.item;
 
 import com.rs.game.WorldTile;
 import com.rs.game.player.Player;

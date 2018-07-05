@@ -1,4 +1,4 @@
-package com.rs.game.player.dialogues.swordofwiseman;
+﻿package com.rs.game.player.dialogues.swordofwiseman;
 
 
 import com.rs.cache.loaders.NPCDefinitions;

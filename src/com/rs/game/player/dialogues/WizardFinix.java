@@ -1,4 +1,4 @@
-package com.rs.game.player.dialogues;
+﻿package com.rs.game.player.dialogues;
 
 import com.rs.cache.loaders.NPCDefinitions;
 import com.rs.game.npc.NPC;

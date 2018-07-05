@@ -1,4 +1,4 @@
-package com.rs.net.decoders.handlers;
+﻿package com.rs.net.decoders.handlers;
 
 import java.util.Random;
 import java.util.TimerTask;

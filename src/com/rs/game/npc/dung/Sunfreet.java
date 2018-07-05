@@ -1,4 +1,4 @@
-package com.rs.game.npc.dung;
+﻿package com.rs.game.npc.dung;
 
 import com.rs.game.Hit;
 import com.rs.game.Hit.HitLook;

@@ -1,4 +1,4 @@
-package com.rs.game.player.dialogues.farming;
+﻿package com.rs.game.player.dialogues.farming;
 
 import com.rs.game.player.actions.farming.Herbs;
 import com.rs.game.player.dialogues.Dialogue;

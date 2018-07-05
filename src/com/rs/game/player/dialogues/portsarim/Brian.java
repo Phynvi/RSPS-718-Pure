@@ -1,4 +1,4 @@
-package com.rs.game.player.dialogues.portsarim;
+﻿package com.rs.game.player.dialogues.portsarim;
 
 import com.rs.game.player.dialogues.Dialogue;
 import com.rs.utils.ShopsHandler;

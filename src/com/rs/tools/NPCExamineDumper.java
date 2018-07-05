@@ -1,4 +1,4 @@
-package com.rs.tools;
+﻿package com.rs.tools;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

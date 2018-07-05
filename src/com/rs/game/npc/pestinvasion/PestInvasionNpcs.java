@@ -1,4 +1,4 @@
-package com.rs.game.npc.pestinvasion;
+﻿package com.rs.game.npc.pestinvasion;
 
 import java.util.ArrayList;
 import java.util.List;

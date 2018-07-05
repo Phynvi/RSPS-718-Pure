@@ -1,4 +1,4 @@
-package com.rs.game.npc.pet;
+﻿package com.rs.game.npc.pet;
 
 import com.rs.game.World;
 import com.rs.game.WorldTile;

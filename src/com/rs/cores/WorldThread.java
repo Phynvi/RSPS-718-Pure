@@ -1,4 +1,4 @@
-package com.rs.cores;
+﻿package com.rs.cores;
 
 import com.rs.Settings;
 import com.rs.game.World;

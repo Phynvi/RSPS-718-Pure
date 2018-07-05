@@ -1,4 +1,4 @@
-package com.rs.game.player.dialogues.lostcity;
+﻿package com.rs.game.player.dialogues.lostcity;
 
 import com.rs.game.player.Skills;
 import com.rs.game.player.dialogues.Dialogue;

@@ -1,4 +1,4 @@
-package com.rs.utils.player;
+﻿package com.rs.utils.player;
 
 /**
  * @author Tyluur <itstyluur@gmail.com>

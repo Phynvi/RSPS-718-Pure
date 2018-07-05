@@ -1,4 +1,4 @@
-package com.rs.game.npc.godwars.zaros;
+﻿package com.rs.game.npc.godwars.zaros;
 
 import com.rs.game.Entity;
 import com.rs.game.WorldTile;

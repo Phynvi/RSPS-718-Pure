@@ -1,4 +1,4 @@
-package com.rs.game.minigames;
+﻿package com.rs.game.minigames;
 
 import com.rs.game.npc.godwars.GodWarMinion;
 

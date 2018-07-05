@@ -1,4 +1,4 @@
-package com.rs.game.player.dialogues.skills;
+﻿package com.rs.game.player.dialogues.skills;
 
 import com.rs.game.WorldTile;
 import com.rs.game.player.content.magic.Magic;

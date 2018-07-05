@@ -1,4 +1,4 @@
-package com.rs.game.player.content.dungeoneering;
+﻿package com.rs.game.player.content.dungeoneering;
 
 public class RoomReference {
 

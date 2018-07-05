@@ -1,4 +1,4 @@
-package com.rs.game.npc.glacor;
+﻿package com.rs.game.npc.glacor;
 
 import java.util.ArrayList;
 import java.util.List;

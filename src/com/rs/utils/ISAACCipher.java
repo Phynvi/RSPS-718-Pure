@@ -1,4 +1,4 @@
-package com.rs.utils;
+﻿package com.rs.utils;
 /** * @author Graham Edgecombe */
 public class ISAACCipher {
 	/** * The golden ratio. */

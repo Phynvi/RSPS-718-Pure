@@ -1,4 +1,4 @@
-package com.rs.game.player.dialogues;
+﻿package com.rs.game.player.dialogues;
 
 import com.rs.game.player.content.construction.House.RoomReference;
 import com.rs.game.player.dialogues.Dialogue;

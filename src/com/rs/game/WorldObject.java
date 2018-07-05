@@ -1,4 +1,4 @@
-package com.rs.game;
+﻿package com.rs.game;
 
 import com.rs.cache.loaders.ObjectDefinitions;
 import com.rs.game.player.Player;

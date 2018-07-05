@@ -1,4 +1,4 @@
-package com.rs.game.npc.wguild;
+﻿package com.rs.game.npc.wguild;
 
 import com.rs.game.Entity;
 import com.rs.game.WorldTile;

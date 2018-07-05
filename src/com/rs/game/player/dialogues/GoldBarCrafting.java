@@ -1,4 +1,4 @@
-package com.rs.game.player.dialogues;
+﻿package com.rs.game.player.dialogues;
 
 
 public class GoldBarCrafting extends Dialogue {//Use this for jewelry Crafting if the interface won't work!

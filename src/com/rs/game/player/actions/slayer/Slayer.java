@@ -1,4 +1,4 @@
-package com.rs.game.player.actions.slayer;
+﻿package com.rs.game.player.actions.slayer;
 
 import java.util.ArrayList;
 import java.util.Collections;

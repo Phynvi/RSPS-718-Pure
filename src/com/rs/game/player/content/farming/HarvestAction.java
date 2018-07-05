@@ -1,4 +1,4 @@
-package com.rs.game.player.content.farming;
+﻿package com.rs.game.player.content.farming;
 
 import com.rs.cache.loaders.ItemDefinitions;
 import com.rs.game.Animation;

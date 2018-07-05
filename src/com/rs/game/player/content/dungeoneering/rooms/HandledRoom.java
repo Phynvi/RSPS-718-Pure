@@ -1,4 +1,4 @@
-package com.rs.game.player.content.dungeoneering.rooms;
+﻿package com.rs.game.player.content.dungeoneering.rooms;
 
 import com.rs.game.player.content.dungeoneering.DungeonConstants;
 import com.rs.game.player.content.dungeoneering.DungeonManager;

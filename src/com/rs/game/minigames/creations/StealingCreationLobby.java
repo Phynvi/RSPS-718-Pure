@@ -1,4 +1,4 @@
-package com.rs.game.minigames.creations;
+﻿package com.rs.game.minigames.creations;
 
 import com.rs.game.WorldTile;
 import com.rs.game.player.controlers.Controler;

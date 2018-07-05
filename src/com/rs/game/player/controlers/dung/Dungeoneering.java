@@ -1,4 +1,4 @@
-package com.rs.game.player.controlers.dung;
+﻿package com.rs.game.player.controlers.dung;
 
 import java.io.Serializable;
 import java.util.ArrayList;

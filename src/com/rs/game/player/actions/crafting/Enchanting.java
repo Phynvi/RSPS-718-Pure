@@ -1,4 +1,4 @@
-package com.rs.game.player.actions.crafting;
+﻿package com.rs.game.player.actions.crafting;
 
 
 import com.rs.cache.loaders.ItemDefinitions;

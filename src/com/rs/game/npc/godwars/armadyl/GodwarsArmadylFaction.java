@@ -1,4 +1,4 @@
-package com.rs.game.npc.godwars.armadyl;
+﻿package com.rs.game.npc.godwars.armadyl;
 
 import java.util.ArrayList;
 import java.util.List;
