@@ -58,7 +58,7 @@
       <systemPath>${project.basedir}/libs/FileStore.jar</systemPath>
     </dependency>
     <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
-    <dependency>
+   <dependency>
       <groupId>mysql</groupId>
       <artifactId>mysql-connector-java</artifactId>
       <version>8.0.11</version>
