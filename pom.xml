@@ -29,4 +29,39 @@
       </plugin>
     </plugins>
   </build>
+  <dependencies>
+  	<dependency>
+  		<groupId>org.jboss.netty</groupId>
+  		<artifactId>netty</artifactId>
+  		<version>3.2.10.Final</version>
+  		<scope>provided</scope>
+  	</dependency>
+  	<dependency>
+      <groupId>org.runetoplist</groupId>
+      <artifactId>runetoplist</artifactId>
+      <version>1.0</version>
+      <scope>system</scope>
+      <systemPath>${project.basedir}/libs/RuneTopList-2.1.jar</systemPath>
+    </dependency>
+    <dependency>
+      <groupId>com.alex.store</groupId>
+      <artifactId>FileStore</artifactId>
+      <version>1.0</version>
+      <scope>system</scope>
+      <systemPath>${project.basedir}/libs/FileStore.jar</systemPath>
+    </dependency>
+    <dependency>
+      <groupId>com.alex.store</groupId>
+      <artifactId>FileStore</artifactId>
+      <version>1.0</version>
+      <scope>system</scope>
+      <systemPath>${project.basedir}/libs/FileStore.jar</systemPath>
+    </dependency>
+    <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
+    <dependency>
+      <groupId>mysql</groupId>
+      <artifactId>mysql-connector-java</artifactId>
+      <version>8.0.11</version>
+    </dependency>
+  </dependencies>
 </project>
