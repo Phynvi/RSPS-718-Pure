@@ -29,7 +29,7 @@ public class Veronica extends Dialogue {
 				sendNPCDialogue(npcId, 9827, "Did you find him?");
 				stage = 6;
 			} else {
-				sendNPCDialogue(npcId, 9827, "Thanks for helping me find my fiancè!");
+				sendNPCDialogue(npcId, 9827, "Thanks for helping me find my fiance!");
 				stage = 9;
 			}
 			break;
