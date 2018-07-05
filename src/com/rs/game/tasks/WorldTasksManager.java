@@ -1,4 +1,4 @@
-﻿package com.rs.game.tasks;
+package com.rs.game.tasks;
 
 import java.util.Collections;
 import java.util.LinkedList;

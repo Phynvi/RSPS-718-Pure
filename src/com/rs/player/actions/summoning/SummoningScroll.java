@@ -1,4 +1,4 @@
-﻿package com.rs.player.actions.summoning;
+package com.rs.player.actions.summoning;
 
 import java.util.HashMap;
 import java.util.Map;

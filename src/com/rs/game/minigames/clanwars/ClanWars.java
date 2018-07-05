@@ -1,4 +1,4 @@
-﻿package com.rs.game.minigames.clanwars;
+package com.rs.game.minigames.clanwars;
 
 import java.io.Serializable;
 import java.util.ArrayList;

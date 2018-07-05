@@ -1,4 +1,4 @@
-﻿package com.rs.game.mysql;
+package com.rs.game.mysql;
 
 public class Query {
 

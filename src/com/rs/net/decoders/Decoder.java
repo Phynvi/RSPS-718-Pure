@@ -1,4 +1,4 @@
-﻿package com.rs.net.decoders;
+package com.rs.net.decoders;
 
 import com.rs.io.InputStream;
 import com.rs.net.Session;

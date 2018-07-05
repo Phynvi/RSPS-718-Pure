@@ -1,4 +1,4 @@
-﻿package com.rs.game.player.actions.mining;
+package com.rs.game.player.actions.mining;
 
 import com.rs.game.player.Player;
 import com.rs.game.player.Skills;

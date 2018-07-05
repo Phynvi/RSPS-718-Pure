@@ -1,4 +1,4 @@
-﻿package com.rs.game.npc.godwars.bandos;
+package com.rs.game.npc.godwars.bandos;
 
 import java.util.ArrayList;
 import java.util.List;

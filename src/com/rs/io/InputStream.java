@@ -1,4 +1,4 @@
-﻿package com.rs.io;
+package com.rs.io;
 
 import com.rs.game.player.Player;
 

@@ -1,4 +1,4 @@
-﻿package com.rs.game.player;
+package com.rs.game.player;
 
 import java.io.Serializable;
 import java.util.Arrays;

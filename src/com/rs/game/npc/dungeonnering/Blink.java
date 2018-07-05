@@ -1,4 +1,4 @@
-﻿package com.rs.game.npc.dungeonnering;
+package com.rs.game.npc.dungeonnering;
 
 import com.rs.game.Hit;
 import com.rs.game.Hit.HitLook;

@@ -1,4 +1,4 @@
-﻿package com.rs.game.npc.qbd;
+package com.rs.game.npc.qbd;
 
 import java.util.Iterator;
 

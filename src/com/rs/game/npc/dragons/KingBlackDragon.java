@@ -1,4 +1,4 @@
-﻿package com.rs.game.npc.dragons;
+package com.rs.game.npc.dragons;
 
 import com.rs.game.WorldTile;
 import com.rs.game.npc.NPC;

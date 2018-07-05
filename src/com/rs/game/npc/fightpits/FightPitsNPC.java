@@ -1,4 +1,4 @@
-﻿package com.rs.game.npc.fightpits;
+package com.rs.game.npc.fightpits;
 
 import java.util.ArrayList;
 

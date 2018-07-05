@@ -1,4 +1,4 @@
-﻿package com.rs.game.player.dialogues.auto;
+package com.rs.game.player.dialogues.auto;
 
 import com.rs.game.player.actions.Summoning;
 import com.rs.game.player.content.pet.Pets;

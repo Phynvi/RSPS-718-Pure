@@ -1,4 +1,4 @@
-﻿package com.rs.game.player.controlers;
+package com.rs.game.player.controlers;
 
 import com.rs.game.Animation;
 import com.rs.game.Entity;

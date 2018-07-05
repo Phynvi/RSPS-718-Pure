@@ -1,4 +1,4 @@
-﻿package com.rs.game.npc.zombies;
+package com.rs.game.npc.zombies;
 
 import java.util.ArrayList;
 import java.util.List;

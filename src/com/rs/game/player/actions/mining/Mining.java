@@ -1,4 +1,4 @@
-﻿package com.rs.game.player.actions.mining;
+package com.rs.game.player.actions.mining;
 
 import com.rs.cache.loaders.ItemDefinitions;
 import com.rs.game.Animation;

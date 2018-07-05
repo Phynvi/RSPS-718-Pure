@@ -1,4 +1,4 @@
-﻿package com.rs.game.player.dialogues.quests;
+package com.rs.game.player.dialogues.quests;
 
 import com.rs.game.Animation;
 import com.rs.game.player.Player;

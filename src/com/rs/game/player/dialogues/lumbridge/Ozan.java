@@ -1,4 +1,4 @@
-﻿package com.rs.game.player.dialogues.lumbridge;
+package com.rs.game.player.dialogues.lumbridge;
 
 import com.rs.game.WorldTile;
 import com.rs.game.player.dialogues.Dialogue;

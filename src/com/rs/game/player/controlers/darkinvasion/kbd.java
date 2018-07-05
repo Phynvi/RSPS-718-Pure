@@ -1,4 +1,4 @@
-﻿package com.rs.game.player.controlers.darkinvasion;
+package com.rs.game.player.controlers.darkinvasion;
 
 import java.util.ArrayList;
 import java.util.concurrent.TimeUnit;

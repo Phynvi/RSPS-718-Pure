@@ -1,4 +1,4 @@
-﻿package com.rs.game.mysql;
+package com.rs.game.mysql;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

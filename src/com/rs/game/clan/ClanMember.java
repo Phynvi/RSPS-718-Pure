@@ -1,4 +1,4 @@
-﻿package com.rs.game.clan;
+package com.rs.game.clan;
 
 import java.io.Serializable;
 

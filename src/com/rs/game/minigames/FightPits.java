@@ -1,4 +1,4 @@
-﻿package com.rs.game.minigames;
+package com.rs.game.minigames;
 
 import java.util.ArrayList;
 import java.util.Iterator;

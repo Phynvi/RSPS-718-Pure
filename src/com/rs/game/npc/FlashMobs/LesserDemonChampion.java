@@ -1,4 +1,4 @@
-﻿package com.rs.game.npc.FlashMobs;
+package com.rs.game.npc.FlashMobs;
 
 import com.rs.game.Graphics;
 import com.rs.game.Hit;

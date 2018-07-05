@@ -1,4 +1,4 @@
-﻿package com.rs.game.player.dialogues.worldwide;
+package com.rs.game.player.dialogues.worldwide;
 
 import com.rs.game.WorldTile;
 import com.rs.game.player.dialogues.Dialogue;

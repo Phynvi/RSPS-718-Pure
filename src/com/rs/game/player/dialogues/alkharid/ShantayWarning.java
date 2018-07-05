@@ -1,4 +1,4 @@
-﻿package com.rs.game.player.dialogues.alkharid;
+package com.rs.game.player.dialogues.alkharid;
 
 import com.rs.cache.loaders.NPCDefinitions;
 import com.rs.game.WorldTile;

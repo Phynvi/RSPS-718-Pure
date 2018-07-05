@@ -1,4 +1,4 @@
-﻿package com.rs.game.npc.godwars.saradomin;
+package com.rs.game.npc.godwars.saradomin;
 
 import java.util.ArrayList;
 import java.util.List;

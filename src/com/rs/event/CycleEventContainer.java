@@ -1,4 +1,4 @@
-﻿package com.rs.event;
+package com.rs.event;
 
 /**
  * The wrapper for our event

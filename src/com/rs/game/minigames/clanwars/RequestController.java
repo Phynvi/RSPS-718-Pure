@@ -1,4 +1,4 @@
-﻿package com.rs.game.minigames.clanwars;
+package com.rs.game.minigames.clanwars;
 
 import com.rs.game.Entity;
 import com.rs.game.WorldObject;

@@ -1,4 +1,4 @@
-﻿package com.rs.game.npc.fightkiln;
+package com.rs.game.npc.fightkiln;
 
 import java.util.ArrayList;
 import java.util.List;

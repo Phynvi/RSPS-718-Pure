@@ -1,4 +1,4 @@
-﻿package com.rs.game.map;
+package com.rs.game.map;
 
 import com.rs.utils.Utils;
 

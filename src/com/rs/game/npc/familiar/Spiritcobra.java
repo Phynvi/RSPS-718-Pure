@@ -1,4 +1,4 @@
-﻿package com.rs.game.npc.familiar;
+package com.rs.game.npc.familiar;
 
 import com.rs.game.WorldTile;
 import com.rs.game.player.Player;

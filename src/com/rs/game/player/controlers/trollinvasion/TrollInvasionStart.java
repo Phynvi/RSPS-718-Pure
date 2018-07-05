@@ -1,4 +1,4 @@
-﻿package com.rs.game.player.controlers.trollinvasion;
+package com.rs.game.player.controlers.trollinvasion;
 
 import com.rs.game.player.dialogues.Dialogue;
 

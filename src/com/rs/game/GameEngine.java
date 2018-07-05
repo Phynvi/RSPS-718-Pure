@@ -1,4 +1,4 @@
-﻿package com.rs.game;
+package com.rs.game;
 
 import java.util.Timer;
 import java.util.concurrent.ExecutorService;

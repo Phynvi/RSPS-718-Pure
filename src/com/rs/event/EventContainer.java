@@ -1,4 +1,4 @@
-﻿package com.rs.event;
+package com.rs.event;
 
 import com.rs.game.World;
 import com.rs.game.player.Player;

@@ -1,4 +1,4 @@
-﻿package com.rs.game.player.content.agility;
+package com.rs.game.player.content.agility;
 
 import com.rs.game.player.Player;
 import com.rs.game.player.Skills;

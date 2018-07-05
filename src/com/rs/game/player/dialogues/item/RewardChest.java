@@ -1,4 +1,4 @@
-﻿package com.rs.game.player.dialogues.item;
+package com.rs.game.player.dialogues.item;
 
 import com.rs.game.npc.qbd.QueenBlackDragon;
 import com.rs.game.player.dialogues.Dialogue;

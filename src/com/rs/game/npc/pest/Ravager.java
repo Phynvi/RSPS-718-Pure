@@ -1,4 +1,4 @@
-﻿package com.rs.game.npc.pest;
+package com.rs.game.npc.pest;
 
 import com.rs.game.WorldTile;
 import com.rs.game.minigames.pest.PestControl;

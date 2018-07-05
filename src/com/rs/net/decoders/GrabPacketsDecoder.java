@@ -1,4 +1,4 @@
-﻿package com.rs.net.decoders;
+package com.rs.net.decoders;
 
 import java.util.LinkedList;
 import java.util.concurrent.ExecutorService;

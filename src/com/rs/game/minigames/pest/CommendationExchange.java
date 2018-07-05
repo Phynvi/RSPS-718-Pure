@@ -1,4 +1,4 @@
-﻿package com.rs.game.minigames.pest;
+package com.rs.game.minigames.pest;
 
 import com.rs.cache.loaders.ItemDefinitions;
 import com.rs.game.player.Player;

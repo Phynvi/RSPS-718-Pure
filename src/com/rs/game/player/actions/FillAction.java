@@ -1,4 +1,4 @@
-﻿package com.rs.game.player.actions;
+package com.rs.game.player.actions;
 
 import java.util.HashMap;
 import java.util.Map;

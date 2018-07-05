@@ -1,4 +1,4 @@
-﻿package com.rs.io;
+package com.rs.io;
 
 public abstract class Stream {
 

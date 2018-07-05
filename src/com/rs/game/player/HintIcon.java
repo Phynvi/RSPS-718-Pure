@@ -1,4 +1,4 @@
-﻿package com.rs.game.player;
+package com.rs.game.player;
 
 public final class HintIcon {
 

@@ -1,4 +1,4 @@
-﻿package com.rs.game.player.dialogues.draynor;
+package com.rs.game.player.dialogues.draynor;
 
 import com.rs.game.player.dialogues.Dialogue;
 

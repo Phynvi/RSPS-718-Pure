@@ -1,4 +1,4 @@
-﻿package com.rs.game.npc.familiar;
+package com.rs.game.npc.familiar;
 
 public class Ghast {
 

@@ -1,4 +1,4 @@
-﻿package com.rs.game.player.content.botanybay;
+package com.rs.game.player.content.botanybay;
 
 import com.rs.game.World;
 import com.rs.game.player.Player;

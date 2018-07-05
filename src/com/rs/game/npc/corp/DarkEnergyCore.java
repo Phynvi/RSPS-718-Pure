@@ -1,4 +1,4 @@
-﻿package com.rs.game.npc.corp;
+package com.rs.game.npc.corp;
 
 import java.util.ArrayList;
 

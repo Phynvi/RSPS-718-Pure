@@ -1,4 +1,4 @@
-﻿package com.rs.tools;
+package com.rs.tools;
 
 import com.rs.utils.Utils;
 

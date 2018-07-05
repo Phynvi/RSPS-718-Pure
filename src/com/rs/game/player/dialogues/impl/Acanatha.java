@@ -1,4 +1,4 @@
-﻿package com.rs.game.player.dialogues.impl;
+package com.rs.game.player.dialogues.impl;
 
 import com.rs.game.World;
 import com.rs.game.player.Player;

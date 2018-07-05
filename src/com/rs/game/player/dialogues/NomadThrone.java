@@ -1,4 +1,4 @@
-﻿package com.rs.game.player.dialogues;
+package com.rs.game.player.dialogues;
 
 import com.rs.game.player.QuestManager.Quests;
 import com.rs.game.player.controlers.NomadsRequiem;

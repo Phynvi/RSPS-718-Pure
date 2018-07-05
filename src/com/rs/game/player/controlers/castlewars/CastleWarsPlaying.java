@@ -1,4 +1,4 @@
-﻿package com.rs.game.player.controlers.castlewars;
+package com.rs.game.player.controlers.castlewars;
 
 import java.util.List;
 

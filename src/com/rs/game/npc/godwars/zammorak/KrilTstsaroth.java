@@ -1,4 +1,4 @@
-﻿package com.rs.game.npc.godwars.zammorak;
+package com.rs.game.npc.godwars.zammorak;
 
 import java.util.ArrayList;
 import java.util.List;

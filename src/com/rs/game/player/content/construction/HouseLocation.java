@@ -1,4 +1,4 @@
-﻿package com.rs.game.player.content.construction;
+package com.rs.game.player.content.construction;
 
 import java.util.ArrayList;
 

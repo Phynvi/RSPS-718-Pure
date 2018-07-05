@@ -1,4 +1,4 @@
-﻿package com.rs.game.player.content.dungeoneering;
+package com.rs.game.player.content.dungeoneering;
 
 import com.rs.cache.loaders.NPCDefinitions;
 import com.rs.cores.CoresManager;

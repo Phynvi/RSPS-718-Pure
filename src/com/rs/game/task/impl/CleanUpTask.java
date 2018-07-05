@@ -1,4 +1,4 @@
-﻿package com.rs.game.task.impl;
+package com.rs.game.task.impl;
 
 import com.rs.Launcher;
 import com.rs.Settings;

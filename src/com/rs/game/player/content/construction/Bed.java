@@ -1,4 +1,4 @@
-﻿package com.rs.game.player.content.construction;
+package com.rs.game.player.content.construction;
 
 import com.rs.game.Animation;
 import com.rs.game.player.Player;

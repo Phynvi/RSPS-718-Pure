@@ -1,4 +1,4 @@
-﻿package com.rs.game.player.content.grandExchange;
+package com.rs.game.player.content.grandExchange;
 
 import com.rs.cache.loaders.ClientScriptMap;
 import com.rs.cache.loaders.ItemDefinitions;

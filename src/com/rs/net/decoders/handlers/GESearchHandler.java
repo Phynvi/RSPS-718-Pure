@@ -1,4 +1,4 @@
-﻿package com.rs.net.decoders.handlers;
+package com.rs.net.decoders.handlers;
 
 import com.rs.game.player.Player;
 import com.rs.io.InputStream;

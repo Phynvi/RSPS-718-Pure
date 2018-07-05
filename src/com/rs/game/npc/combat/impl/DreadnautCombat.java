@@ -1,4 +1,4 @@
-﻿package com.rs.game.npc.combat.impl;
+package com.rs.game.npc.combat.impl;
 
 import com.rs.game.task.impl.WorldTask;
 import com.rs.game.tasks.WorldTasksManager;

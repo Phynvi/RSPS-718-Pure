@@ -1,4 +1,4 @@
-﻿package com.rs.game.player.content.quests;
+package com.rs.game.player.content.quests;
 
 import com.rs.game.player.Player;
 

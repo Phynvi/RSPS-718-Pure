@@ -1,4 +1,4 @@
-﻿package com.rs.game.task;
+package com.rs.game.task;
 
 import com.rs.game.task.impl.CleanUpTask;
 

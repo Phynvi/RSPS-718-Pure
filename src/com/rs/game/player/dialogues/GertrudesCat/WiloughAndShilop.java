@@ -1,4 +1,4 @@
-﻿package com.rs.game.player.dialogues.GertrudesCat;
+package com.rs.game.player.dialogues.GertrudesCat;
 
 import com.rs.cache.loaders.NPCDefinitions;
 import com.rs.game.item.Item;

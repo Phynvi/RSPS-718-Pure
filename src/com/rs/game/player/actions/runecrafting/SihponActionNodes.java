@@ -1,4 +1,4 @@
-﻿package com.rs.game.player.actions.runecrafting;
+package com.rs.game.player.actions.runecrafting;
 
 import com.rs.game.Animation;
 import com.rs.game.Graphics;

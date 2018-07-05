@@ -1,4 +1,4 @@
-﻿package com.rs.game.npc.pest;
+package com.rs.game.npc.pest;
 
 import java.util.ArrayList;
 import java.util.List;

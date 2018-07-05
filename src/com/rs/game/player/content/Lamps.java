@@ -1,4 +1,4 @@
-﻿package com.rs.game.player.content;
+package com.rs.game.player.content;
 
 import com.rs.cache.loaders.ClientScriptMap;
 import com.rs.game.item.Item;

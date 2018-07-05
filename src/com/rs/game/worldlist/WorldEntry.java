@@ -1,4 +1,4 @@
-﻿package com.rs.game.worldlist;
+package com.rs.game.worldlist;
 
 public class WorldEntry {
 

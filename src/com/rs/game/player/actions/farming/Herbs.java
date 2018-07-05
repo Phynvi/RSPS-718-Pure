@@ -1,4 +1,4 @@
-﻿package com.rs.game.player.actions.farming;
+package com.rs.game.player.actions.farming;
 
 import com.rs.game.Animation;
 import com.rs.game.player.Player;

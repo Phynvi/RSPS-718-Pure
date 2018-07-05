@@ -1,4 +1,4 @@
-﻿package com.rs.game.minigames.pest;
+package com.rs.game.minigames.pest;
 
 import java.util.Collections;
 import java.util.Iterator;

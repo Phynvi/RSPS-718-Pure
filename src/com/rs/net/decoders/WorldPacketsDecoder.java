@@ -1,4 +1,4 @@
-﻿package com.rs.net.decoders;
+package com.rs.net.decoders;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;

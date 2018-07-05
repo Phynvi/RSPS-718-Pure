@@ -1,4 +1,4 @@
-﻿package com.rs.game.player.actions.divination;
+package com.rs.game.player.actions.divination;
 
 
 import com.rs.game.Animation;

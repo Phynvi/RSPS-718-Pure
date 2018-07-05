@@ -1,4 +1,4 @@
-﻿package com.rs.game.npc.glacor;
+package com.rs.game.npc.glacor;
 
 import com.rs.game.Entity;
 import com.rs.game.Graphics;

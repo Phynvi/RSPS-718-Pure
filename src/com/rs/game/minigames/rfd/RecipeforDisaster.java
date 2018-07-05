@@ -1,4 +1,4 @@
-﻿package com.rs.game.minigames.rfd;
+package com.rs.game.minigames.rfd;
 
 import java.util.List;
 import java.util.TimerTask;

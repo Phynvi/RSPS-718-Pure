@@ -1,4 +1,4 @@
-﻿package com.rs.game.npc.combat;
+package com.rs.game.npc.combat;
 
 public class NPCCombatDefinitions {
 

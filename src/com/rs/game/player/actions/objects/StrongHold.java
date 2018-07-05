@@ -1,4 +1,4 @@
-﻿package com.rs.game.player.actions.objects;
+package com.rs.game.player.actions.objects;
 
 import com.rs.game.WorldObject;
 

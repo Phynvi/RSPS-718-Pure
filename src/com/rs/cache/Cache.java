@@ -1,4 +1,4 @@
-﻿package com.rs.cache;
+package com.rs.cache;
 
 import com.alex.io.OutputStream;
 import com.alex.store.Store;

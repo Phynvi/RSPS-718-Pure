@@ -1,4 +1,4 @@
-﻿package com.rs.net.encoders;
+package com.rs.net.encoders;
 
 import com.rs.net.Session;
 

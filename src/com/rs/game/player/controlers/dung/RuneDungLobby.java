@@ -1,4 +1,4 @@
-﻿package com.rs.game.player.controlers.dung;
+package com.rs.game.player.controlers.dung;
 
 import com.rs.game.WorldObject;
 import com.rs.game.WorldTile;

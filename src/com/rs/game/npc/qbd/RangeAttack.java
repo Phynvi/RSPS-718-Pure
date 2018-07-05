@@ -1,4 +1,4 @@
-﻿package com.rs.game.npc.qbd;
+package com.rs.game.npc.qbd;
 
 import com.rs.game.Animation;
 import com.rs.game.Graphics;

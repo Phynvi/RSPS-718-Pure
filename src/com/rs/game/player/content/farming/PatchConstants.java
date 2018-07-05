@@ -1,4 +1,4 @@
-﻿package com.rs.game.player.content.farming;
+package com.rs.game.player.content.farming;
 
 import java.util.HashMap;
 import java.util.Map;

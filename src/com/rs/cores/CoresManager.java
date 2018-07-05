@@ -1,4 +1,4 @@
-﻿package com.rs.cores;
+package com.rs.cores;
 
 import java.util.Timer;
 import java.util.concurrent.ExecutorService;

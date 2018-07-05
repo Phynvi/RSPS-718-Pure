@@ -1,4 +1,4 @@
-﻿package com.rs.game.player.actions.divination;
+package com.rs.game.player.actions.divination;
 
 import java.util.HashMap;
 import java.util.Map;

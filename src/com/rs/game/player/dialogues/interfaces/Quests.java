@@ -1,4 +1,4 @@
-﻿package com.rs.game.player.dialogues.interfaces;
+package com.rs.game.player.dialogues.interfaces;
 
 import com.rs.game.player.dialogues.Dialogue;
 import com.rs.game.player.dialogues.quests.CooksAssistant;

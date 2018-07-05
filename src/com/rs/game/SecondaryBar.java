@@ -1,4 +1,4 @@
-﻿package com.rs.game;
+package com.rs.game;
 
 public class SecondaryBar {
 

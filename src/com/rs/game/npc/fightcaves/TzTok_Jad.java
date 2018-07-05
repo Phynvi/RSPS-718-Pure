@@ -1,4 +1,4 @@
-﻿package com.rs.game.npc.fightcaves;
+package com.rs.game.npc.fightcaves;
 
 import com.rs.game.Animation;
 import com.rs.game.Entity;

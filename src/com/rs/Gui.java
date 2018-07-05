@@ -1,4 +1,4 @@
-﻿package com.rs;
+package com.rs;
 
 import java.awt.EventQueue;
 

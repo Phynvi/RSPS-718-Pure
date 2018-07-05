@@ -1,4 +1,4 @@
-﻿package com.rs.game.npc;
+package com.rs.game.npc;
 
 import java.io.Serializable;
 import java.util.ArrayList;

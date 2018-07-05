@@ -1,4 +1,4 @@
-﻿package com.rs.game.player.controlers.fightpits;
+package com.rs.game.player.controlers.fightpits;
 
 import com.rs.game.Animation;
 import com.rs.game.Entity;

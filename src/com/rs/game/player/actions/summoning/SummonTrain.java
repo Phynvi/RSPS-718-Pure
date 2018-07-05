@@ -1,4 +1,4 @@
-﻿package com.rs.game.player.actions.summoning;
+package com.rs.game.player.actions.summoning;
 
 import com.rs.cache.loaders.ItemDefinitions;
 import com.rs.game.player.Player;

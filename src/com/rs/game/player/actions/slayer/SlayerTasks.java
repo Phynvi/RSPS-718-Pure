@@ -1,4 +1,4 @@
-﻿package com.rs.game.player.actions.slayer;
+package com.rs.game.player.actions.slayer;
 
 /**
  * This is a list of assignable tasks

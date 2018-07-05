@@ -1,4 +1,4 @@
-﻿package com.rs.game.npc.sorgar;
+package com.rs.game.npc.sorgar;
 
 import java.util.ArrayList;
 import java.util.List;

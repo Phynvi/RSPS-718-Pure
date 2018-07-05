@@ -1,4 +1,4 @@
-﻿/***
+/***
 ** Author: Danny
 ** Date: December 3, 2013
 ** Usage: A module used to integrate a Runescape Server with IPBoard forums.

@@ -1,4 +1,4 @@
-﻿package com.rs.game.player.quests;
+package com.rs.game.player.quests;
 
 import java.util.ArrayList;
 import java.util.HashMap;

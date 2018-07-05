@@ -1,4 +1,4 @@
-﻿package com.rs.game.player.dialogues.varrock;
+package com.rs.game.player.dialogues.varrock;
 
 import com.rs.game.player.dialogues.Dialogue;
 import com.rs.utils.ShopsHandler;

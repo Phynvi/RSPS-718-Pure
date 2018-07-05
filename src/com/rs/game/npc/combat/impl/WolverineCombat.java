@@ -1,4 +1,4 @@
-﻿package com.rs.game.npc.combat.impl;
+package com.rs.game.npc.combat.impl;
 
 import java.util.Random;
 

@@ -1,4 +1,4 @@
-﻿package com.rs.game.npc.nomad;
+package com.rs.game.npc.nomad;
 
 import com.rs.game.Hit;
 import com.rs.game.WorldTile;

@@ -1,4 +1,4 @@
-﻿package com.rs.game.npc.others;
+package com.rs.game.npc.others;
 
 import com.rs.game.Graphics;
 import com.rs.game.Hit;

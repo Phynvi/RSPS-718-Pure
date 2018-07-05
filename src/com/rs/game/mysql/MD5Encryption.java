@@ -1,4 +1,4 @@
-﻿package com.rs.game.mysql;
+package com.rs.game.mysql;
 
 import java.io.UnsupportedEncodingException;
 import java.security.MessageDigest;

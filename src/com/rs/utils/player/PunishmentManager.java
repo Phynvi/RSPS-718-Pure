@@ -1,4 +1,4 @@
-﻿package com.rs.utils.player;
+package com.rs.utils.player;
 
 import java.io.File;
 import java.io.Serializable;

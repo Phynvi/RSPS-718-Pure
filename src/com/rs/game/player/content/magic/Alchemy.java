@@ -1,4 +1,4 @@
-﻿package com.rs.game.player.content.magic;
+package com.rs.game.player.content.magic;
 
 import com.rs.cache.loaders.ItemDefinitions;
 import com.rs.game.Animation;

@@ -1,4 +1,4 @@
-﻿package com.rs.game.npc.fightcaves;
+package com.rs.game.npc.fightcaves;
 
 import java.util.ArrayList;
 import java.util.List;

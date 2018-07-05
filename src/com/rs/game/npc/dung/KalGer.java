@@ -1,4 +1,4 @@
-﻿package com.rs.game.npc.dung;
+package com.rs.game.npc.dung;
 
 import java.util.ArrayList;
 import java.util.Collections;

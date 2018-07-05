@@ -1,4 +1,4 @@
-﻿package com.rs.game.npc.dungeonnering;
+package com.rs.game.npc.dungeonnering;
 
 import com.rs.game.Entity;
 import com.rs.game.WorldTile;

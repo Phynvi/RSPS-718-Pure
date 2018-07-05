@@ -1,4 +1,4 @@
-﻿package com.rs.game.minigames.zombies;
+package com.rs.game.minigames.zombies;
 
 /**
  * @author Adam

@@ -1,4 +1,4 @@
-﻿package com.rs.game.player.content;
+package com.rs.game.player.content;
 
 import com.rs.game.item.Item;
 import com.rs.game.item.ItemsContainer;

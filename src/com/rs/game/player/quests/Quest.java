@@ -1,4 +1,4 @@
-﻿package com.rs.game.player.quests;
+package com.rs.game.player.quests;
 
 import com.rs.game.player.Player;
 import com.rs.game.player.quests.QuestManager.Progress;

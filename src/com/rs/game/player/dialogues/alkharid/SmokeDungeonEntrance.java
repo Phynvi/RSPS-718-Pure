@@ -1,4 +1,4 @@
-﻿package com.rs.game.player.dialogues.alkharid;
+package com.rs.game.player.dialogues.alkharid;
 
 import com.rs.game.WorldTile;
 import com.rs.game.item.Item;

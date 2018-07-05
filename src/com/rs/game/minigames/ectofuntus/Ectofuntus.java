@@ -1,4 +1,4 @@
-﻿package com.rs.game.minigames.ectofuntus;
+package com.rs.game.minigames.ectofuntus;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,4 +1,4 @@
-﻿package com.rs.game.npc.vorago;
+package com.rs.game.npc.vorago;
 
 import com.rs.game.Entity;
 import com.rs.game.Graphics;

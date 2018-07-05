@@ -1,4 +1,4 @@
-﻿package com.rs.game.npc.corp;
+package com.rs.game.npc.corp;
 
 import com.rs.game.Entity;
 import com.rs.game.WorldTile;

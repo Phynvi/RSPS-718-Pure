@@ -1,4 +1,4 @@
-﻿package com.rs.game.player.controlers;
+package com.rs.game.player.controlers;
 
 import java.io.Serializable;
 import java.util.ArrayList;

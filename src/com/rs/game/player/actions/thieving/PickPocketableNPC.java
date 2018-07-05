@@ -1,4 +1,4 @@
-﻿package com.rs.game.player.actions.thieving;
+package com.rs.game.player.actions.thieving;
 
 import java.util.HashMap;
 import java.util.Map;

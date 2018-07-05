@@ -1,4 +1,4 @@
-﻿package com.rs.game.player;
+package com.rs.game.player;
 
 import java.util.ArrayList;
 import java.util.List;
